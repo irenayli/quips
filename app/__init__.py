@@ -1,5 +1,6 @@
-from flask import Flask, request, jsonify, render_template
 import csv
+from flask import Flask, request, jsonify, render_template
+from utils.translation import translate
 
 app = Flask(__name__,
             static_url_path='',
@@ -58,7 +59,7 @@ def index():
 
 @app.route('/api/translate/', methods=['POST'])
 def translate():
-    data = request.get_json()
+    data = request.form
 
     request_error = None
     if 'text' not in data:
@@ -67,8 +68,12 @@ def translate():
         request_error = 'No "target_lang" (target language) provided'
     if 'correlation' not in data:
         request_error = 'No "correlation" (closeness to target language) provided'
-    
     if request_error:
         return jsonify({'error': request_error}), 400
     
-    return jsonify({'text': data['text']})
+    result = translate(
+        text=data['text'],
+        target_language=data['target_lang']
+    )
+    
+    return jsonify({'result': result})

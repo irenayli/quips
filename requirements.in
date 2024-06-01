@@ -2,10 +2,15 @@ flask==3.0.3
 
 # cpu only torch
 --extra-index-url https://download.pytorch.org/whl/cpu
-torch==2.3.0+cpu
+torch==2.3.0
 
 # translation
 fasttext
 transformers
 sentencepiece
+accelerate
 protobuf
+
+# slider/ language data
+pandas
+numpy

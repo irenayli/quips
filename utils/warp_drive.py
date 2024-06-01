@@ -30,8 +30,6 @@ def get_target_language(
     # transform to data space
     similarity_target = transform_to_data_space(slider_value, language_data['Similarity'].values)
     # find closest language
-    min_error = min(abs(language_data['Similarity'] - similarity_target))
-    # target_language = language_data[language_data['distance_to_target'] == min(language_data['distance_to_target'].values)]['ISO_2'].values[0]  # TODO: improve
-    target_language = lang_similarites.iloc[(lang_similarites['Similarity']-min_error).abs().argsort()[0]]['ISO_2']
+    target_language = lang_similarites.iloc[(lang_similarites['Similarity']-similarity_target).abs().argsort()[0]]['ISO_2']
     
     return target_language

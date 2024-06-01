@@ -1,9 +1,11 @@
 flask==3.0.3
 
+# cpu only torch
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch==2.3.0+cpu
 
 # translation
 fasttext
 transformers
-accelerate
 sentencepiece
 protobuf

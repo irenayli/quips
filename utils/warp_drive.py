@@ -23,9 +23,7 @@ def transform_to_data_space(slider_value, data_values, slider_min = 3, slider_ma
 
 def get_target_language(
     slider_value: float, 
-    source_language: str, 
-    similarity_target: float,
-    language_data: pd.DataFrame = lang_similarites,
+    source_language: str
 ) -> str:
     # get relevant rows
     language_data = lang_similarites[lang_similarites['ISO_1'] == source_language]

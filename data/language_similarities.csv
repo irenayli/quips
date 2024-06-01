@@ -1,0 +1,2909 @@
+,ISO_1,LangName_1,ISO_2,LangName_2,Similarity,Robustness
+374,afr,Afrikaans,amh,Amharic,0.626,Medium
+375,afr,Afrikaans,arb,Standard Arabic,0.313,High
+377,afr,Afrikaans,ary,Moroccan Arabic,0.085,Medium
+378,afr,Afrikaans,arz,Egyptian Arabic,0.258,Medium
+379,afr,Afrikaans,asm,Assamese,0.998,High
+387,afr,Afrikaans,bel,Belarusian,3.298,Medium
+388,afr,Afrikaans,ben,Bengali,1.217,High
+393,afr,Afrikaans,bul,Bulgarian,2.505,High
+395,afr,Afrikaans,cat,Catalan,2.721,High
+397,afr,Afrikaans,ceb,Cebuano,2.029,Medium
+398,afr,Afrikaans,ces,Czech,2.548,High
+406,afr,Afrikaans,ckb,Central Kurdish,0.126,Medium
+407,afr,Afrikaans,cmn,Mandarin Chinese,0.12,High
+413,afr,Afrikaans,cym,Welsh,2.595,Medium
+414,afr,Afrikaans,dan,Danish,6.235,High
+415,afr,Afrikaans,deu,German,6.184,High
+420,afr,Afrikaans,ell,Modern Greek,1.235,High
+421,afr,Afrikaans,eng,English,3.483,High
+424,afr,Afrikaans,eus,Basque,2.228,High
+431,afr,Afrikaans,fin,Finnish,1.559,High
+432,afr,Afrikaans,fra,French,2.879,High
+441,afr,Afrikaans,gle,Irish,2.474,Medium
+442,afr,Afrikaans,glg,Galician,2.944,High
+446,afr,Afrikaans,guj,Gujarati,1.455,High
+450,afr,Afrikaans,heb,Hebrew,0.629,High
+453,afr,Afrikaans,hin,Hindi,1.236,High
+454,afr,Afrikaans,hrv,Croatian,2.227,High
+456,afr,Afrikaans,hun,Hungarian,2.733,High
+457,afr,Afrikaans,hye,Armenian,1.2,Medium
+458,afr,Afrikaans,ibo,Igbo,0.337,Low
+460,afr,Afrikaans,ind,Indonesian,1.395,High
+461,afr,Afrikaans,isl,Icelandic,2.8,High
+462,afr,Afrikaans,ita,Italian,3.333,High
+465,afr,Afrikaans,jav,Javanese,0.497,Low
+466,afr,Afrikaans,jpn,Japanese,1.367,High
+470,afr,Afrikaans,kan,Kannada,0.671,High
+472,afr,Afrikaans,kat,Georgian,1.463,Medium
+473,afr,Afrikaans,kaz,Kazakh,1.723,Medium
+475,afr,Afrikaans,khm,Khmer,0.457,Medium
+478,afr,Afrikaans,kir,Kirghiz,1.614,Medium
+483,afr,Afrikaans,kor,Korean,0.615,High
+490,afr,Afrikaans,lao,Lao,0.344,Medium
+496,afr,Afrikaans,lit,Lithuanian,2.563,High
+502,afr,Afrikaans,lug,Ganda,0.211,Medium
+503,afr,Afrikaans,luo,Luo,0.822,Medium
+506,afr,Afrikaans,mal,Malayalam,0.815,High
+507,afr,Afrikaans,mar,Marathi,0.59,Medium
+513,afr,Afrikaans,mkd,Macedonian,3.064,Medium
+514,afr,Afrikaans,mlt,Maltese,3.186,Medium
+515,afr,Afrikaans,mni,Manipuri,0.614,Medium
+521,afr,Afrikaans,mya,Burmese,0.515,Medium
+530,afr,Afrikaans,nld,Dutch,8.62,High
+532,afr,Afrikaans,nno,Norwegian Nynorsk,5.828,Medium
+533,afr,Afrikaans,nob,Norwegian Bokmål,5.926,High
+540,afr,Afrikaans,pan,Panjabi,1.452,High
+547,afr,Afrikaans,pol,Polish,2.135,High
+548,afr,Afrikaans,por,Portuguese,3.618,High
+554,afr,Afrikaans,ron,Romanian,2.51,High
+557,afr,Afrikaans,rus,Russian,2.286,High
+567,afr,Afrikaans,slk,Slovak,2.036,High
+568,afr,Afrikaans,slv,Slovenian,2.375,High
+572,afr,Afrikaans,snd,Sindhi,0.441,Low
+573,afr,Afrikaans,som,Somali,0.96,Low
+575,afr,Afrikaans,spa,Spanish,2.598,High
+583,afr,Afrikaans,swe,Swedish,5.806,High
+586,afr,Afrikaans,tam,Tamil,0.452,High
+588,afr,Afrikaans,tel,Telugu,0.667,High
+590,afr,Afrikaans,tgk,Tajik,1.929,Medium
+591,afr,Afrikaans,tgl,Tagalog,2.282,Medium
+592,afr,Afrikaans,tha,Thai,0.528,High
+599,afr,Afrikaans,tur,Turkish,2.156,High
+604,afr,Afrikaans,ukr,Ukrainian,2.964,High
+605,afr,Afrikaans,urd,Urdu,1.286,High
+609,afr,Afrikaans,vie,Vietnamese,0.675,High
+620,afr,Afrikaans,yor,Yoruba,0.366,Medium
+623,afr,Afrikaans,zsm,Standard Malay,1.572,High
+624,afr,Afrikaans,zul,Zulu,0.666,Medium
+878,amh,Amharic,arb,Standard Arabic,0.397,Medium
+880,amh,Amharic,ary,Moroccan Arabic,0.2,Low
+881,amh,Amharic,arz,Egyptian Arabic,0.243,Medium
+882,amh,Amharic,asm,Assamese,0.465,Medium
+889,amh,Amharic,bel,Belarusian,0.233,Medium
+890,amh,Amharic,ben,Bengali,0.385,Medium
+893,amh,Amharic,bul,Bulgarian,0.129,Medium
+894,amh,Amharic,cat,Catalan,0.311,Medium
+895,amh,Amharic,ceb,Cebuano,0.216,Medium
+896,amh,Amharic,ces,Czech,0.398,Medium
+902,amh,Amharic,cmn,Mandarin Chinese,0.034,Medium
+907,amh,Amharic,cym,Welsh,0.302,Medium
+908,amh,Amharic,dan,Danish,0.313,Medium
+909,amh,Amharic,deu,German,0.294,Medium
+912,amh,Amharic,ell,Modern Greek,0.266,Medium
+913,amh,Amharic,eng,English,0.144,Medium
+915,amh,Amharic,eus,Basque,0.165,Medium
+919,amh,Amharic,fin,Finnish,0.048,Medium
+920,amh,Amharic,fra,French,0.19,Medium
+926,amh,Amharic,gle,Irish,0.137,Medium
+927,amh,Amharic,glg,Galician,0.215,Medium
+931,amh,Amharic,guj,Gujarati,0.569,Medium
+934,amh,Amharic,heb,Hebrew,0.246,Medium
+937,amh,Amharic,hin,Hindi,0.377,Medium
+938,amh,Amharic,hrv,Croatian,0.113,Medium
+940,amh,Amharic,hun,Hungarian,0.259,Medium
+941,amh,Amharic,hye,Armenian,0.27,Medium
+942,amh,Amharic,ind,Indonesian,0.123,Medium
+943,amh,Amharic,isl,Icelandic,0.197,Medium
+944,amh,Amharic,ita,Italian,0.193,Medium
+945,amh,Amharic,jpn,Japanese,0.06,Medium
+947,amh,Amharic,kan,Kannada,0.211,Medium
+949,amh,Amharic,kat,Georgian,0.332,Medium
+950,amh,Amharic,kaz,Kazakh,0.541,Medium
+952,amh,Amharic,kir,Kirghiz,0.719,Medium
+955,amh,Amharic,kor,Korean,0.037,Medium
+959,amh,Amharic,lao,Lao,0.271,Medium
+963,amh,Amharic,lit,Lithuanian,0.103,Medium
+966,amh,Amharic,lug,Ganda,0.193,Medium
+967,amh,Amharic,luo,Luo,0.284,Medium
+968,amh,Amharic,mal,Malayalam,0.189,Medium
+969,amh,Amharic,mar,Marathi,0.069,Medium
+971,amh,Amharic,mkd,Macedonian,0.311,Medium
+972,amh,Amharic,mlt,Maltese,1.068,Medium
+973,amh,Amharic,mni,Manipuri,0.112,Medium
+983,amh,Amharic,nld,Dutch,0.44,Medium
+985,amh,Amharic,nno,Norwegian Nynorsk,0.319,Medium
+986,amh,Amharic,nob,Norwegian Bokmål,0.356,Medium
+991,amh,Amharic,pan,Panjabi,0.608,Medium
+997,amh,Amharic,pol,Polish,0.169,Medium
+998,amh,Amharic,por,Portuguese,0.259,Medium
+1002,amh,Amharic,ron,Romanian,0.16,Medium
+1005,amh,Amharic,rus,Russian,0.17,Medium
+1013,amh,Amharic,slk,Slovak,0.156,Medium
+1014,amh,Amharic,slv,Slovenian,0.209,Medium
+1017,amh,Amharic,snd,Sindhi,0.259,Low
+1018,amh,Amharic,som,Somali,1.36,Low
+1020,amh,Amharic,spa,Spanish,0.243,Medium
+1026,amh,Amharic,swe,Swedish,0.196,Medium
+1028,amh,Amharic,tam,Tamil,0.164,Medium
+1030,amh,Amharic,tel,Telugu,0.113,Medium
+1032,amh,Amharic,tgk,Tajik,0.461,Medium
+1033,amh,Amharic,tgl,Tagalog,0.535,Medium
+1034,amh,Amharic,tha,Thai,0.059,Medium
+1039,amh,Amharic,tur,Turkish,0.26,Medium
+1041,amh,Amharic,ukr,Ukrainian,0.358,Medium
+1042,amh,Amharic,urd,Urdu,0.431,Medium
+1044,amh,Amharic,vie,Vietnamese,0.17,Medium
+1051,amh,Amharic,zsm,Standard Malay,0.203,Medium
+1052,amh,Amharic,zul,Zulu,0.247,Medium
+1113,arb,Standard Arabic,ary,Moroccan Arabic,0.423,Medium
+1114,arb,Standard Arabic,arz,Egyptian Arabic,1.085,Medium
+1115,arb,Standard Arabic,asm,Assamese,0.243,High
+1123,arb,Standard Arabic,bel,Belarusian,0.33,High
+1124,arb,Standard Arabic,ben,Bengali,0.295,High
+1128,arb,Standard Arabic,bul,Bulgarian,0.236,High
+1130,arb,Standard Arabic,cat,Catalan,0.282,High
+1132,arb,Standard Arabic,ceb,Cebuano,0.065,Medium
+1133,arb,Standard Arabic,ces,Czech,0.255,High
+1141,arb,Standard Arabic,ckb,Central Kurdish,0.082,Medium
+1142,arb,Standard Arabic,cmn,Mandarin Chinese,0.037,High
+1148,arb,Standard Arabic,cym,Welsh,0.146,High
+1149,arb,Standard Arabic,dan,Danish,0.198,High
+1150,arb,Standard Arabic,deu,German,0.238,High
+1154,arb,Standard Arabic,ell,Modern Greek,0.191,High
+1155,arb,Standard Arabic,eng,English,0.189,High
+1158,arb,Standard Arabic,eus,Basque,0.275,High
+1162,arb,Standard Arabic,fin,Finnish,0.181,High
+1163,arb,Standard Arabic,fra,French,0.272,High
+1168,arb,Standard Arabic,gle,Irish,0.265,High
+1169,arb,Standard Arabic,glg,Galician,0.265,High
+1173,arb,Standard Arabic,guj,Gujarati,0.59,High
+1178,arb,Standard Arabic,heb,Hebrew,0.392,High
+1179,arb,Standard Arabic,hin,Hindi,0.434,High
+1180,arb,Standard Arabic,hrv,Croatian,0.254,High
+1182,arb,Standard Arabic,hun,Hungarian,0.279,High
+1183,arb,Standard Arabic,hye,Armenian,0.332,High
+1185,arb,Standard Arabic,ind,Indonesian,0.577,High
+1186,arb,Standard Arabic,isl,Icelandic,0.122,High
+1187,arb,Standard Arabic,ita,Italian,0.29,High
+1189,arb,Standard Arabic,jav,Javanese,0.414,Low
+1190,arb,Standard Arabic,jpn,Japanese,0.136,High
+1195,arb,Standard Arabic,kan,Kannada,0.178,High
+1197,arb,Standard Arabic,kat,Georgian,0.321,High
+1198,arb,Standard Arabic,kaz,Kazakh,0.536,Medium
+1199,arb,Standard Arabic,khm,Khmer,0.119,Medium
+1202,arb,Standard Arabic,kir,Kirghiz,0.487,Medium
+1206,arb,Standard Arabic,kor,Korean,0.153,High
+1212,arb,Standard Arabic,lao,Lao,0.118,Medium
+1219,arb,Standard Arabic,lit,Lithuanian,0.218,High
+1223,arb,Standard Arabic,lug,Ganda,0.111,Medium
+1224,arb,Standard Arabic,luo,Luo,0.053,Medium
+1226,arb,Standard Arabic,mal,Malayalam,0.186,High
+1227,arb,Standard Arabic,mar,Marathi,0.18,High
+1230,arb,Standard Arabic,mkd,Macedonian,0.462,High
+1231,arb,Standard Arabic,mlt,Maltese,1.352,Medium
+1232,arb,Standard Arabic,mni,Manipuri,0.118,High
+1238,arb,Standard Arabic,mya,Burmese,0.148,Medium
+1246,arb,Standard Arabic,nld,Dutch,0.246,High
+1247,arb,Standard Arabic,nno,Norwegian Nynorsk,0.255,High
+1248,arb,Standard Arabic,nob,Norwegian Bokmål,0.198,High
+1251,arb,Standard Arabic,nya,Nyanja,0.062,Medium
+1256,arb,Standard Arabic,pan,Panjabi,0.73,High
+1261,arb,Standard Arabic,pol,Polish,0.244,High
+1262,arb,Standard Arabic,por,Portuguese,0.363,High
+1265,arb,Standard Arabic,ron,Romanian,0.251,High
+1268,arb,Standard Arabic,rus,Russian,0.231,High
+1279,arb,Standard Arabic,slk,Slovak,0.25,High
+1280,arb,Standard Arabic,slv,Slovenian,0.219,High
+1284,arb,Standard Arabic,snd,Sindhi,0.206,Low
+1285,arb,Standard Arabic,som,Somali,0.184,Low
+1287,arb,Standard Arabic,spa,Spanish,0.284,High
+1294,arb,Standard Arabic,swe,Swedish,0.212,High
+1295,arb,Standard Arabic,tam,Tamil,0.094,High
+1297,arb,Standard Arabic,tel,Telugu,0.107,High
+1298,arb,Standard Arabic,tgk,Tajik,1.481,Medium
+1299,arb,Standard Arabic,tgl,Tagalog,0.314,Medium
+1300,arb,Standard Arabic,tha,Thai,0.085,High
+1306,arb,Standard Arabic,tur,Turkish,1.247,High
+1310,arb,Standard Arabic,ukr,Ukrainian,0.232,High
+1311,arb,Standard Arabic,urd,Urdu,1.061,High
+1314,arb,Standard Arabic,vie,Vietnamese,0.169,High
+1323,arb,Standard Arabic,yor,Yoruba,0.047,Medium
+1324,arb,Standard Arabic,yue,Yue Chinese,0.061,Medium
+1326,arb,Standard Arabic,zsm,Standard Malay,0.519,High
+1327,arb,Standard Arabic,zul,Zulu,0.092,High
+1561,ary,Moroccan Arabic,arz,Egyptian Arabic,3.329,Medium
+1562,ary,Moroccan Arabic,asm,Assamese,0.055,Medium
+1566,ary,Moroccan Arabic,ben,Bengali,0.051,Medium
+1568,ary,Moroccan Arabic,bul,Bulgarian,0.054,Medium
+1569,ary,Moroccan Arabic,cat,Catalan,0.097,Medium
+1570,ary,Moroccan Arabic,ces,Czech,0.044,Medium
+1574,ary,Moroccan Arabic,deu,German,0.072,Medium
+1576,ary,Moroccan Arabic,ell,Modern Greek,0.044,Medium
+1577,ary,Moroccan Arabic,eng,English,0.047,Medium
+1580,ary,Moroccan Arabic,eus,Basque,0.078,Medium
+1583,ary,Moroccan Arabic,fin,Finnish,0.033,Medium
+1584,ary,Moroccan Arabic,fra,French,0.147,Medium
+1587,ary,Moroccan Arabic,glg,Galician,0.092,Medium
+1588,ary,Moroccan Arabic,heb,Hebrew,0.06,Medium
+1589,ary,Moroccan Arabic,hin,Hindi,0.113,Medium
+1590,ary,Moroccan Arabic,hrv,Croatian,0.03,Medium
+1592,ary,Moroccan Arabic,ind,Indonesian,0.02,Medium
+1593,ary,Moroccan Arabic,ita,Italian,0.074,Medium
+1594,ary,Moroccan Arabic,kat,Georgian,0.075,Medium
+1595,ary,Moroccan Arabic,kaz,Kazakh,0.21,Medium
+1596,ary,Moroccan Arabic,khm,Khmer,0.107,Medium
+1598,ary,Moroccan Arabic,kir,Kirghiz,0.149,Medium
+1602,ary,Moroccan Arabic,mkd,Macedonian,0.139,Medium
+1603,ary,Moroccan Arabic,mlt,Maltese,0.478,Medium
+1611,ary,Moroccan Arabic,nld,Dutch,0.127,Medium
+1612,ary,Moroccan Arabic,nya,Nyanja,0.327,Low
+1614,ary,Moroccan Arabic,pan,Panjabi,0.101,Medium
+1617,ary,Moroccan Arabic,pol,Polish,0.031,Medium
+1618,ary,Moroccan Arabic,por,Portuguese,0.135,Medium
+1620,ary,Moroccan Arabic,ron,Romanian,0.064,Medium
+1621,ary,Moroccan Arabic,rus,Russian,0.055,Medium
+1624,ary,Moroccan Arabic,slk,Slovak,0.036,Medium
+1625,ary,Moroccan Arabic,slv,Slovenian,0.064,Medium
+1627,ary,Moroccan Arabic,snd,Sindhi,0.36,Low
+1629,ary,Moroccan Arabic,spa,Spanish,0.092,Medium
+1633,ary,Moroccan Arabic,swe,Swedish,0.054,Medium
+1635,ary,Moroccan Arabic,tgk,Tajik,0.138,Medium
+1636,ary,Moroccan Arabic,tgl,Tagalog,0.112,Medium
+1642,ary,Moroccan Arabic,tur,Turkish,0.342,Medium
+1644,ary,Moroccan Arabic,ukr,Ukrainian,0.063,Medium
+1645,ary,Moroccan Arabic,urd,Urdu,0.299,Medium
+1649,ary,Moroccan Arabic,zsm,Standard Malay,0.032,Medium
+1650,ary,Moroccan Arabic,zul,Zulu,0.139,Medium
+1651,arz,Egyptian Arabic,asm,Assamese,0.364,Medium
+1657,arz,Egyptian Arabic,bel,Belarusian,0.106,Medium
+1658,arz,Egyptian Arabic,ben,Bengali,0.218,Medium
+1661,arz,Egyptian Arabic,bul,Bulgarian,0.098,Medium
+1663,arz,Egyptian Arabic,cat,Catalan,0.117,Medium
+1665,arz,Egyptian Arabic,ces,Czech,0.107,Medium
+1671,arz,Egyptian Arabic,cmn,Mandarin Chinese,0.041,Medium
+1674,arz,Egyptian Arabic,cym,Welsh,0.153,Medium
+1675,arz,Egyptian Arabic,dan,Danish,0.139,Medium
+1676,arz,Egyptian Arabic,deu,German,0.087,Medium
+1678,arz,Egyptian Arabic,ell,Modern Greek,0.159,Medium
+1679,arz,Egyptian Arabic,eng,English,0.057,Medium
+1682,arz,Egyptian Arabic,eus,Basque,0.071,Medium
+1685,arz,Egyptian Arabic,fin,Finnish,0.06,Medium
+1686,arz,Egyptian Arabic,fra,French,0.071,Medium
+1691,arz,Egyptian Arabic,gle,Irish,0.086,Medium
+1692,arz,Egyptian Arabic,glg,Galician,0.112,Medium
+1696,arz,Egyptian Arabic,guj,Gujarati,0.33,Medium
+1699,arz,Egyptian Arabic,heb,Hebrew,0.073,Medium
+1700,arz,Egyptian Arabic,hin,Hindi,0.252,Medium
+1701,arz,Egyptian Arabic,hrv,Croatian,0.11,Medium
+1702,arz,Egyptian Arabic,hun,Hungarian,0.16,Medium
+1703,arz,Egyptian Arabic,hye,Armenian,0.22,Medium
+1704,arz,Egyptian Arabic,ind,Indonesian,0.13,Medium
+1705,arz,Egyptian Arabic,isl,Icelandic,0.11,Medium
+1706,arz,Egyptian Arabic,ita,Italian,0.09,Medium
+1708,arz,Egyptian Arabic,jpn,Japanese,0.07,Medium
+1711,arz,Egyptian Arabic,kan,Kannada,0.155,Medium
+1713,arz,Egyptian Arabic,kat,Georgian,0.181,Medium
+1714,arz,Egyptian Arabic,kaz,Kazakh,0.445,Medium
+1715,arz,Egyptian Arabic,khm,Khmer,0.13,Medium
+1716,arz,Egyptian Arabic,kir,Kirghiz,0.54,Medium
+1720,arz,Egyptian Arabic,kor,Korean,0.031,Medium
+1725,arz,Egyptian Arabic,lao,Lao,0.257,Medium
+1728,arz,Egyptian Arabic,luo,Luo,0.159,Medium
+1729,arz,Egyptian Arabic,mal,Malayalam,0.117,Medium
+1730,arz,Egyptian Arabic,mar,Marathi,0.232,Medium
+1731,arz,Egyptian Arabic,mkd,Macedonian,0.252,Medium
+1732,arz,Egyptian Arabic,mlt,Maltese,0.507,Medium
+1733,arz,Egyptian Arabic,mni,Manipuri,0.189,Medium
+1737,arz,Egyptian Arabic,mya,Burmese,0.095,Medium
+1741,arz,Egyptian Arabic,nld,Dutch,0.212,Medium
+1742,arz,Egyptian Arabic,nno,Norwegian Nynorsk,0.215,Medium
+1743,arz,Egyptian Arabic,nob,Norwegian Bokmål,0.169,Medium
+1749,arz,Egyptian Arabic,pan,Panjabi,0.367,Medium
+1751,arz,Egyptian Arabic,pol,Polish,0.056,Medium
+1752,arz,Egyptian Arabic,por,Portuguese,0.123,Medium
+1755,arz,Egyptian Arabic,ron,Romanian,0.078,Medium
+1757,arz,Egyptian Arabic,rus,Russian,0.05,Medium
+1762,arz,Egyptian Arabic,slk,Slovak,0.022,Medium
+1763,arz,Egyptian Arabic,slv,Slovenian,0.039,Medium
+1766,arz,Egyptian Arabic,snd,Sindhi,0.654,Low
+1767,arz,Egyptian Arabic,som,Somali,0.275,Low
+1769,arz,Egyptian Arabic,spa,Spanish,0.112,Medium
+1772,arz,Egyptian Arabic,swe,Swedish,0.066,Medium
+1773,arz,Egyptian Arabic,tam,Tamil,0.118,Medium
+1775,arz,Egyptian Arabic,tel,Telugu,0.123,Medium
+1776,arz,Egyptian Arabic,tgk,Tajik,0.839,Medium
+1777,arz,Egyptian Arabic,tgl,Tagalog,0.204,Medium
+1778,arz,Egyptian Arabic,tha,Thai,0.068,Medium
+1783,arz,Egyptian Arabic,tur,Turkish,0.518,Medium
+1786,arz,Egyptian Arabic,ukr,Ukrainian,0.115,Medium
+1787,arz,Egyptian Arabic,urd,Urdu,0.968,Medium
+1790,arz,Egyptian Arabic,vie,Vietnamese,0.143,Medium
+1796,arz,Egyptian Arabic,zsm,Standard Malay,0.175,Medium
+1797,arz,Egyptian Arabic,zul,Zulu,0.126,Medium
+1805,asm,Assamese,bel,Belarusian,0.669,High
+1806,asm,Assamese,ben,Bengali,21.982,High
+1812,asm,Assamese,bul,Bulgarian,0.57,High
+1814,asm,Assamese,cat,Catalan,0.786,High
+1816,asm,Assamese,ceb,Cebuano,0.646,Medium
+1817,asm,Assamese,ces,Czech,0.656,High
+1825,asm,Assamese,ckb,Central Kurdish,0.19,Medium
+1826,asm,Assamese,cmn,Mandarin Chinese,0.09,High
+1832,asm,Assamese,cym,Welsh,0.609,High
+1833,asm,Assamese,dan,Danish,0.77,High
+1834,asm,Assamese,deu,German,0.746,High
+1839,asm,Assamese,ell,Modern Greek,0.531,High
+1840,asm,Assamese,eng,English,0.76,High
+1843,asm,Assamese,eus,Basque,0.63,High
+1850,asm,Assamese,fin,Finnish,0.348,High
+1851,asm,Assamese,fra,French,0.696,High
+1858,asm,Assamese,gle,Irish,0.806,High
+1859,asm,Assamese,glg,Galician,0.658,High
+1863,asm,Assamese,guj,Gujarati,14.399,High
+1867,asm,Assamese,heb,Hebrew,0.295,High
+1870,asm,Assamese,hin,Hindi,3.278,High
+1871,asm,Assamese,hrv,Croatian,0.665,High
+1873,asm,Assamese,hun,Hungarian,0.623,High
+1874,asm,Assamese,hye,Armenian,0.516,High
+1876,asm,Assamese,ind,Indonesian,0.647,High
+1877,asm,Assamese,isl,Icelandic,0.468,High
+1878,asm,Assamese,ita,Italian,0.822,High
+1881,asm,Assamese,jav,Javanese,0.911,Low
+1882,asm,Assamese,jpn,Japanese,0.54,High
+1887,asm,Assamese,kan,Kannada,8.468,High
+1889,asm,Assamese,kat,Georgian,0.408,High
+1890,asm,Assamese,kaz,Kazakh,0.805,Medium
+1892,asm,Assamese,khm,Khmer,0.563,Medium
+1895,asm,Assamese,kir,Kirghiz,0.899,Medium
+1900,asm,Assamese,kor,Korean,0.349,High
+1905,asm,Assamese,lao,Lao,0.345,Medium
+1911,asm,Assamese,lit,Lithuanian,0.53,High
+1916,asm,Assamese,lug,Ganda,0.074,Medium
+1917,asm,Assamese,luo,Luo,0.642,Medium
+1920,asm,Assamese,mal,Malayalam,5.54,High
+1921,asm,Assamese,mar,Marathi,2.2,High
+1926,asm,Assamese,mkd,Macedonian,0.943,High
+1927,asm,Assamese,mlt,Maltese,1.044,Medium
+1928,asm,Assamese,mni,Manipuri,2.55,High
+1934,asm,Assamese,mya,Burmese,0.196,Medium
+1941,asm,Assamese,nld,Dutch,1.102,High
+1942,asm,Assamese,nno,Norwegian Nynorsk,0.991,High
+1943,asm,Assamese,nob,Norwegian Bokmål,0.786,High
+1950,asm,Assamese,pan,Panjabi,10.953,High
+1957,asm,Assamese,pol,Polish,0.559,High
+1958,asm,Assamese,por,Portuguese,1.006,High
+1961,asm,Assamese,ron,Romanian,0.557,High
+1964,asm,Assamese,rus,Russian,0.467,High
+1973,asm,Assamese,slk,Slovak,0.497,High
+1974,asm,Assamese,slv,Slovenian,0.563,High
+1978,asm,Assamese,sna,Shona,0.179,Low
+1979,asm,Assamese,snd,Sindhi,0.494,Low
+1980,asm,Assamese,som,Somali,0.79,Low
+1982,asm,Assamese,spa,Spanish,0.758,High
+1988,asm,Assamese,swe,Swedish,0.724,High
+1990,asm,Assamese,tam,Tamil,2.131,High
+1992,asm,Assamese,tel,Telugu,5.136,High
+1994,asm,Assamese,tgk,Tajik,1.224,Medium
+1995,asm,Assamese,tgl,Tagalog,0.867,Medium
+1996,asm,Assamese,tha,Thai,0.469,High
+2001,asm,Assamese,tur,Turkish,0.969,High
+2006,asm,Assamese,ukr,Ukrainian,0.65,High
+2007,asm,Assamese,urd,Urdu,3.918,High
+2011,asm,Assamese,vie,Vietnamese,0.362,High
+2021,asm,Assamese,yor,Yoruba,0.041,Medium
+2022,asm,Assamese,zsm,Standard Malay,0.842,High
+2023,asm,Assamese,zul,Zulu,0.346,High
+3150,bel,Belarusian,ben,Bengali,0.66,High
+3156,bel,Belarusian,bul,Bulgarian,6.222,High
+3158,bel,Belarusian,cat,Catalan,1.978,High
+3160,bel,Belarusian,ceb,Cebuano,1.181,Medium
+3161,bel,Belarusian,ces,Czech,6.448,High
+3168,bel,Belarusian,ckb,Central Kurdish,0.172,Medium
+3169,bel,Belarusian,cmn,Mandarin Chinese,0.086,High
+3175,bel,Belarusian,cym,Welsh,1.804,Medium
+3176,bel,Belarusian,dan,Danish,2.744,High
+3177,bel,Belarusian,deu,German,2.613,High
+3181,bel,Belarusian,ell,Modern Greek,1.027,High
+3182,bel,Belarusian,eng,English,1.658,High
+3185,bel,Belarusian,eus,Basque,1.616,High
+3192,bel,Belarusian,fin,Finnish,1.266,High
+3193,bel,Belarusian,fra,French,2.052,High
+3200,bel,Belarusian,gle,Irish,1.689,Medium
+3201,bel,Belarusian,glg,Galician,1.967,High
+3205,bel,Belarusian,guj,Gujarati,0.994,High
+3209,bel,Belarusian,heb,Hebrew,0.405,High
+3211,bel,Belarusian,hin,Hindi,1.164,High
+3212,bel,Belarusian,hrv,Croatian,4.927,High
+3214,bel,Belarusian,hun,Hungarian,2.453,Medium
+3215,bel,Belarusian,hye,Armenian,1.667,Medium
+3218,bel,Belarusian,ind,Indonesian,0.9,High
+3219,bel,Belarusian,isl,Icelandic,1.417,High
+3220,bel,Belarusian,ita,Italian,2.379,High
+3223,bel,Belarusian,jav,Javanese,0.734,Low
+3224,bel,Belarusian,jpn,Japanese,0.956,High
+3226,bel,Belarusian,kan,Kannada,0.465,High
+3228,bel,Belarusian,kat,Georgian,2.284,Medium
+3229,bel,Belarusian,kaz,Kazakh,3.766,Medium
+3231,bel,Belarusian,khm,Khmer,0.528,Medium
+3233,bel,Belarusian,kir,Kirghiz,3.242,Medium
+3238,bel,Belarusian,kor,Korean,0.467,High
+3243,bel,Belarusian,lao,Lao,0.593,Medium
+3250,bel,Belarusian,lit,Lithuanian,2.902,High
+3256,bel,Belarusian,lug,Ganda,0.396,Medium
+3257,bel,Belarusian,luo,Luo,0.564,Medium
+3261,bel,Belarusian,mal,Malayalam,0.541,High
+3262,bel,Belarusian,mar,Marathi,0.724,Medium
+3268,bel,Belarusian,mkd,Macedonian,8.612,Medium
+3269,bel,Belarusian,mlt,Maltese,2.318,Medium
+3270,bel,Belarusian,mni,Manipuri,0.384,Medium
+3276,bel,Belarusian,mya,Burmese,0.594,Medium
+3285,bel,Belarusian,nld,Dutch,2.511,High
+3287,bel,Belarusian,nno,Norwegian Nynorsk,2.832,Medium
+3288,bel,Belarusian,nob,Norwegian Bokmål,2.407,High
+3295,bel,Belarusian,pan,Panjabi,0.923,High
+3301,bel,Belarusian,pol,Polish,4.845,High
+3302,bel,Belarusian,por,Portuguese,2.618,High
+3307,bel,Belarusian,ron,Romanian,2.154,High
+3310,bel,Belarusian,rus,Russian,7.692,High
+3320,bel,Belarusian,slk,Slovak,5.474,High
+3321,bel,Belarusian,slv,Slovenian,4.253,High
+3324,bel,Belarusian,snd,Sindhi,0.339,Low
+3325,bel,Belarusian,som,Somali,0.321,Low
+3327,bel,Belarusian,spa,Spanish,1.872,High
+3334,bel,Belarusian,swe,Swedish,2.626,High
+3336,bel,Belarusian,tam,Tamil,0.314,High
+3338,bel,Belarusian,tel,Telugu,0.414,High
+3340,bel,Belarusian,tgk,Tajik,3.179,Medium
+3341,bel,Belarusian,tgl,Tagalog,1.746,Medium
+3342,bel,Belarusian,tha,Thai,0.435,High
+3349,bel,Belarusian,tur,Turkish,2.034,High
+3353,bel,Belarusian,ukr,Ukrainian,17.088,High
+3354,bel,Belarusian,urd,Urdu,1.011,High
+3358,bel,Belarusian,vie,Vietnamese,0.597,High
+3368,bel,Belarusian,yor,Yoruba,0.346,Medium
+3371,bel,Belarusian,zsm,Standard Malay,0.905,High
+3372,bel,Belarusian,zul,Zulu,0.595,Medium
+3378,ben,Bengali,bul,Bulgarian,0.694,High
+3380,ben,Bengali,cat,Catalan,0.901,High
+3382,ben,Bengali,ceb,Cebuano,0.816,Medium
+3383,ben,Bengali,ces,Czech,0.771,High
+3391,ben,Bengali,ckb,Central Kurdish,0.206,Medium
+3392,ben,Bengali,cmn,Mandarin Chinese,0.048,High
+3398,ben,Bengali,cym,Welsh,0.732,High
+3399,ben,Bengali,dan,Danish,1.112,High
+3400,ben,Bengali,deu,German,0.967,High
+3404,ben,Bengali,ell,Modern Greek,0.598,High
+3405,ben,Bengali,eng,English,1.025,High
+3407,ben,Bengali,eus,Basque,0.791,High
+3414,ben,Bengali,fin,Finnish,0.453,High
+3415,ben,Bengali,fra,French,0.849,High
+3423,ben,Bengali,gle,Irish,0.806,High
+3424,ben,Bengali,glg,Galician,0.697,High
+3428,ben,Bengali,guj,Gujarati,16.35,High
+3432,ben,Bengali,heb,Hebrew,0.203,High
+3435,ben,Bengali,hin,Hindi,3.237,High
+3436,ben,Bengali,hrv,Croatian,0.788,High
+3438,ben,Bengali,hun,Hungarian,0.775,High
+3439,ben,Bengali,hye,Armenian,0.467,High
+3441,ben,Bengali,ind,Indonesian,0.678,High
+3442,ben,Bengali,isl,Icelandic,0.618,High
+3443,ben,Bengali,ita,Italian,0.99,High
+3446,ben,Bengali,jav,Javanese,0.951,Low
+3447,ben,Bengali,jpn,Japanese,0.677,High
+3452,ben,Bengali,kan,Kannada,9.195,High
+3454,ben,Bengali,kat,Georgian,0.47,High
+3455,ben,Bengali,kaz,Kazakh,0.593,Medium
+3457,ben,Bengali,khm,Khmer,0.581,Medium
+3460,ben,Bengali,kir,Kirghiz,0.642,Medium
+3465,ben,Bengali,kor,Korean,0.403,High
+3471,ben,Bengali,lao,Lao,0.28,Medium
+3477,ben,Bengali,lit,Lithuanian,0.65,High
+3481,ben,Bengali,lug,Ganda,0.058,Medium
+3482,ben,Bengali,luo,Luo,0.434,Medium
+3484,ben,Bengali,mal,Malayalam,5.102,High
+3485,ben,Bengali,mar,Marathi,1.99,High
+3491,ben,Bengali,mkd,Macedonian,1.055,High
+3492,ben,Bengali,mlt,Maltese,1.319,Medium
+3493,ben,Bengali,mni,Manipuri,2.278,High
+3498,ben,Bengali,mya,Burmese,0.103,Medium
+3506,ben,Bengali,nld,Dutch,1.143,High
+3507,ben,Bengali,nno,Norwegian Nynorsk,1.23,High
+3508,ben,Bengali,nob,Norwegian Bokmål,1.034,High
+3516,ben,Bengali,pan,Panjabi,13.007,High
+3524,ben,Bengali,pol,Polish,0.653,High
+3525,ben,Bengali,por,Portuguese,1.147,High
+3528,ben,Bengali,ron,Romanian,0.689,High
+3531,ben,Bengali,rus,Russian,0.642,High
+3540,ben,Bengali,slk,Slovak,0.678,High
+3541,ben,Bengali,slv,Slovenian,0.703,High
+3545,ben,Bengali,sna,Shona,0.122,Low
+3546,ben,Bengali,snd,Sindhi,0.333,Low
+3547,ben,Bengali,som,Somali,0.717,Low
+3549,ben,Bengali,spa,Spanish,0.829,High
+3554,ben,Bengali,swe,Swedish,0.974,High
+3556,ben,Bengali,tam,Tamil,1.938,High
+3558,ben,Bengali,tel,Telugu,5.249,High
+3560,ben,Bengali,tgk,Tajik,0.985,Medium
+3561,ben,Bengali,tgl,Tagalog,0.866,Medium
+3562,ben,Bengali,tha,Thai,0.524,High
+3567,ben,Bengali,tur,Turkish,1.05,High
+3572,ben,Bengali,ukr,Ukrainian,0.602,High
+3573,ben,Bengali,urd,Urdu,4.259,High
+3576,ben,Bengali,vie,Vietnamese,0.412,High
+3584,ben,Bengali,yor,Yoruba,0.272,Medium
+3586,ben,Bengali,yue,Yue Chinese,0.028,Medium
+3587,ben,Bengali,zsm,Standard Malay,0.873,High
+3588,ben,Bengali,zul,Zulu,0.326,High
+4312,bul,Bulgarian,cat,Catalan,2.713,High
+4314,bul,Bulgarian,ceb,Cebuano,0.797,Medium
+4315,bul,Bulgarian,ces,Czech,5.885,High
+4322,bul,Bulgarian,ckb,Central Kurdish,0.159,Medium
+4323,bul,Bulgarian,cmn,Mandarin Chinese,0.081,High
+4329,bul,Bulgarian,cym,Welsh,1.277,High
+4330,bul,Bulgarian,dan,Danish,3.866,High
+4331,bul,Bulgarian,deu,German,2.711,High
+4335,bul,Bulgarian,ell,Modern Greek,1.271,High
+4336,bul,Bulgarian,eng,English,2.182,High
+4339,bul,Bulgarian,eus,Basque,2.061,High
+4346,bul,Bulgarian,fin,Finnish,1.133,High
+4347,bul,Bulgarian,fra,French,2.74,High
+4354,bul,Bulgarian,gle,Irish,1.164,High
+4355,bul,Bulgarian,glg,Galician,2.304,High
+4359,bul,Bulgarian,guj,Gujarati,0.928,High
+4363,bul,Bulgarian,heb,Hebrew,0.454,High
+4365,bul,Bulgarian,hin,Hindi,0.616,High
+4366,bul,Bulgarian,hrv,Croatian,10.397,High
+4368,bul,Bulgarian,hun,Hungarian,1.975,High
+4369,bul,Bulgarian,hye,Armenian,0.993,High
+4372,bul,Bulgarian,ind,Indonesian,1.094,High
+4373,bul,Bulgarian,isl,Icelandic,1.268,High
+4374,bul,Bulgarian,ita,Italian,3.05,High
+4377,bul,Bulgarian,jav,Javanese,0.598,Low
+4378,bul,Bulgarian,jpn,Japanese,0.999,High
+4383,bul,Bulgarian,kan,Kannada,0.465,High
+4385,bul,Bulgarian,kat,Georgian,1.669,High
+4386,bul,Bulgarian,kaz,Kazakh,2.162,Medium
+4388,bul,Bulgarian,khm,Khmer,0.297,Medium
+4391,bul,Bulgarian,kir,Kirghiz,2.019,Medium
+4396,bul,Bulgarian,kor,Korean,0.325,High
+4402,bul,Bulgarian,lao,Lao,0.25,Medium
+4409,bul,Bulgarian,lit,Lithuanian,3.661,High
+4414,bul,Bulgarian,lug,Ganda,0.254,Medium
+4415,bul,Bulgarian,luo,Luo,0.267,Medium
+4419,bul,Bulgarian,mal,Malayalam,0.487,High
+4420,bul,Bulgarian,mar,Marathi,0.366,High
+4426,bul,Bulgarian,mkd,Macedonian,10.376,High
+4427,bul,Bulgarian,mlt,Maltese,1.879,Medium
+4429,bul,Bulgarian,mni,Manipuri,0.388,High
+4435,bul,Bulgarian,mya,Burmese,0.314,Medium
+4445,bul,Bulgarian,nld,Dutch,2.519,High
+4447,bul,Bulgarian,nno,Norwegian Nynorsk,4.199,High
+4448,bul,Bulgarian,nob,Norwegian Bokmål,3.55,High
+4456,bul,Bulgarian,pan,Panjabi,0.876,High
+4462,bul,Bulgarian,pol,Polish,4.111,High
+4463,bul,Bulgarian,por,Portuguese,3.324,High
+4468,bul,Bulgarian,ron,Romanian,3.138,High
+4471,bul,Bulgarian,rus,Russian,8.461,High
+4482,bul,Bulgarian,slk,Slovak,7.933,High
+4483,bul,Bulgarian,slv,Slovenian,8.084,High
+4487,bul,Bulgarian,snd,Sindhi,0.278,Low
+4488,bul,Bulgarian,som,Somali,0.088,Low
+4490,bul,Bulgarian,spa,Spanish,2.711,High
+4497,bul,Bulgarian,swe,Swedish,3.805,High
+4499,bul,Bulgarian,tam,Tamil,0.17,High
+4501,bul,Bulgarian,tel,Telugu,0.4,High
+4503,bul,Bulgarian,tgk,Tajik,1.697,Medium
+4504,bul,Bulgarian,tgl,Tagalog,1.297,Medium
+4505,bul,Bulgarian,tha,Thai,0.363,High
+4512,bul,Bulgarian,tur,Turkish,1.662,High
+4517,bul,Bulgarian,ukr,Ukrainian,6.208,High
+4518,bul,Bulgarian,urd,Urdu,0.737,High
+4522,bul,Bulgarian,vie,Vietnamese,0.339,High
+4532,bul,Bulgarian,yor,Yoruba,0.182,Medium
+4536,bul,Bulgarian,zsm,Standard Malay,0.963,High
+4537,bul,Bulgarian,zul,Zulu,0.3,High
+4675,cat,Catalan,ceb,Cebuano,1.315,Medium
+4676,cat,Catalan,ces,Czech,2.775,High
+4684,cat,Catalan,ckb,Central Kurdish,0.08,Medium
+4685,cat,Catalan,cmn,Mandarin Chinese,0.044,High
+4691,cat,Catalan,cym,Welsh,1.634,High
+4692,cat,Catalan,dan,Danish,3.525,High
+4693,cat,Catalan,deu,German,3.99,High
+4698,cat,Catalan,ell,Modern Greek,1.594,High
+4699,cat,Catalan,eng,English,8.284,High
+4703,cat,Catalan,eus,Basque,6.338,High
+4710,cat,Catalan,fin,Finnish,1.597,High
+4711,cat,Catalan,fra,French,12.214,High
+4720,cat,Catalan,gle,Irish,1.823,High
+4721,cat,Catalan,glg,Galician,16.886,High
+4725,cat,Catalan,guj,Gujarati,0.995,High
+4729,cat,Catalan,heb,Hebrew,0.495,High
+4732,cat,Catalan,hin,Hindi,0.623,High
+4734,cat,Catalan,hrv,Croatian,3.749,High
+4736,cat,Catalan,hun,Hungarian,2.166,High
+4737,cat,Catalan,hye,Armenian,0.799,High
+4739,cat,Catalan,ind,Indonesian,1.731,High
+4741,cat,Catalan,isl,Icelandic,0.882,High
+4742,cat,Catalan,ita,Italian,11.194,High
+4745,cat,Catalan,jav,Javanese,0.558,Low
+4746,cat,Catalan,jpn,Japanese,1.3,High
+4750,cat,Catalan,kan,Kannada,0.437,High
+4752,cat,Catalan,kat,Georgian,1.139,High
+4753,cat,Catalan,kaz,Kazakh,0.898,Medium
+4755,cat,Catalan,khm,Khmer,0.294,Medium
+4757,cat,Catalan,kir,Kirghiz,0.835,Medium
+4762,cat,Catalan,kor,Korean,0.427,High
+4768,cat,Catalan,lao,Lao,0.186,Medium
+4774,cat,Catalan,lit,Lithuanian,3.031,High
+4780,cat,Catalan,lug,Ganda,0.09,Medium
+4781,cat,Catalan,luo,Luo,0.214,Medium
+4784,cat,Catalan,mal,Malayalam,0.477,High
+4785,cat,Catalan,mar,Marathi,0.394,High
+4791,cat,Catalan,mkd,Macedonian,2.262,High
+4792,cat,Catalan,mlt,Maltese,3.095,Medium
+4793,cat,Catalan,mni,Manipuri,0.502,High
+4800,cat,Catalan,mya,Burmese,0.191,Medium
+4810,cat,Catalan,nld,Dutch,4.892,High
+4812,cat,Catalan,nno,Norwegian Nynorsk,3.463,High
+4813,cat,Catalan,nob,Norwegian Bokmål,3.209,High
+4816,cat,Catalan,nya,Nyanja,0.038,Medium
+4823,cat,Catalan,pan,Panjabi,0.97,High
+4831,cat,Catalan,pol,Polish,3.05,High
+4832,cat,Catalan,por,Portuguese,17.325,High
+4837,cat,Catalan,ron,Romanian,9.072,High
+4840,cat,Catalan,rus,Russian,2.467,High
+4852,cat,Catalan,slk,Slovak,3.26,High
+4853,cat,Catalan,slv,Slovenian,3.306,High
+4857,cat,Catalan,snd,Sindhi,0.251,Low
+4858,cat,Catalan,som,Somali,0.358,Low
+4860,cat,Catalan,spa,Spanish,22.099,High
+4868,cat,Catalan,swe,Swedish,3.287,High
+4871,cat,Catalan,tam,Tamil,0.302,High
+4873,cat,Catalan,tel,Telugu,0.365,High
+4875,cat,Catalan,tgk,Tajik,0.961,Medium
+4876,cat,Catalan,tgl,Tagalog,2.19,Medium
+4877,cat,Catalan,tha,Thai,0.429,High
+4884,cat,Catalan,tur,Turkish,1.675,High
+4891,cat,Catalan,ukr,Ukrainian,1.791,High
+4892,cat,Catalan,urd,Urdu,0.722,High
+4896,cat,Catalan,vie,Vietnamese,0.382,High
+4907,cat,Catalan,yor,Yoruba,0.308,Medium
+4909,cat,Catalan,zsm,Standard Malay,1.421,High
+4910,cat,Catalan,zul,Zulu,0.309,High
+5041,ceb,Cebuano,ces,Czech,0.524,Medium
+5047,ceb,Cebuano,ckb,Central Kurdish,0.132,Medium
+5052,ceb,Cebuano,cym,Welsh,0.908,Medium
+5053,ceb,Cebuano,dan,Danish,1.119,Medium
+5054,ceb,Cebuano,deu,German,1.129,Medium
+5057,ceb,Cebuano,ell,Modern Greek,0.327,Medium
+5058,ceb,Cebuano,eng,English,1.007,Medium
+5060,ceb,Cebuano,eus,Basque,1.16,Medium
+5066,ceb,Cebuano,fin,Finnish,0.431,Medium
+5067,ceb,Cebuano,fra,French,1.307,Medium
+5074,ceb,Cebuano,gle,Irish,0.448,Medium
+5075,ceb,Cebuano,glg,Galician,1.924,Medium
+5078,ceb,Cebuano,guj,Gujarati,0.979,Medium
+5081,ceb,Cebuano,heb,Hebrew,0.467,Medium
+5083,ceb,Cebuano,hin,Hindi,0.352,Medium
+5085,ceb,Cebuano,hrv,Croatian,0.739,Medium
+5087,ceb,Cebuano,hun,Hungarian,0.991,Medium
+5088,ceb,Cebuano,hye,Armenian,0.441,Medium
+5090,ceb,Cebuano,ind,Indonesian,0.728,Medium
+5091,ceb,Cebuano,isl,Icelandic,0.53,Medium
+5092,ceb,Cebuano,ita,Italian,1.494,Medium
+5093,ceb,Cebuano,jav,Javanese,1.054,Low
+5094,ceb,Cebuano,jpn,Japanese,0.317,Medium
+5095,ceb,Cebuano,kan,Kannada,0.426,Medium
+5097,ceb,Cebuano,kat,Georgian,0.512,Medium
+5098,ceb,Cebuano,kaz,Kazakh,1.094,Medium
+5099,ceb,Cebuano,khm,Khmer,0.299,Medium
+5100,ceb,Cebuano,kir,Kirghiz,0.776,Medium
+5105,ceb,Cebuano,kor,Korean,0.187,Medium
+5110,ceb,Cebuano,lao,Lao,0.203,Medium
+5116,ceb,Cebuano,lit,Lithuanian,1.468,Medium
+5121,ceb,Cebuano,mal,Malayalam,0.791,Medium
+5122,ceb,Cebuano,mar,Marathi,0.294,Medium
+5127,ceb,Cebuano,mkd,Macedonian,1.002,Medium
+5128,ceb,Cebuano,mlt,Maltese,2.789,Medium
+5129,ceb,Cebuano,mni,Manipuri,0.969,Medium
+5134,ceb,Cebuano,mya,Burmese,0.151,Medium
+5141,ceb,Cebuano,nld,Dutch,1.111,Medium
+5142,ceb,Cebuano,nno,Norwegian Nynorsk,1.17,Medium
+5143,ceb,Cebuano,nob,Norwegian Bokmål,0.986,Medium
+5151,ceb,Cebuano,pan,Panjabi,0.897,Medium
+5157,ceb,Cebuano,pol,Polish,0.626,Medium
+5158,ceb,Cebuano,por,Portuguese,1.622,Medium
+5163,ceb,Cebuano,ron,Romanian,0.795,Medium
+5166,ceb,Cebuano,rus,Russian,0.725,Medium
+5174,ceb,Cebuano,slk,Slovak,0.901,Medium
+5175,ceb,Cebuano,slv,Slovenian,0.863,Medium
+5179,ceb,Cebuano,som,Somali,0.599,Low
+5181,ceb,Cebuano,spa,Spanish,1.551,Medium
+5188,ceb,Cebuano,swe,Swedish,1.296,Medium
+5191,ceb,Cebuano,tam,Tamil,0.392,Medium
+5193,ceb,Cebuano,tel,Telugu,0.649,Medium
+5195,ceb,Cebuano,tgk,Tajik,0.928,Medium
+5196,ceb,Cebuano,tgl,Tagalog,5.849,Medium
+5197,ceb,Cebuano,tha,Thai,0.348,Medium
+5202,ceb,Cebuano,tur,Turkish,0.869,Medium
+5207,ceb,Cebuano,ukr,Ukrainian,0.868,Medium
+5208,ceb,Cebuano,urd,Urdu,0.524,Medium
+5211,ceb,Cebuano,vie,Vietnamese,0.147,Medium
+5218,ceb,Cebuano,zsm,Standard Malay,1.308,Medium
+5219,ceb,Cebuano,zul,Zulu,0.183,Medium
+5227,ces,Czech,ckb,Central Kurdish,0.087,Medium
+5228,ces,Czech,cmn,Mandarin Chinese,0.055,High
+5234,ces,Czech,cym,Welsh,1.372,High
+5235,ces,Czech,dan,Danish,3.102,High
+5236,ces,Czech,deu,German,3.733,High
+5240,ces,Czech,ell,Modern Greek,1.171,High
+5241,ces,Czech,eng,English,2.439,High
+5244,ces,Czech,eus,Basque,2.284,High
+5251,ces,Czech,fin,Finnish,1.341,High
+5252,ces,Czech,fra,French,2.749,High
+5261,ces,Czech,gle,Irish,1.445,High
+5262,ces,Czech,glg,Galician,2.335,High
+5266,ces,Czech,guj,Gujarati,0.96,High
+5270,ces,Czech,heb,Hebrew,0.437,High
+5273,ces,Czech,hin,Hindi,0.636,High
+5274,ces,Czech,hrv,Croatian,8.205,High
+5276,ces,Czech,hun,Hungarian,2.869,High
+5277,ces,Czech,hye,Armenian,1.01,High
+5279,ces,Czech,ind,Indonesian,1.122,High
+5280,ces,Czech,isl,Icelandic,1.028,High
+5281,ces,Czech,ita,Italian,3.113,High
+5284,ces,Czech,jav,Javanese,0.446,Low
+5285,ces,Czech,jpn,Japanese,0.915,High
+5288,ces,Czech,kan,Kannada,0.446,High
+5290,ces,Czech,kat,Georgian,1.392,High
+5291,ces,Czech,kaz,Kazakh,1.045,Medium
+5293,ces,Czech,khm,Khmer,0.294,Medium
+5295,ces,Czech,kir,Kirghiz,1.016,Medium
+5300,ces,Czech,kor,Korean,0.363,High
+5306,ces,Czech,lao,Lao,0.239,Medium
+5312,ces,Czech,lit,Lithuanian,2.973,High
+5317,ces,Czech,lug,Ganda,0.132,Medium
+5318,ces,Czech,luo,Luo,0.288,Medium
+5322,ces,Czech,mal,Malayalam,0.517,High
+5323,ces,Czech,mar,Marathi,0.371,High
+5329,ces,Czech,mkd,Macedonian,6.534,High
+5330,ces,Czech,mlt,Maltese,1.794,Medium
+5331,ces,Czech,mni,Manipuri,0.368,High
+5337,ces,Czech,mya,Burmese,0.184,Medium
+5347,ces,Czech,nld,Dutch,2.826,High
+5349,ces,Czech,nno,Norwegian Nynorsk,2.833,High
+5350,ces,Czech,nob,Norwegian Bokmål,2.766,High
+5357,ces,Czech,pan,Panjabi,0.846,High
+5365,ces,Czech,pol,Polish,5.171,High
+5366,ces,Czech,por,Portuguese,3.315,High
+5371,ces,Czech,ron,Romanian,2.777,High
+5374,ces,Czech,rus,Russian,6.17,High
+5383,ces,Czech,slk,Slovak,16.481,High
+5384,ces,Czech,slv,Slovenian,7.662,High
+5388,ces,Czech,snd,Sindhi,0.343,Low
+5389,ces,Czech,som,Somali,0.439,Low
+5391,ces,Czech,spa,Spanish,2.639,High
+5399,ces,Czech,swe,Swedish,3.078,High
+5402,ces,Czech,tam,Tamil,0.257,High
+5404,ces,Czech,tel,Telugu,0.301,High
+5406,ces,Czech,tgk,Tajik,1.144,Medium
+5407,ces,Czech,tgl,Tagalog,1.254,Medium
+5408,ces,Czech,tha,Thai,0.365,High
+5415,ces,Czech,tur,Turkish,1.737,High
+5419,ces,Czech,ukr,Ukrainian,6.344,High
+5420,ces,Czech,urd,Urdu,0.749,High
+5424,ces,Czech,vie,Vietnamese,0.481,High
+5435,ces,Czech,yor,Yoruba,0.13,Medium
+5438,ces,Czech,zsm,Standard Malay,0.977,High
+5439,ces,Czech,zul,Zulu,0.275,High
+6415,ckb,Central Kurdish,cym,Welsh,0.083,Medium
+6416,ckb,Central Kurdish,dan,Danish,0.17,Medium
+6417,ckb,Central Kurdish,deu,German,0.088,Medium
+6419,ckb,Central Kurdish,ell,Modern Greek,0.065,Medium
+6420,ckb,Central Kurdish,eng,English,0.082,Medium
+6422,ckb,Central Kurdish,eus,Basque,0.134,Medium
+6426,ckb,Central Kurdish,fin,Finnish,0.082,Medium
+6427,ckb,Central Kurdish,fra,French,0.101,Medium
+6433,ckb,Central Kurdish,gle,Irish,0.175,Medium
+6434,ckb,Central Kurdish,glg,Galician,0.159,Medium
+6437,ckb,Central Kurdish,guj,Gujarati,0.186,Medium
+6440,ckb,Central Kurdish,heb,Hebrew,0.118,Medium
+6442,ckb,Central Kurdish,hin,Hindi,0.186,Medium
+6443,ckb,Central Kurdish,hrv,Croatian,0.12,Medium
+6445,ckb,Central Kurdish,hun,Hungarian,0.098,Medium
+6446,ckb,Central Kurdish,hye,Armenian,0.072,Medium
+6448,ckb,Central Kurdish,ind,Indonesian,0.058,Medium
+6449,ckb,Central Kurdish,isl,Icelandic,0.045,Medium
+6450,ckb,Central Kurdish,ita,Italian,0.109,Medium
+6451,ckb,Central Kurdish,jav,Javanese,0.174,Low
+6452,ckb,Central Kurdish,jpn,Japanese,0.076,Medium
+6453,ckb,Central Kurdish,kan,Kannada,0.147,Medium
+6455,ckb,Central Kurdish,kat,Georgian,0.111,Medium
+6456,ckb,Central Kurdish,kaz,Kazakh,0.155,Medium
+6457,ckb,Central Kurdish,khm,Khmer,0.053,Medium
+6458,ckb,Central Kurdish,kir,Kirghiz,0.073,Medium
+6468,ckb,Central Kurdish,lit,Lithuanian,0.145,Medium
+6471,ckb,Central Kurdish,mal,Malayalam,0.143,Medium
+6472,ckb,Central Kurdish,mar,Marathi,0.038,Medium
+6476,ckb,Central Kurdish,mkd,Macedonian,0.246,Medium
+6477,ckb,Central Kurdish,mlt,Maltese,0.177,Medium
+6478,ckb,Central Kurdish,mni,Manipuri,0.153,Medium
+6486,ckb,Central Kurdish,nld,Dutch,0.078,Medium
+6487,ckb,Central Kurdish,nno,Norwegian Nynorsk,0.174,Medium
+6488,ckb,Central Kurdish,nob,Norwegian Bokmål,0.137,Medium
+6494,ckb,Central Kurdish,pan,Panjabi,0.201,Medium
+6496,ckb,Central Kurdish,pol,Polish,0.151,Medium
+6497,ckb,Central Kurdish,por,Portuguese,0.133,Medium
+6499,ckb,Central Kurdish,ron,Romanian,0.11,Medium
+6502,ckb,Central Kurdish,rus,Russian,0.067,Medium
+6508,ckb,Central Kurdish,slk,Slovak,0.123,Medium
+6509,ckb,Central Kurdish,slv,Slovenian,0.126,Medium
+6512,ckb,Central Kurdish,spa,Spanish,0.106,Medium
+6515,ckb,Central Kurdish,swe,Swedish,0.133,Medium
+6516,ckb,Central Kurdish,tam,Tamil,0.096,Medium
+6518,ckb,Central Kurdish,tel,Telugu,0.08,Medium
+6519,ckb,Central Kurdish,tgk,Tajik,0.273,Medium
+6520,ckb,Central Kurdish,tgl,Tagalog,0.166,Medium
+6521,ckb,Central Kurdish,tha,Thai,0.042,Medium
+6525,ckb,Central Kurdish,tur,Turkish,0.252,Medium
+6529,ckb,Central Kurdish,ukr,Ukrainian,0.157,Medium
+6530,ckb,Central Kurdish,urd,Urdu,0.492,Medium
+6533,ckb,Central Kurdish,vie,Vietnamese,0.116,Medium
+6538,ckb,Central Kurdish,zsm,Standard Malay,0.095,Medium
+6542,cmn,Mandarin Chinese,cym,Welsh,0.073,High
+6543,cmn,Mandarin Chinese,dan,Danish,0.054,High
+6544,cmn,Mandarin Chinese,deu,German,0.041,High
+6548,cmn,Mandarin Chinese,ell,Modern Greek,0.039,High
+6549,cmn,Mandarin Chinese,eng,English,0.051,High
+6551,cmn,Mandarin Chinese,eus,Basque,0.027,High
+6555,cmn,Mandarin Chinese,fin,Finnish,0.016,High
+6556,cmn,Mandarin Chinese,fra,French,0.039,High
+6562,cmn,Mandarin Chinese,gle,Irish,0.044,High
+6563,cmn,Mandarin Chinese,glg,Galician,0.059,High
+6567,cmn,Mandarin Chinese,guj,Gujarati,0.081,High
+6571,cmn,Mandarin Chinese,heb,Hebrew,0.083,High
+6572,cmn,Mandarin Chinese,hin,Hindi,0.101,High
+6573,cmn,Mandarin Chinese,hrv,Croatian,0.064,High
+6575,cmn,Mandarin Chinese,hun,Hungarian,0.058,High
+6576,cmn,Mandarin Chinese,hye,Armenian,0.108,High
+6577,cmn,Mandarin Chinese,ind,Indonesian,0.065,High
+6578,cmn,Mandarin Chinese,isl,Icelandic,0.042,High
+6579,cmn,Mandarin Chinese,ita,Italian,0.067,High
+6581,cmn,Mandarin Chinese,jpn,Japanese,2.259,High
+6583,cmn,Mandarin Chinese,kan,Kannada,0.053,High
+6585,cmn,Mandarin Chinese,kat,Georgian,0.013,High
+6586,cmn,Mandarin Chinese,kaz,Kazakh,0.048,Medium
+6588,cmn,Mandarin Chinese,khm,Khmer,0.1,Medium
+6590,cmn,Mandarin Chinese,kir,Kirghiz,0.061,Medium
+6593,cmn,Mandarin Chinese,kor,Korean,1.605,High
+6596,cmn,Mandarin Chinese,lao,Lao,0.276,Medium
+6598,cmn,Mandarin Chinese,lit,Lithuanian,0.061,High
+6602,cmn,Mandarin Chinese,lug,Ganda,0.097,Medium
+6603,cmn,Mandarin Chinese,luo,Luo,0.154,Medium
+6604,cmn,Mandarin Chinese,mal,Malayalam,0.082,High
+6605,cmn,Mandarin Chinese,mar,Marathi,0.081,High
+6608,cmn,Mandarin Chinese,mkd,Macedonian,0.076,High
+6609,cmn,Mandarin Chinese,mlt,Maltese,0.134,Medium
+6611,cmn,Mandarin Chinese,mni,Manipuri,0.025,High
+6621,cmn,Mandarin Chinese,nld,Dutch,0.125,High
+6622,cmn,Mandarin Chinese,nno,Norwegian Nynorsk,0.075,High
+6623,cmn,Mandarin Chinese,nob,Norwegian Bokmål,0.073,High
+6628,cmn,Mandarin Chinese,pan,Panjabi,0.143,High
+6630,cmn,Mandarin Chinese,pol,Polish,0.076,High
+6631,cmn,Mandarin Chinese,por,Portuguese,0.057,High
+6634,cmn,Mandarin Chinese,ron,Romanian,0.042,High
+6636,cmn,Mandarin Chinese,rus,Russian,0.063,High
+6643,cmn,Mandarin Chinese,slk,Slovak,0.059,High
+6644,cmn,Mandarin Chinese,slv,Slovenian,0.047,High
+6647,cmn,Mandarin Chinese,snd,Sindhi,0.087,Low
+6648,cmn,Mandarin Chinese,som,Somali,0.077,Low
+6650,cmn,Mandarin Chinese,spa,Spanish,0.042,High
+6653,cmn,Mandarin Chinese,swe,Swedish,0.053,High
+6654,cmn,Mandarin Chinese,tam,Tamil,0.081,High
+6656,cmn,Mandarin Chinese,tel,Telugu,0.034,High
+6657,cmn,Mandarin Chinese,tgk,Tajik,0.098,Medium
+6658,cmn,Mandarin Chinese,tgl,Tagalog,0.046,Medium
+6659,cmn,Mandarin Chinese,tha,Thai,0.095,High
+6663,cmn,Mandarin Chinese,tur,Turkish,0.038,High
+6666,cmn,Mandarin Chinese,ukr,Ukrainian,0.08,High
+6667,cmn,Mandarin Chinese,urd,Urdu,0.141,High
+6670,cmn,Mandarin Chinese,vie,Vietnamese,1.115,High
+6676,cmn,Mandarin Chinese,yor,Yoruba,0.051,Medium
+6677,cmn,Mandarin Chinese,yue,Yue Chinese,3.842,Medium
+6679,cmn,Mandarin Chinese,zsm,Standard Malay,0.046,High
+6680,cmn,Mandarin Chinese,zul,Zulu,0.052,High
+7494,cym,Welsh,dan,Danish,2.054,High
+7495,cym,Welsh,deu,German,1.756,High
+7500,cym,Welsh,ell,Modern Greek,0.873,High
+7501,cym,Welsh,eng,English,1.585,High
+7504,cym,Welsh,eus,Basque,1.275,High
+7511,cym,Welsh,fin,Finnish,0.671,High
+7512,cym,Welsh,fra,French,1.72,High
+7519,cym,Welsh,gle,Irish,3.046,Medium
+7520,cym,Welsh,glg,Galician,1.855,High
+7524,cym,Welsh,guj,Gujarati,0.812,High
+7528,cym,Welsh,heb,Hebrew,0.263,High
+7531,cym,Welsh,hin,Hindi,0.779,High
+7533,cym,Welsh,hrv,Croatian,1.102,High
+7535,cym,Welsh,hun,Hungarian,1.201,High
+7536,cym,Welsh,hye,Armenian,0.826,Medium
+7538,cym,Welsh,ind,Indonesian,0.67,High
+7539,cym,Welsh,isl,Icelandic,1.06,High
+7540,cym,Welsh,ita,Italian,1.739,High
+7543,cym,Welsh,jav,Javanese,1.337,Low
+7544,cym,Welsh,jpn,Japanese,0.737,High
+7548,cym,Welsh,kan,Kannada,0.485,High
+7550,cym,Welsh,kat,Georgian,0.921,Medium
+7551,cym,Welsh,kaz,Kazakh,0.607,Medium
+7552,cym,Welsh,khm,Khmer,0.386,Medium
+7554,cym,Welsh,kir,Kirghiz,0.409,Medium
+7559,cym,Welsh,kor,Korean,0.442,High
+7565,cym,Welsh,lao,Lao,0.313,Medium
+7571,cym,Welsh,lit,Lithuanian,1.252,High
+7577,cym,Welsh,lug,Ganda,0.238,Medium
+7578,cym,Welsh,luo,Luo,0.139,Medium
+7580,cym,Welsh,mal,Malayalam,0.459,High
+7581,cym,Welsh,mar,Marathi,0.53,Medium
+7587,cym,Welsh,mkd,Macedonian,1.653,Medium
+7588,cym,Welsh,mlt,Maltese,1.922,Medium
+7589,cym,Welsh,mni,Manipuri,0.411,Medium
+7595,cym,Welsh,mya,Burmese,0.334,Medium
+7602,cym,Welsh,nld,Dutch,1.667,High
+7604,cym,Welsh,nno,Norwegian Nynorsk,2.139,Medium
+7605,cym,Welsh,nob,Norwegian Bokmål,1.922,High
+7613,cym,Welsh,pan,Panjabi,0.84,High
+7618,cym,Welsh,pol,Polish,1.091,High
+7619,cym,Welsh,por,Portuguese,2.079,High
+7624,cym,Welsh,ron,Romanian,1.465,High
+7627,cym,Welsh,rus,Russian,1.055,High
+7638,cym,Welsh,slk,Slovak,1.029,High
+7639,cym,Welsh,slv,Slovenian,1.176,High
+7642,cym,Welsh,snd,Sindhi,0.109,Low
+7643,cym,Welsh,som,Somali,0.251,Low
+7645,cym,Welsh,spa,Spanish,1.501,High
+7651,cym,Welsh,swe,Swedish,1.622,High
+7653,cym,Welsh,tam,Tamil,0.263,High
+7655,cym,Welsh,tel,Telugu,0.411,High
+7657,cym,Welsh,tgk,Tajik,1.041,Medium
+7658,cym,Welsh,tgl,Tagalog,1.338,Medium
+7659,cym,Welsh,tha,Thai,0.301,High
+7665,cym,Welsh,tur,Turkish,1.173,High
+7671,cym,Welsh,ukr,Ukrainian,1.287,High
+7672,cym,Welsh,urd,Urdu,0.706,High
+7676,cym,Welsh,vie,Vietnamese,0.524,High
+7685,cym,Welsh,yor,Yoruba,0.17,Medium
+7687,cym,Welsh,zsm,Standard Malay,0.84,High
+7688,cym,Welsh,zul,Zulu,0.411,Medium
+7690,dan,Danish,deu,German,7.748,High
+7695,dan,Danish,ell,Modern Greek,1.499,High
+7696,dan,Danish,eng,English,4.445,High
+7699,dan,Danish,eus,Basque,2.654,High
+7706,dan,Danish,fin,Finnish,1.671,High
+7707,dan,Danish,fra,French,3.708,High
+7715,dan,Danish,gle,Irish,1.9,High
+7716,dan,Danish,glg,Galician,3.318,High
+7720,dan,Danish,guj,Gujarati,1.084,High
+7724,dan,Danish,heb,Hebrew,0.553,High
+7727,dan,Danish,hin,Hindi,0.774,High
+7728,dan,Danish,hrv,Croatian,3.097,High
+7730,dan,Danish,hun,Hungarian,2.781,High
+7731,dan,Danish,hye,Armenian,0.973,High
+7732,dan,Danish,ibo,Igbo,0.228,Low
+7734,dan,Danish,ind,Indonesian,1.528,High
+7735,dan,Danish,isl,Icelandic,5.825,High
+7736,dan,Danish,ita,Italian,4.09,High
+7739,dan,Danish,jav,Javanese,1.328,Low
+7740,dan,Danish,jpn,Japanese,1.39,High
+7744,dan,Danish,kan,Kannada,0.669,High
+7746,dan,Danish,kat,Georgian,1.392,High
+7747,dan,Danish,kaz,Kazakh,1.235,Medium
+7749,dan,Danish,khm,Khmer,0.432,Medium
+7752,dan,Danish,kir,Kirghiz,1.052,Medium
+7757,dan,Danish,kor,Korean,0.524,High
+7763,dan,Danish,lao,Lao,0.279,Medium
+7769,dan,Danish,lit,Lithuanian,2.961,High
+7775,dan,Danish,lug,Ganda,0.15,Medium
+7776,dan,Danish,luo,Luo,0.358,Medium
+7779,dan,Danish,mal,Malayalam,0.664,High
+7780,dan,Danish,mar,Marathi,0.482,High
+7786,dan,Danish,mkd,Macedonian,3.155,High
+7787,dan,Danish,mlt,Maltese,2.313,Medium
+7788,dan,Danish,mni,Manipuri,0.669,High
+7794,dan,Danish,mya,Burmese,0.376,Medium
+7804,dan,Danish,nld,Dutch,7.155,High
+7806,dan,Danish,nno,Norwegian Nynorsk,31.443,High
+7807,dan,Danish,nob,Norwegian Bokmål,31.085,High
+7814,dan,Danish,pan,Panjabi,1.183,High
+7822,dan,Danish,pol,Polish,2.671,High
+7823,dan,Danish,por,Portuguese,4.357,High
+7828,dan,Danish,ron,Romanian,3.316,High
+7831,dan,Danish,rus,Russian,2.494,High
+7841,dan,Danish,slk,Slovak,2.926,High
+7842,dan,Danish,slv,Slovenian,2.919,High
+7846,dan,Danish,snd,Sindhi,0.223,Low
+7847,dan,Danish,som,Somali,0.641,Low
+7849,dan,Danish,spa,Spanish,3.425,High
+7857,dan,Danish,swe,Swedish,13.53,High
+7860,dan,Danish,tam,Tamil,0.311,High
+7862,dan,Danish,tel,Telugu,0.557,High
+7864,dan,Danish,tgk,Tajik,1.533,Medium
+7865,dan,Danish,tgl,Tagalog,1.559,Medium
+7866,dan,Danish,tha,Thai,0.414,High
+7873,dan,Danish,tur,Turkish,1.944,High
+7879,dan,Danish,ukr,Ukrainian,2.628,High
+7880,dan,Danish,urd,Urdu,0.895,High
+7884,dan,Danish,vie,Vietnamese,0.579,High
+7895,dan,Danish,yor,Yoruba,0.309,Medium
+7897,dan,Danish,zsm,Standard Malay,1.415,High
+7898,dan,Danish,zul,Zulu,0.418,High
+7903,deu,German,ell,Modern Greek,1.395,High
+7904,deu,German,eng,English,4.72,High
+7907,deu,German,eus,Basque,2.934,High
+7914,deu,German,fin,Finnish,1.793,High
+7915,deu,German,fra,French,4.162,High
+7924,deu,German,gle,Irish,1.825,High
+7925,deu,German,glg,Galician,3.265,High
+7929,deu,German,guj,Gujarati,0.971,High
+7933,deu,German,heb,Hebrew,0.546,High
+7936,deu,German,hin,Hindi,0.692,High
+7937,deu,German,hrv,Croatian,3.137,High
+7939,deu,German,hun,Hungarian,2.986,High
+7940,deu,German,hye,Armenian,1.113,High
+7941,deu,German,ibo,Igbo,0.142,Low
+7943,deu,German,ind,Indonesian,1.382,High
+7944,deu,German,isl,Icelandic,2.523,High
+7945,deu,German,ita,Italian,4.186,High
+7948,deu,German,jav,Javanese,0.47,Low
+7949,deu,German,jpn,Japanese,1.249,High
+7953,deu,German,kan,Kannada,0.474,High
+7955,deu,German,kat,Georgian,1.365,High
+7956,deu,German,kaz,Kazakh,1.082,Medium
+7958,deu,German,khm,Khmer,0.315,Medium
+7961,deu,German,kir,Kirghiz,0.987,Medium
+7966,deu,German,kor,Korean,0.479,High
+7972,deu,German,lao,Lao,0.179,Medium
+7978,deu,German,lit,Lithuanian,2.944,High
+7984,deu,German,lug,Ganda,0.092,Medium
+7985,deu,German,luo,Luo,0.248,Medium
+7988,deu,German,mal,Malayalam,0.556,High
+7989,deu,German,mar,Marathi,0.381,High
+7995,deu,German,mkd,Macedonian,2.851,High
+7996,deu,German,mlt,Maltese,2.309,Medium
+7997,deu,German,mni,Manipuri,0.46,High
+8003,deu,German,mya,Burmese,0.238,Medium
+8013,deu,German,nld,Dutch,9.196,High
+8015,deu,German,nno,Norwegian Nynorsk,7.449,High
+8016,deu,German,nob,Norwegian Bokmål,7.119,High
+8023,deu,German,pan,Panjabi,0.894,High
+8031,deu,German,pol,Polish,2.841,High
+8032,deu,German,por,Portuguese,4.616,High
+8038,deu,German,ron,Romanian,3.473,High
+8041,deu,German,rus,Russian,2.961,High
+8051,deu,German,slk,Slovak,3.057,High
+8052,deu,German,slv,Slovenian,2.963,High
+8057,deu,German,snd,Sindhi,0.139,Low
+8058,deu,German,som,Somali,0.376,Low
+8060,deu,German,spa,Spanish,3.578,High
+8068,deu,German,swe,Swedish,6.418,High
+8071,deu,German,tam,Tamil,0.256,High
+8073,deu,German,tel,Telugu,0.401,High
+8075,deu,German,tgk,Tajik,1.138,Medium
+8076,deu,German,tgl,Tagalog,1.429,Medium
+8077,deu,German,tha,Thai,0.42,High
+8084,deu,German,tur,Turkish,1.857,High
+8088,deu,German,ukr,Ukrainian,2.43,High
+8089,deu,German,urd,Urdu,0.708,High
+8093,deu,German,vie,Vietnamese,0.465,High
+8104,deu,German,yor,Yoruba,0.307,Medium
+8106,deu,German,zsm,Standard Malay,1.226,High
+8107,deu,German,zul,Zulu,0.369,High
+8595,ell,Modern Greek,eng,English,1.22,High
+8598,ell,Modern Greek,eus,Basque,1.371,High
+8605,ell,Modern Greek,fin,Finnish,0.686,High
+8606,ell,Modern Greek,fra,French,1.551,High
+8613,ell,Modern Greek,gle,Irish,0.897,High
+8614,ell,Modern Greek,glg,Galician,1.527,High
+8618,ell,Modern Greek,guj,Gujarati,0.575,High
+8622,ell,Modern Greek,heb,Hebrew,0.248,High
+8625,ell,Modern Greek,hin,Hindi,0.365,High
+8626,ell,Modern Greek,hrv,Croatian,1.254,High
+8628,ell,Modern Greek,hun,Hungarian,1.173,High
+8629,ell,Modern Greek,hye,Armenian,0.673,High
+8631,ell,Modern Greek,ind,Indonesian,0.564,High
+8632,ell,Modern Greek,isl,Icelandic,0.496,High
+8633,ell,Modern Greek,ita,Italian,1.923,High
+8636,ell,Modern Greek,jav,Javanese,0.34,Low
+8637,ell,Modern Greek,jpn,Japanese,0.486,High
+8641,ell,Modern Greek,kan,Kannada,0.263,High
+8643,ell,Modern Greek,kat,Georgian,0.869,High
+8644,ell,Modern Greek,kaz,Kazakh,0.555,Medium
+8646,ell,Modern Greek,khm,Khmer,0.254,Medium
+8648,ell,Modern Greek,kir,Kirghiz,0.745,Medium
+8653,ell,Modern Greek,kor,Korean,0.146,High
+8658,ell,Modern Greek,lao,Lao,0.15,Medium
+8664,ell,Modern Greek,lit,Lithuanian,1.246,High
+8670,ell,Modern Greek,lug,Ganda,0.106,Medium
+8671,ell,Modern Greek,luo,Luo,0.108,Medium
+8673,ell,Modern Greek,mal,Malayalam,0.359,High
+8674,ell,Modern Greek,mar,Marathi,0.243,High
+8679,ell,Modern Greek,mkd,Macedonian,1.318,High
+8680,ell,Modern Greek,mlt,Maltese,1.446,Medium
+8681,ell,Modern Greek,mni,Manipuri,0.328,High
+8687,ell,Modern Greek,mya,Burmese,0.111,Medium
+8694,ell,Modern Greek,nld,Dutch,1.391,High
+8695,ell,Modern Greek,nno,Norwegian Nynorsk,1.38,High
+8696,ell,Modern Greek,nob,Norwegian Bokmål,1.305,High
+8703,ell,Modern Greek,pan,Panjabi,0.601,High
+8711,ell,Modern Greek,pol,Polish,1.03,High
+8712,ell,Modern Greek,por,Portuguese,1.882,High
+8717,ell,Modern Greek,ron,Romanian,1.411,High
+8720,ell,Modern Greek,rus,Russian,0.937,High
+8730,ell,Modern Greek,slk,Slovak,1.043,High
+8731,ell,Modern Greek,slv,Slovenian,1.273,High
+8734,ell,Modern Greek,snd,Sindhi,0.113,Low
+8735,ell,Modern Greek,som,Somali,0.251,Low
+8737,ell,Modern Greek,spa,Spanish,1.51,High
+8745,ell,Modern Greek,swe,Swedish,1.239,High
+8748,ell,Modern Greek,tam,Tamil,0.249,High
+8750,ell,Modern Greek,tel,Telugu,0.228,High
+8752,ell,Modern Greek,tgk,Tajik,0.769,Medium
+8753,ell,Modern Greek,tgl,Tagalog,0.752,Medium
+8754,ell,Modern Greek,tha,Thai,0.209,High
+8761,ell,Modern Greek,tur,Turkish,1.152,High
+8767,ell,Modern Greek,ukr,Ukrainian,0.86,High
+8768,ell,Modern Greek,urd,Urdu,0.463,High
+8772,ell,Modern Greek,vie,Vietnamese,0.201,High
+8783,ell,Modern Greek,yor,Yoruba,0.117,Medium
+8785,ell,Modern Greek,zsm,Standard Malay,0.498,High
+8786,ell,Modern Greek,zul,Zulu,0.191,High
+8789,eng,English,eus,Basque,3.786,High
+8796,eng,English,fin,Finnish,1.734,High
+8797,eng,English,fra,French,9.665,High
+8806,eng,English,gle,Irish,1.877,High
+8807,eng,English,glg,Galician,6.197,High
+8811,eng,English,guj,Gujarati,1.004,High
+8815,eng,English,heb,Hebrew,0.417,High
+8818,eng,English,hin,Hindi,0.629,High
+8819,eng,English,hrv,Croatian,3.418,High
+8821,eng,English,hun,Hungarian,1.844,High
+8822,eng,English,hye,Armenian,0.67,High
+8824,eng,English,ind,Indonesian,1.674,High
+8825,eng,English,isl,Icelandic,1.698,High
+8826,eng,English,ita,Italian,6.757,High
+8829,eng,English,jav,Javanese,0.443,Low
+8830,eng,English,jpn,Japanese,1.786,High
+8834,eng,English,kan,Kannada,0.564,High
+8836,eng,English,kat,Georgian,0.972,High
+8837,eng,English,kaz,Kazakh,0.738,High
+8839,eng,English,khm,Khmer,0.235,Medium
+8842,eng,English,kir,Kirghiz,0.701,Medium
+8847,eng,English,kor,Korean,0.53,High
+8854,eng,English,lao,Lao,0.119,Medium
+8860,eng,English,lit,Lithuanian,2.683,High
+8866,eng,English,lug,Ganda,0.061,Medium
+8867,eng,English,luo,Luo,0.191,Medium
+8870,eng,English,mal,Malayalam,0.494,High
+8871,eng,English,mar,Marathi,0.297,High
+8878,eng,English,mkd,Macedonian,1.788,High
+8879,eng,English,mlt,Maltese,2.061,Medium
+8880,eng,English,mni,Manipuri,0.562,High
+8886,eng,English,mya,Burmese,0.271,Medium
+8896,eng,English,nld,Dutch,6.081,High
+8898,eng,English,nno,Norwegian Nynorsk,4.302,High
+8899,eng,English,nob,Norwegian Bokmål,4.039,High
+8907,eng,English,pan,Panjabi,0.972,High
+8915,eng,English,pol,Polish,2.583,High
+8916,eng,English,por,Portuguese,7.944,High
+8921,eng,English,ron,Romanian,6.194,High
+8924,eng,English,rus,Russian,2.025,High
+8934,eng,English,slk,Slovak,3.056,High
+8935,eng,English,slv,Slovenian,2.917,High
+8939,eng,English,sna,Shona,0.052,Low
+8940,eng,English,snd,Sindhi,0.123,Low
+8941,eng,English,som,Somali,0.198,Low
+8943,eng,English,spa,Spanish,7.907,High
+8951,eng,English,swe,Swedish,4.158,High
+8954,eng,English,tam,Tamil,0.301,High
+8956,eng,English,tel,Telugu,0.439,High
+8958,eng,English,tgk,Tajik,0.72,Medium
+8959,eng,English,tgl,Tagalog,1.354,Medium
+8960,eng,English,tha,Thai,0.539,High
+8967,eng,English,tur,Turkish,1.396,High
+8973,eng,English,ukr,Ukrainian,1.572,High
+8974,eng,English,urd,Urdu,0.752,High
+8978,eng,English,vie,Vietnamese,0.266,High
+8989,eng,English,yor,Yoruba,0.239,Medium
+8991,eng,English,yue,Yue Chinese,0.013,Medium
+8993,eng,English,zsm,Standard Malay,1.238,High
+8994,eng,English,zul,Zulu,0.322,High
+9299,eus,Basque,fin,Finnish,1.436,High
+9300,eus,Basque,fra,French,4.634,High
+9308,eus,Basque,gle,Irish,1.326,High
+9309,eus,Basque,glg,Galician,4.617,High
+9313,eus,Basque,guj,Gujarati,0.744,High
+9317,eus,Basque,heb,Hebrew,0.422,High
+9319,eus,Basque,hin,Hindi,0.453,High
+9320,eus,Basque,hrv,Croatian,2.788,High
+9322,eus,Basque,hun,Hungarian,2.055,High
+9323,eus,Basque,hye,Armenian,0.693,High
+9325,eus,Basque,ind,Indonesian,1.563,High
+9326,eus,Basque,isl,Icelandic,0.653,High
+9327,eus,Basque,ita,Italian,5.518,High
+9329,eus,Basque,jav,Javanese,0.612,Low
+9330,eus,Basque,jpn,Japanese,1.172,High
+9333,eus,Basque,kan,Kannada,0.361,High
+9335,eus,Basque,kat,Georgian,1.097,High
+9336,eus,Basque,kaz,Kazakh,0.813,Medium
+9338,eus,Basque,khm,Khmer,0.273,Medium
+9340,eus,Basque,kir,Kirghiz,0.654,Medium
+9345,eus,Basque,kor,Korean,0.454,High
+9351,eus,Basque,lao,Lao,0.081,Medium
+9357,eus,Basque,lit,Lithuanian,2.618,High
+9362,eus,Basque,lug,Ganda,0.06,Medium
+9363,eus,Basque,luo,Luo,0.11,Medium
+9365,eus,Basque,mal,Malayalam,0.414,High
+9366,eus,Basque,mar,Marathi,0.291,High
+9372,eus,Basque,mkd,Macedonian,1.883,High
+9373,eus,Basque,mlt,Maltese,2.29,Medium
+9374,eus,Basque,mni,Manipuri,0.454,High
+9380,eus,Basque,mya,Burmese,0.172,Medium
+9388,eus,Basque,nld,Dutch,3.138,High
+9389,eus,Basque,nno,Norwegian Nynorsk,2.544,High
+9390,eus,Basque,nob,Norwegian Bokmål,2.353,High
+9398,eus,Basque,pan,Panjabi,0.809,High
+9406,eus,Basque,pol,Polish,2.477,High
+9407,eus,Basque,por,Portuguese,6.199,High
+9411,eus,Basque,ron,Romanian,4.097,High
+9414,eus,Basque,rus,Russian,1.946,High
+9423,eus,Basque,slk,Slovak,2.33,High
+9424,eus,Basque,slv,Slovenian,2.681,High
+9428,eus,Basque,snd,Sindhi,0.05,Low
+9429,eus,Basque,som,Somali,0.273,Low
+9431,eus,Basque,spa,Spanish,5.873,High
+9439,eus,Basque,swe,Swedish,2.582,High
+9442,eus,Basque,tam,Tamil,0.289,High
+9444,eus,Basque,tel,Telugu,0.274,High
+9446,eus,Basque,tgk,Tajik,0.848,Medium
+9447,eus,Basque,tgl,Tagalog,2.179,Medium
+9448,eus,Basque,tha,Thai,0.361,High
+9454,eus,Basque,tur,Turkish,1.654,High
+9459,eus,Basque,ukr,Ukrainian,1.508,High
+9460,eus,Basque,urd,Urdu,0.551,High
+9464,eus,Basque,vie,Vietnamese,0.389,High
+9475,eus,Basque,yor,Yoruba,0.263,Medium
+9477,eus,Basque,zsm,Standard Malay,1.237,High
+9478,eus,Basque,zul,Zulu,0.275,High
+10232,fin,Finnish,fra,French,1.622,High
+10238,fin,Finnish,gle,Irish,0.682,High
+10239,fin,Finnish,glg,Galician,1.355,High
+10243,fin,Finnish,guj,Gujarati,0.463,High
+10247,fin,Finnish,heb,Hebrew,0.215,High
+10249,fin,Finnish,hin,Hindi,0.311,High
+10250,fin,Finnish,hrv,Croatian,1.39,High
+10252,fin,Finnish,hun,Hungarian,1.581,High
+10253,fin,Finnish,hye,Armenian,0.533,High
+10255,fin,Finnish,ind,Indonesian,0.802,High
+10256,fin,Finnish,isl,Icelandic,0.828,High
+10257,fin,Finnish,ita,Italian,1.825,High
+10260,fin,Finnish,jav,Javanese,0.263,Low
+10261,fin,Finnish,jpn,Japanese,0.686,High
+10265,fin,Finnish,kan,Kannada,0.262,High
+10267,fin,Finnish,kat,Georgian,0.673,High
+10268,fin,Finnish,kaz,Kazakh,0.529,Medium
+10270,fin,Finnish,khm,Khmer,0.175,Medium
+10273,fin,Finnish,kir,Kirghiz,0.476,Medium
+10278,fin,Finnish,kor,Korean,0.333,High
+10283,fin,Finnish,lao,Lao,0.103,Medium
+10290,fin,Finnish,lit,Lithuanian,1.541,High
+10296,fin,Finnish,lug,Ganda,0.048,Medium
+10297,fin,Finnish,luo,Luo,0.152,Medium
+10300,fin,Finnish,mal,Malayalam,0.228,High
+10301,fin,Finnish,mar,Marathi,0.154,High
+10306,fin,Finnish,mkd,Macedonian,1.097,High
+10307,fin,Finnish,mlt,Maltese,0.858,Medium
+10308,fin,Finnish,mni,Manipuri,0.349,High
+10314,fin,Finnish,mya,Burmese,0.104,Medium
+10322,fin,Finnish,nld,Dutch,1.72,High
+10323,fin,Finnish,nno,Norwegian Nynorsk,1.73,High
+10324,fin,Finnish,nob,Norwegian Bokmål,1.593,High
+10331,fin,Finnish,pan,Panjabi,0.481,High
+10336,fin,Finnish,pol,Polish,1.287,High
+10337,fin,Finnish,por,Portuguese,1.785,High
+10342,fin,Finnish,ron,Romanian,1.511,High
+10345,fin,Finnish,rus,Russian,1.02,High
+10354,fin,Finnish,slk,Slovak,1.384,High
+10355,fin,Finnish,slv,Slovenian,1.436,High
+10359,fin,Finnish,snd,Sindhi,0.086,Low
+10361,fin,Finnish,spa,Spanish,1.484,High
+10368,fin,Finnish,swe,Swedish,1.964,High
+10370,fin,Finnish,tam,Tamil,0.114,High
+10372,fin,Finnish,tel,Telugu,0.177,High
+10374,fin,Finnish,tgk,Tajik,0.625,Medium
+10375,fin,Finnish,tgl,Tagalog,0.633,Medium
+10376,fin,Finnish,tha,Thai,0.24,High
+10382,fin,Finnish,tur,Turkish,0.901,High
+10387,fin,Finnish,ukr,Ukrainian,1.058,High
+10388,fin,Finnish,urd,Urdu,0.41,High
+10392,fin,Finnish,vie,Vietnamese,0.292,High
+10402,fin,Finnish,yor,Yoruba,0.131,Medium
+10405,fin,Finnish,zsm,Standard Malay,0.634,High
+10406,fin,Finnish,zul,Zulu,0.173,High
+10415,fra,French,gle,Irish,1.88,High
+10416,fra,French,glg,Galician,9.109,High
+10420,fra,French,guj,Gujarati,0.908,High
+10424,fra,French,heb,Hebrew,0.553,High
+10426,fra,French,hin,Hindi,0.562,High
+10428,fra,French,hrv,Croatian,3.626,High
+10430,fra,French,hun,Hungarian,2.086,High
+10431,fra,French,hye,Armenian,0.801,High
+10433,fra,French,ind,Indonesian,1.791,High
+10434,fra,French,isl,Icelandic,0.972,High
+10435,fra,French,ita,Italian,9.544,High
+10438,fra,French,jav,Javanese,0.795,Low
+10439,fra,French,jpn,Japanese,1.406,High
+10444,fra,French,kan,Kannada,0.459,High
+10446,fra,French,kat,Georgian,1.193,High
+10447,fra,French,kaz,Kazakh,1.016,Medium
+10449,fra,French,khm,Khmer,0.315,Medium
+10452,fra,French,kir,Kirghiz,0.854,Medium
+10457,fra,French,kor,Korean,0.368,High
+10463,fra,French,lao,Lao,0.214,Medium
+10469,fra,French,lit,Lithuanian,3.037,High
+10475,fra,French,lug,Ganda,0.122,Medium
+10476,fra,French,luo,Luo,0.152,Medium
+10479,fra,French,mal,Malayalam,0.459,High
+10480,fra,French,mar,Marathi,0.346,High
+10486,fra,French,mkd,Macedonian,2.298,High
+10487,fra,French,mlt,Maltese,3.052,Medium
+10488,fra,French,mni,Manipuri,0.557,High
+10495,fra,French,mya,Burmese,0.239,Medium
+10504,fra,French,nld,Dutch,5.326,High
+10506,fra,French,nno,Norwegian Nynorsk,3.507,High
+10507,fra,French,nob,Norwegian Bokmål,3.296,High
+10510,fra,French,nya,Nyanja,0.041,Medium
+10516,fra,French,pan,Panjabi,0.922,High
+10524,fra,French,pol,Polish,2.898,High
+10525,fra,French,por,Portuguese,11.979,High
+10531,fra,French,ron,Romanian,8.817,High
+10534,fra,French,rus,Russian,2.435,High
+10544,fra,French,slk,Slovak,3.21,High
+10545,fra,French,slv,Slovenian,3.261,High
+10550,fra,French,snd,Sindhi,0.19,Low
+10551,fra,French,som,Somali,0.177,Low
+10553,fra,French,spa,Spanish,11.196,High
+10561,fra,French,swe,Swedish,3.468,High
+10564,fra,French,tam,Tamil,0.264,High
+10566,fra,French,tel,Telugu,0.384,High
+10568,fra,French,tgk,Tajik,1.009,Medium
+10569,fra,French,tgl,Tagalog,1.799,Medium
+10570,fra,French,tha,Thai,0.454,High
+10577,fra,French,tur,Turkish,1.864,High
+10584,fra,French,ukr,Ukrainian,1.851,High
+10585,fra,French,urd,Urdu,0.708,High
+10589,fra,French,vie,Vietnamese,0.404,High
+10600,fra,French,yor,Yoruba,0.328,Medium
+10602,fra,French,zsm,Standard Malay,1.306,High
+10603,fra,French,zul,Zulu,0.312,High
+11516,gle,Irish,glg,Galician,1.764,High
+11520,gle,Irish,guj,Gujarati,0.929,High
+11524,gle,Irish,heb,Hebrew,0.27,High
+11527,gle,Irish,hin,Hindi,0.782,High
+11529,gle,Irish,hrv,Croatian,1.293,High
+11531,gle,Irish,hun,Hungarian,1.336,High
+11532,gle,Irish,hye,Armenian,0.741,High
+11534,gle,Irish,ind,Indonesian,0.629,High
+11535,gle,Irish,isl,Icelandic,1.092,High
+11536,gle,Irish,ita,Italian,2.083,High
+11539,gle,Irish,jav,Javanese,0.719,Low
+11540,gle,Irish,jpn,Japanese,0.685,High
+11543,gle,Irish,kan,Kannada,0.618,High
+11545,gle,Irish,kat,Georgian,0.803,High
+11546,gle,Irish,kaz,Kazakh,0.591,Medium
+11548,gle,Irish,khm,Khmer,0.393,Medium
+11550,gle,Irish,kir,Kirghiz,0.415,Medium
+11555,gle,Irish,kor,Korean,0.388,High
+11560,gle,Irish,lao,Lao,0.131,Medium
+11566,gle,Irish,lit,Lithuanian,1.315,High
+11572,gle,Irish,lug,Ganda,0.088,Medium
+11573,gle,Irish,luo,Luo,0.258,Medium
+11576,gle,Irish,mal,Malayalam,0.568,High
+11577,gle,Irish,mar,Marathi,0.478,High
+11582,gle,Irish,mkd,Macedonian,1.578,High
+11583,gle,Irish,mlt,Maltese,1.359,Medium
+11584,gle,Irish,mni,Manipuri,0.384,High
+11590,gle,Irish,mya,Burmese,0.297,Medium
+11599,gle,Irish,nld,Dutch,2.024,High
+11601,gle,Irish,nno,Norwegian Nynorsk,1.781,High
+11602,gle,Irish,nob,Norwegian Bokmål,1.603,High
+11609,gle,Irish,pan,Panjabi,0.873,High
+11614,gle,Irish,pol,Polish,1.202,High
+11615,gle,Irish,por,Portuguese,2.474,High
+11620,gle,Irish,ron,Romanian,1.639,High
+11623,gle,Irish,rus,Russian,1.14,High
+11633,gle,Irish,slk,Slovak,1.153,High
+11634,gle,Irish,slv,Slovenian,1.309,High
+11637,gle,Irish,snd,Sindhi,0.276,Low
+11638,gle,Irish,som,Somali,0.329,Low
+11640,gle,Irish,spa,Spanish,1.772,High
+11647,gle,Irish,swe,Swedish,1.662,High
+11649,gle,Irish,tam,Tamil,0.395,High
+11651,gle,Irish,tel,Telugu,0.406,High
+11653,gle,Irish,tgk,Tajik,0.845,Medium
+11654,gle,Irish,tgl,Tagalog,1.159,Medium
+11655,gle,Irish,tha,Thai,0.296,High
+11662,gle,Irish,tur,Turkish,1.151,High
+11668,gle,Irish,ukr,Ukrainian,1.362,High
+11669,gle,Irish,urd,Urdu,0.889,High
+11673,gle,Irish,vie,Vietnamese,0.525,High
+11683,gle,Irish,yor,Yoruba,0.206,Medium
+11685,gle,Irish,zsm,Standard Malay,0.805,High
+11686,gle,Irish,zul,Zulu,0.409,High
+11690,glg,Galician,guj,Gujarati,0.805,High
+11694,glg,Galician,heb,Hebrew,0.548,High
+11697,glg,Galician,hin,Hindi,0.643,High
+11699,glg,Galician,hrv,Croatian,2.977,High
+11701,glg,Galician,hun,Hungarian,2.061,High
+11702,glg,Galician,hye,Armenian,0.746,High
+11704,glg,Galician,ind,Indonesian,1.346,High
+11706,glg,Galician,isl,Icelandic,0.827,High
+11707,glg,Galician,ita,Italian,8.2,High
+11710,glg,Galician,jav,Javanese,0.74,Low
+11711,glg,Galician,jpn,Japanese,1.01,High
+11715,glg,Galician,kan,Kannada,0.421,High
+11717,glg,Galician,kat,Georgian,1.006,High
+11718,glg,Galician,kaz,Kazakh,0.896,Medium
+11720,glg,Galician,khm,Khmer,0.3,Medium
+11722,glg,Galician,kir,Kirghiz,0.676,Medium
+11727,glg,Galician,kor,Korean,0.321,High
+11733,glg,Galician,lao,Lao,0.194,Medium
+11739,glg,Galician,lit,Lithuanian,2.763,High
+11745,glg,Galician,lug,Ganda,0.12,Medium
+11746,glg,Galician,luo,Luo,0.174,Medium
+11749,glg,Galician,mal,Malayalam,0.399,High
+11750,glg,Galician,mar,Marathi,0.411,High
+11756,glg,Galician,mkd,Macedonian,2.013,High
+11757,glg,Galician,mlt,Maltese,3.232,Medium
+11758,glg,Galician,mni,Manipuri,0.485,High
+11765,glg,Galician,mya,Burmese,0.157,Medium
+11774,glg,Galician,nld,Dutch,3.817,High
+11776,glg,Galician,nno,Norwegian Nynorsk,2.881,High
+11777,glg,Galician,nob,Norwegian Bokmål,2.849,High
+11780,glg,Galician,nya,Nyanja,0.065,Medium
+11786,glg,Galician,pan,Panjabi,0.762,High
+11792,glg,Galician,pol,Polish,2.409,High
+11793,glg,Galician,por,Portuguese,14.994,High
+11798,glg,Galician,ron,Romanian,7.071,High
+11801,glg,Galician,rus,Russian,1.979,High
+11812,glg,Galician,slk,Slovak,2.502,High
+11813,glg,Galician,slv,Slovenian,2.676,High
+11817,glg,Galician,snd,Sindhi,0.179,Low
+11818,glg,Galician,som,Somali,0.319,Low
+11820,glg,Galician,spa,Spanish,18.223,High
+11828,glg,Galician,swe,Swedish,2.805,High
+11830,glg,Galician,tam,Tamil,0.307,High
+11832,glg,Galician,tel,Telugu,0.34,High
+11834,glg,Galician,tgk,Tajik,0.984,Medium
+11835,glg,Galician,tgl,Tagalog,2.485,Medium
+11836,glg,Galician,tha,Thai,0.352,High
+11843,glg,Galician,tur,Turkish,1.91,High
+11850,glg,Galician,ukr,Ukrainian,1.791,High
+11851,glg,Galician,urd,Urdu,0.601,High
+11855,glg,Galician,vie,Vietnamese,0.474,High
+11866,glg,Galician,yor,Yoruba,0.291,Medium
+11868,glg,Galician,zsm,Standard Malay,1.262,High
+11869,glg,Galician,zul,Zulu,0.312,High
+12280,guj,Gujarati,heb,Hebrew,0.357,High
+12283,guj,Gujarati,hin,Hindi,5.001,High
+12284,guj,Gujarati,hrv,Croatian,0.903,High
+12286,guj,Gujarati,hun,Hungarian,0.904,High
+12287,guj,Gujarati,hye,Armenian,0.706,High
+12289,guj,Gujarati,ind,Indonesian,0.8,High
+12290,guj,Gujarati,isl,Icelandic,0.666,High
+12291,guj,Gujarati,ita,Italian,1.104,High
+12294,guj,Gujarati,jav,Javanese,1.402,Low
+12295,guj,Gujarati,jpn,Japanese,0.658,High
+12300,guj,Gujarati,kan,Kannada,14.712,High
+12302,guj,Gujarati,kat,Georgian,0.472,High
+12303,guj,Gujarati,kaz,Kazakh,0.769,Medium
+12305,guj,Gujarati,khm,Khmer,0.668,Medium
+12308,guj,Gujarati,kir,Kirghiz,0.784,Medium
+12313,guj,Gujarati,kor,Korean,0.402,High
+12319,guj,Gujarati,lao,Lao,0.475,Medium
+12326,guj,Gujarati,lit,Lithuanian,0.715,High
+12331,guj,Gujarati,lug,Ganda,0.104,Medium
+12332,guj,Gujarati,luo,Luo,0.64,Medium
+12335,guj,Gujarati,mal,Malayalam,9.673,High
+12336,guj,Gujarati,mar,Marathi,3.241,High
+12342,guj,Gujarati,mkd,Macedonian,1.159,High
+12343,guj,Gujarati,mlt,Maltese,1.257,Medium
+12344,guj,Gujarati,mni,Manipuri,2.179,High
+12350,guj,Gujarati,mya,Burmese,0.264,Medium
+12358,guj,Gujarati,nld,Dutch,1.291,High
+12359,guj,Gujarati,nno,Norwegian Nynorsk,1.211,High
+12360,guj,Gujarati,nob,Norwegian Bokmål,0.996,High
+12368,guj,Gujarati,pan,Panjabi,20.399,High
+12375,guj,Gujarati,pol,Polish,0.782,High
+12376,guj,Gujarati,por,Portuguese,1.242,High
+12381,guj,Gujarati,ron,Romanian,0.76,High
+12384,guj,Gujarati,rus,Russian,0.774,High
+12394,guj,Gujarati,slk,Slovak,0.739,High
+12395,guj,Gujarati,slv,Slovenian,0.746,High
+12399,guj,Gujarati,sna,Shona,0.225,Low
+12400,guj,Gujarati,snd,Sindhi,0.488,Low
+12401,guj,Gujarati,som,Somali,0.922,Low
+12403,guj,Gujarati,spa,Spanish,0.924,High
+12410,guj,Gujarati,swe,Swedish,0.913,High
+12412,guj,Gujarati,tam,Tamil,3.155,High
+12414,guj,Gujarati,tel,Telugu,9.569,High
+12416,guj,Gujarati,tgk,Tajik,1.666,Medium
+12417,guj,Gujarati,tgl,Tagalog,1.068,Medium
+12418,guj,Gujarati,tha,Thai,0.665,High
+12425,guj,Gujarati,tur,Turkish,1.311,High
+12432,guj,Gujarati,ukr,Ukrainian,0.831,High
+12433,guj,Gujarati,urd,Urdu,6.14,High
+12437,guj,Gujarati,vie,Vietnamese,0.504,High
+12448,guj,Gujarati,yor,Yoruba,0.226,Medium
+12450,guj,Gujarati,yue,Yue Chinese,0.023,Medium
+12451,guj,Gujarati,zsm,Standard Malay,1.019,High
+12452,guj,Gujarati,zul,Zulu,0.362,High
+12845,heb,Hebrew,hin,Hindi,0.258,High
+12846,heb,Hebrew,hrv,Croatian,0.474,High
+12848,heb,Hebrew,hun,Hungarian,0.436,High
+12849,heb,Hebrew,hye,Armenian,0.392,High
+12850,heb,Hebrew,ind,Indonesian,0.318,High
+12851,heb,Hebrew,isl,Icelandic,0.195,High
+12852,heb,Hebrew,ita,Italian,0.606,High
+12854,heb,Hebrew,jav,Javanese,0.127,Low
+12855,heb,Hebrew,jpn,Japanese,0.211,High
+12859,heb,Hebrew,kan,Kannada,0.165,High
+12861,heb,Hebrew,kat,Georgian,0.255,High
+12862,heb,Hebrew,kaz,Kazakh,0.382,Medium
+12864,heb,Hebrew,khm,Khmer,0.064,Medium
+12866,heb,Hebrew,kir,Kirghiz,0.239,Medium
+12871,heb,Hebrew,kor,Korean,0.139,High
+12875,heb,Hebrew,lao,Lao,0.046,Medium
+12881,heb,Hebrew,lit,Lithuanian,0.652,High
+12886,heb,Hebrew,lug,Ganda,0.069,Medium
+12887,heb,Hebrew,luo,Luo,0.298,Medium
+12890,heb,Hebrew,mal,Malayalam,0.221,High
+12891,heb,Hebrew,mar,Marathi,0.177,High
+12896,heb,Hebrew,mkd,Macedonian,0.515,High
+12897,heb,Hebrew,mlt,Maltese,0.768,Medium
+12898,heb,Hebrew,mni,Manipuri,0.192,High
+12904,heb,Hebrew,mya,Burmese,0.109,Medium
+12912,heb,Hebrew,nld,Dutch,0.566,High
+12913,heb,Hebrew,nno,Norwegian Nynorsk,0.602,High
+12914,heb,Hebrew,nob,Norwegian Bokmål,0.551,High
+12917,heb,Hebrew,nya,Nyanja,0.071,Medium
+12921,heb,Hebrew,pan,Panjabi,0.355,High
+12925,heb,Hebrew,pol,Polish,0.488,High
+12926,heb,Hebrew,por,Portuguese,0.744,High
+12929,heb,Hebrew,ron,Romanian,0.478,High
+12932,heb,Hebrew,rus,Russian,0.427,High
+12939,heb,Hebrew,slk,Slovak,0.503,High
+12940,heb,Hebrew,slv,Slovenian,0.511,High
+12943,heb,Hebrew,snd,Sindhi,0.233,Low
+12944,heb,Hebrew,som,Somali,0.294,Low
+12946,heb,Hebrew,spa,Spanish,0.472,High
+12952,heb,Hebrew,swe,Swedish,0.472,High
+12953,heb,Hebrew,tam,Tamil,0.177,High
+12955,heb,Hebrew,tel,Telugu,0.108,High
+12956,heb,Hebrew,tgk,Tajik,0.328,Medium
+12957,heb,Hebrew,tgl,Tagalog,0.385,Medium
+12958,heb,Hebrew,tha,Thai,0.132,High
+12964,heb,Hebrew,tur,Turkish,0.479,High
+12969,heb,Hebrew,ukr,Ukrainian,0.398,High
+12970,heb,Hebrew,urd,Urdu,0.296,High
+12974,heb,Hebrew,vie,Vietnamese,0.2,High
+12982,heb,Hebrew,yor,Yoruba,0.116,Medium
+12983,heb,Hebrew,yue,Yue Chinese,0.065,Medium
+12985,heb,Hebrew,zsm,Standard Malay,0.32,High
+12986,heb,Hebrew,zul,Zulu,0.131,High
+13139,hin,Hindi,hrv,Croatian,0.589,High
+13141,hin,Hindi,hun,Hungarian,0.645,High
+13142,hin,Hindi,hye,Armenian,0.671,High
+13144,hin,Hindi,ind,Indonesian,0.55,High
+13145,hin,Hindi,isl,Icelandic,0.529,High
+13146,hin,Hindi,ita,Italian,0.649,High
+13149,hin,Hindi,jav,Javanese,0.735,Low
+13150,hin,Hindi,jpn,Japanese,0.458,High
+13155,hin,Hindi,kan,Kannada,2.83,High
+13157,hin,Hindi,kat,Georgian,0.563,High
+13158,hin,Hindi,kaz,Kazakh,0.962,Medium
+13160,hin,Hindi,khm,Khmer,0.669,Medium
+13163,hin,Hindi,kir,Kirghiz,1.156,Medium
+13169,hin,Hindi,kor,Korean,0.354,High
+13174,hin,Hindi,lao,Lao,0.555,Medium
+13180,hin,Hindi,lit,Lithuanian,0.489,High
+13186,hin,Hindi,lug,Ganda,0.215,Medium
+13187,hin,Hindi,luo,Luo,0.556,Medium
+13190,hin,Hindi,mal,Malayalam,2.499,High
+13191,hin,Hindi,mar,Marathi,3.519,High
+13197,hin,Hindi,mkd,Macedonian,1.051,High
+13198,hin,Hindi,mlt,Maltese,1.023,Medium
+13199,hin,Hindi,mni,Manipuri,0.934,High
+13205,hin,Hindi,mya,Burmese,0.662,Medium
+13213,hin,Hindi,nld,Dutch,0.839,High
+13215,hin,Hindi,nno,Norwegian Nynorsk,0.883,High
+13216,hin,Hindi,nob,Norwegian Bokmål,0.731,High
+13219,hin,Hindi,nya,Nyanja,0.053,Medium
+13225,hin,Hindi,pan,Panjabi,4.464,High
+13232,hin,Hindi,pol,Polish,0.585,High
+13233,hin,Hindi,por,Portuguese,0.847,High
+13237,hin,Hindi,ron,Romanian,0.532,High
+13240,hin,Hindi,rus,Russian,0.616,High
+13251,hin,Hindi,slk,Slovak,0.481,High
+13252,hin,Hindi,slv,Slovenian,0.53,High
+13256,hin,Hindi,sna,Shona,0.062,Low
+13257,hin,Hindi,snd,Sindhi,0.488,Low
+13258,hin,Hindi,som,Somali,0.485,Low
+13260,hin,Hindi,spa,Spanish,0.587,High
+13267,hin,Hindi,swe,Swedish,0.64,High
+13269,hin,Hindi,tam,Tamil,1.124,High
+13271,hin,Hindi,tel,Telugu,2.515,High
+13273,hin,Hindi,tgk,Tajik,2.061,Medium
+13274,hin,Hindi,tgl,Tagalog,0.961,Medium
+13275,hin,Hindi,tha,Thai,0.479,High
+13282,hin,Hindi,tur,Turkish,1.081,High
+13289,hin,Hindi,ukr,Ukrainian,0.844,High
+13290,hin,Hindi,urd,Urdu,4.221,High
+13294,hin,Hindi,vie,Vietnamese,0.367,High
+13304,hin,Hindi,yor,Yoruba,0.117,Medium
+13307,hin,Hindi,zsm,Standard Malay,0.72,High
+13308,hin,Hindi,zul,Zulu,0.336,High
+13326,hrv,Croatian,hun,Hungarian,2.243,High
+13327,hrv,Croatian,hye,Armenian,0.826,High
+13329,hrv,Croatian,ind,Indonesian,1.4,High
+13330,hrv,Croatian,isl,Icelandic,1.045,High
+13331,hrv,Croatian,ita,Italian,3.852,High
+13334,hrv,Croatian,jav,Javanese,0.389,Low
+13335,hrv,Croatian,jpn,Japanese,0.983,High
+13339,hrv,Croatian,kan,Kannada,0.44,High
+13341,hrv,Croatian,kat,Georgian,1.166,High
+13342,hrv,Croatian,kaz,Kazakh,0.968,Medium
+13344,hrv,Croatian,khm,Khmer,0.272,Medium
+13347,hrv,Croatian,kir,Kirghiz,0.991,Medium
+13352,hrv,Croatian,kor,Korean,0.4,High
+13358,hrv,Croatian,lao,Lao,0.253,Medium
+13365,hrv,Croatian,lit,Lithuanian,3.694,High
+13370,hrv,Croatian,lug,Ganda,0.225,Medium
+13371,hrv,Croatian,luo,Luo,0.277,Medium
+13374,hrv,Croatian,mal,Malayalam,0.523,High
+13375,hrv,Croatian,mar,Marathi,0.373,High
+13381,hrv,Croatian,mkd,Macedonian,8.744,High
+13382,hrv,Croatian,mlt,Maltese,1.722,Medium
+13384,hrv,Croatian,mni,Manipuri,0.419,High
+13390,hrv,Croatian,mya,Burmese,0.239,Medium
+13400,hrv,Croatian,nld,Dutch,3.187,High
+13402,hrv,Croatian,nno,Norwegian Nynorsk,2.996,High
+13403,hrv,Croatian,nob,Norwegian Bokmål,2.822,High
+13410,hrv,Croatian,pan,Panjabi,0.955,High
+13416,hrv,Croatian,pol,Polish,4.676,High
+13417,hrv,Croatian,por,Portuguese,4.036,High
+13421,hrv,Croatian,ron,Romanian,4.004,High
+13424,hrv,Croatian,rus,Russian,7.037,High
+13436,hrv,Croatian,slk,Slovak,14.332,High
+13437,hrv,Croatian,slv,Slovenian,28.16,High
+13441,hrv,Croatian,snd,Sindhi,0.196,Low
+13442,hrv,Croatian,som,Somali,0.227,Low
+13444,hrv,Croatian,spa,Spanish,3.617,High
+13451,hrv,Croatian,swe,Swedish,2.994,High
+13453,hrv,Croatian,tam,Tamil,0.237,High
+13455,hrv,Croatian,tel,Telugu,0.302,High
+13457,hrv,Croatian,tgk,Tajik,0.951,Medium
+13458,hrv,Croatian,tgl,Tagalog,1.146,Medium
+13459,hrv,Croatian,tha,Thai,0.358,High
+13466,hrv,Croatian,tur,Turkish,1.526,High
+13471,hrv,Croatian,ukr,Ukrainian,4.579,High
+13472,hrv,Croatian,urd,Urdu,0.729,High
+13476,hrv,Croatian,vie,Vietnamese,0.411,High
+13487,hrv,Croatian,yor,Yoruba,0.188,Medium
+13491,hrv,Croatian,zsm,Standard Malay,1.032,High
+13492,hrv,Croatian,zul,Zulu,0.3,High
+13640,hun,Hungarian,hye,Armenian,1.057,High
+13642,hun,Hungarian,ind,Indonesian,1.004,High
+13643,hun,Hungarian,isl,Icelandic,0.742,High
+13644,hun,Hungarian,ita,Italian,2.633,High
+13647,hun,Hungarian,jav,Javanese,0.726,Low
+13648,hun,Hungarian,jpn,Japanese,0.834,High
+13651,hun,Hungarian,kan,Kannada,0.456,High
+13653,hun,Hungarian,kat,Georgian,1.494,High
+13654,hun,Hungarian,kaz,Kazakh,1.251,Medium
+13656,hun,Hungarian,khm,Khmer,0.226,Medium
+13658,hun,Hungarian,kir,Kirghiz,1.115,Medium
+13663,hun,Hungarian,kor,Korean,0.476,High
+13668,hun,Hungarian,lao,Lao,0.286,Medium
+13675,hun,Hungarian,lit,Lithuanian,2.195,High
+13681,hun,Hungarian,lug,Ganda,0.185,Medium
+13682,hun,Hungarian,luo,Luo,0.37,Medium
+13684,hun,Hungarian,mal,Malayalam,0.416,High
+13685,hun,Hungarian,mar,Marathi,0.404,High
+13691,hun,Hungarian,mkd,Macedonian,2.652,High
+13692,hun,Hungarian,mlt,Maltese,1.893,Medium
+13693,hun,Hungarian,mni,Manipuri,0.436,High
+13701,hun,Hungarian,mya,Burmese,0.095,Medium
+13710,hun,Hungarian,nld,Dutch,2.315,High
+13711,hun,Hungarian,nno,Norwegian Nynorsk,2.245,High
+13712,hun,Hungarian,nob,Norwegian Bokmål,2.283,High
+13719,hun,Hungarian,pan,Panjabi,0.994,High
+13727,hun,Hungarian,pol,Polish,1.943,High
+13728,hun,Hungarian,por,Portuguese,2.601,High
+13733,hun,Hungarian,ron,Romanian,2.133,High
+13736,hun,Hungarian,rus,Russian,1.839,High
+13744,hun,Hungarian,slk,Slovak,2.334,High
+13745,hun,Hungarian,slv,Slovenian,2.185,High
+13748,hun,Hungarian,snd,Sindhi,0.171,Low
+13749,hun,Hungarian,som,Somali,0.584,Low
+13751,hun,Hungarian,spa,Spanish,2.105,High
+13759,hun,Hungarian,swe,Swedish,2.555,High
+13762,hun,Hungarian,tam,Tamil,0.268,High
+13764,hun,Hungarian,tel,Telugu,0.396,High
+13766,hun,Hungarian,tgk,Tajik,1.341,Medium
+13767,hun,Hungarian,tgl,Tagalog,1.214,Medium
+13768,hun,Hungarian,tha,Thai,0.339,High
+13774,hun,Hungarian,tur,Turkish,2.0,High
+13779,hun,Hungarian,ukr,Ukrainian,2.112,High
+13780,hun,Hungarian,urd,Urdu,0.8,High
+13783,hun,Hungarian,vie,Vietnamese,0.549,High
+13793,hun,Hungarian,yor,Yoruba,0.464,Medium
+13796,hun,Hungarian,zsm,Standard Malay,1.046,High
+13797,hun,Hungarian,zul,Zulu,0.357,High
+13800,hye,Armenian,ind,Indonesian,0.517,High
+13801,hye,Armenian,isl,Icelandic,0.486,High
+13802,hye,Armenian,ita,Italian,0.976,High
+13804,hye,Armenian,jav,Javanese,0.154,Low
+13805,hye,Armenian,jpn,Japanese,0.457,High
+13809,hye,Armenian,kan,Kannada,0.339,High
+13811,hye,Armenian,kat,Georgian,1.423,High
+13812,hye,Armenian,kaz,Kazakh,0.985,Medium
+13813,hye,Armenian,khm,Khmer,0.368,Medium
+13815,hye,Armenian,kir,Kirghiz,0.853,Medium
+13820,hye,Armenian,kor,Korean,0.387,High
+13825,hye,Armenian,lao,Lao,0.351,Medium
+13831,hye,Armenian,lit,Lithuanian,1.014,High
+13837,hye,Armenian,lug,Ganda,0.329,Medium
+13838,hye,Armenian,luo,Luo,0.429,Medium
+13840,hye,Armenian,mal,Malayalam,0.405,High
+13841,hye,Armenian,mar,Marathi,0.49,High
+13847,hye,Armenian,mkd,Macedonian,1.521,High
+13848,hye,Armenian,mlt,Maltese,1.329,Medium
+13849,hye,Armenian,mni,Manipuri,0.3,High
+13855,hye,Armenian,mya,Burmese,0.312,Medium
+13863,hye,Armenian,nld,Dutch,1.112,High
+13864,hye,Armenian,nno,Norwegian Nynorsk,1.129,High
+13865,hye,Armenian,nob,Norwegian Bokmål,0.915,High
+13871,hye,Armenian,pan,Panjabi,0.789,High
+13874,hye,Armenian,pol,Polish,0.874,High
+13875,hye,Armenian,por,Portuguese,1.112,High
+13880,hye,Armenian,ron,Romanian,0.842,High
+13883,hye,Armenian,rus,Russian,0.996,High
+13893,hye,Armenian,slk,Slovak,0.77,High
+13894,hye,Armenian,slv,Slovenian,0.768,High
+13897,hye,Armenian,snd,Sindhi,0.376,Low
+13898,hye,Armenian,som,Somali,0.297,Low
+13900,hye,Armenian,spa,Spanish,0.797,High
+13906,hye,Armenian,swe,Swedish,0.814,High
+13908,hye,Armenian,tam,Tamil,0.332,High
+13910,hye,Armenian,tel,Telugu,0.289,High
+13911,hye,Armenian,tgk,Tajik,1.396,Medium
+13912,hye,Armenian,tgl,Tagalog,0.729,Medium
+13913,hye,Armenian,tha,Thai,0.292,High
+13919,hye,Armenian,tur,Turkish,1.194,High
+13924,hye,Armenian,ukr,Ukrainian,1.394,High
+13925,hye,Armenian,urd,Urdu,0.743,High
+13929,hye,Armenian,vie,Vietnamese,0.315,High
+13938,hye,Armenian,yor,Yoruba,0.082,Medium
+13939,hye,Armenian,zsm,Standard Malay,0.454,High
+13940,hye,Armenian,zul,Zulu,0.243,High
+13941,ibo,Igbo,isl,Icelandic,0.179,Low
+13943,ibo,Igbo,nld,Dutch,0.126,Low
+13944,ibo,Igbo,nno,Norwegian Nynorsk,0.28,Low
+13945,ibo,Igbo,nob,Norwegian Bokmål,0.22,Low
+13947,ibo,Igbo,swe,Swedish,0.214,Low
+13949,ibo,Igbo,tur,Turkish,0.394,Low
+14041,ind,Indonesian,isl,Icelandic,0.396,High
+14042,ind,Indonesian,ita,Italian,1.938,High
+14045,ind,Indonesian,jav,Javanese,1.466,Low
+14046,ind,Indonesian,jpn,Japanese,0.668,High
+14051,ind,Indonesian,kan,Kannada,0.466,High
+14053,ind,Indonesian,kat,Georgian,0.621,High
+14054,ind,Indonesian,kaz,Kazakh,0.718,High
+14056,ind,Indonesian,khm,Khmer,0.263,Medium
+14059,ind,Indonesian,kir,Kirghiz,0.643,Medium
+14064,ind,Indonesian,kor,Korean,0.303,High
+14069,ind,Indonesian,lao,Lao,0.202,Medium
+14075,ind,Indonesian,lit,Lithuanian,1.437,High
+14080,ind,Indonesian,lug,Ganda,0.115,Medium
+14081,ind,Indonesian,luo,Luo,0.339,Medium
+14083,ind,Indonesian,mal,Malayalam,0.504,High
+14084,ind,Indonesian,mar,Marathi,0.361,High
+14090,ind,Indonesian,mkd,Macedonian,0.912,High
+14091,ind,Indonesian,mlt,Maltese,1.094,Medium
+14092,ind,Indonesian,mni,Manipuri,0.413,High
+14098,ind,Indonesian,mya,Burmese,0.148,Medium
+14105,ind,Indonesian,nld,Dutch,1.733,High
+14106,ind,Indonesian,nno,Norwegian Nynorsk,1.53,High
+14107,ind,Indonesian,nob,Norwegian Bokmål,1.366,High
+14114,ind,Indonesian,pan,Panjabi,0.84,High
+14120,ind,Indonesian,pol,Polish,1.163,High
+14121,ind,Indonesian,por,Portuguese,2.045,High
+14125,ind,Indonesian,ron,Romanian,1.615,High
+14128,ind,Indonesian,rus,Russian,0.986,High
+14138,ind,Indonesian,slk,Slovak,1.307,High
+14139,ind,Indonesian,slv,Slovenian,1.394,High
+14144,ind,Indonesian,snd,Sindhi,0.126,Low
+14146,ind,Indonesian,som,Somali,0.313,Low
+14148,ind,Indonesian,spa,Spanish,1.707,High
+14155,ind,Indonesian,swe,Swedish,1.427,High
+14158,ind,Indonesian,tam,Tamil,0.391,High
+14160,ind,Indonesian,tel,Telugu,0.43,High
+14162,ind,Indonesian,tgk,Tajik,0.887,Medium
+14163,ind,Indonesian,tgl,Tagalog,1.172,Medium
+14164,ind,Indonesian,tha,Thai,0.283,High
+14171,ind,Indonesian,tur,Turkish,1.118,High
+14178,ind,Indonesian,ukr,Ukrainian,0.86,High
+14179,ind,Indonesian,urd,Urdu,0.654,High
+14183,ind,Indonesian,vie,Vietnamese,0.292,High
+14193,ind,Indonesian,yor,Yoruba,0.1,Medium
+14195,ind,Indonesian,zsm,Standard Malay,39.924,High
+14196,ind,Indonesian,zul,Zulu,0.219,High
+14210,isl,Icelandic,ita,Italian,1.053,High
+14213,isl,Icelandic,jav,Javanese,0.344,Low
+14214,isl,Icelandic,jpn,Japanese,0.564,High
+14218,isl,Icelandic,kan,Kannada,0.397,High
+14220,isl,Icelandic,kat,Georgian,0.459,High
+14221,isl,Icelandic,kaz,Kazakh,0.507,Medium
+14223,isl,Icelandic,khm,Khmer,0.214,Medium
+14226,isl,Icelandic,kir,Kirghiz,0.443,Medium
+14231,isl,Icelandic,kor,Korean,0.307,High
+14238,isl,Icelandic,lao,Lao,0.242,Medium
+14244,isl,Icelandic,lit,Lithuanian,0.809,High
+14250,isl,Icelandic,lug,Ganda,0.196,Medium
+14251,isl,Icelandic,luo,Luo,0.346,Medium
+14254,isl,Icelandic,mal,Malayalam,0.531,High
+14255,isl,Icelandic,mar,Marathi,0.263,High
+14261,isl,Icelandic,mkd,Macedonian,1.358,High
+14262,isl,Icelandic,mlt,Maltese,0.882,Medium
+14263,isl,Icelandic,mni,Manipuri,0.33,High
+14270,isl,Icelandic,mya,Burmese,0.181,Medium
+14280,isl,Icelandic,nld,Dutch,2.369,High
+14282,isl,Icelandic,nno,Norwegian Nynorsk,7.083,High
+14283,isl,Icelandic,nob,Norwegian Bokmål,5.66,High
+14290,isl,Icelandic,pan,Panjabi,0.68,High
+14297,isl,Icelandic,pol,Polish,0.87,High
+14298,isl,Icelandic,por,Portuguese,1.15,High
+14305,isl,Icelandic,ron,Romanian,0.791,High
+14308,isl,Icelandic,rus,Russian,0.785,High
+14318,isl,Icelandic,slk,Slovak,1.007,High
+14319,isl,Icelandic,slv,Slovenian,0.873,High
+14323,isl,Icelandic,snd,Sindhi,0.292,Low
+14324,isl,Icelandic,som,Somali,0.475,Low
+14326,isl,Icelandic,spa,Spanish,0.851,High
+14334,isl,Icelandic,swe,Swedish,5.482,High
+14337,isl,Icelandic,tam,Tamil,0.262,High
+14339,isl,Icelandic,tel,Telugu,0.336,High
+14341,isl,Icelandic,tgk,Tajik,0.737,Medium
+14342,isl,Icelandic,tgl,Tagalog,0.471,Medium
+14343,isl,Icelandic,tha,Thai,0.265,High
+14350,isl,Icelandic,tur,Turkish,0.559,High
+14357,isl,Icelandic,ukr,Ukrainian,1.155,High
+14358,isl,Icelandic,urd,Urdu,0.58,High
+14362,isl,Icelandic,vie,Vietnamese,0.402,High
+14372,isl,Icelandic,yor,Yoruba,0.057,Medium
+14374,isl,Icelandic,zsm,Standard Malay,0.387,High
+14375,isl,Icelandic,zul,Zulu,0.307,High
+14378,ita,Italian,jav,Javanese,0.607,Low
+14379,ita,Italian,jpn,Japanese,1.675,High
+14383,ita,Italian,kan,Kannada,0.572,High
+14385,ita,Italian,kat,Georgian,1.434,High
+14386,ita,Italian,kaz,Kazakh,1.138,Medium
+14388,ita,Italian,khm,Khmer,0.313,Medium
+14390,ita,Italian,kir,Kirghiz,0.972,Medium
+14395,ita,Italian,kor,Korean,0.518,High
+14401,ita,Italian,lao,Lao,0.275,Medium
+14407,ita,Italian,lit,Lithuanian,3.487,High
+14413,ita,Italian,lug,Ganda,0.167,Medium
+14414,ita,Italian,luo,Luo,0.203,Medium
+14417,ita,Italian,mal,Malayalam,0.599,High
+14418,ita,Italian,mar,Marathi,0.398,High
+14424,ita,Italian,mkd,Macedonian,2.603,High
+14425,ita,Italian,mlt,Maltese,3.986,Medium
+14426,ita,Italian,mni,Manipuri,0.63,High
+14433,ita,Italian,mya,Burmese,0.246,Medium
+14443,ita,Italian,nld,Dutch,5.195,High
+14444,ita,Italian,nno,Norwegian Nynorsk,3.988,High
+14445,ita,Italian,nob,Norwegian Bokmål,3.686,High
+14448,ita,Italian,nya,Nyanja,0.043,Medium
+14453,ita,Italian,pan,Panjabi,1.08,High
+14461,ita,Italian,pol,Polish,3.511,High
+14462,ita,Italian,por,Portuguese,12.172,High
+14467,ita,Italian,ron,Romanian,7.824,High
+14470,ita,Italian,rus,Russian,2.816,High
+14480,ita,Italian,slk,Slovak,3.332,High
+14481,ita,Italian,slv,Slovenian,3.622,High
+14485,ita,Italian,snd,Sindhi,0.239,Low
+14486,ita,Italian,som,Somali,0.246,Low
+14488,ita,Italian,spa,Spanish,10.451,High
+14496,ita,Italian,swe,Swedish,3.695,High
+14499,ita,Italian,tam,Tamil,0.333,High
+14501,ita,Italian,tel,Telugu,0.487,High
+14503,ita,Italian,tgk,Tajik,1.156,Medium
+14504,ita,Italian,tgl,Tagalog,2.626,Medium
+14505,ita,Italian,tha,Thai,0.523,High
+14512,ita,Italian,tur,Turkish,2.088,High
+14519,ita,Italian,ukr,Ukrainian,2.146,High
+14520,ita,Italian,urd,Urdu,0.766,High
+14524,ita,Italian,vie,Vietnamese,0.46,High
+14535,ita,Italian,yor,Yoruba,0.266,Medium
+14537,ita,Italian,zsm,Standard Malay,1.378,High
+14538,ita,Italian,zul,Zulu,0.306,High
+14683,jav,Javanese,jpn,Japanese,0.187,Low
+14684,jav,Javanese,kan,Kannada,0.931,Low
+14686,jav,Javanese,kat,Georgian,0.584,Low
+14687,jav,Javanese,kaz,Kazakh,1.037,Low
+14689,jav,Javanese,khm,Khmer,0.801,Low
+14690,jav,Javanese,kir,Kirghiz,1.242,Low
+14698,jav,Javanese,lao,Lao,0.269,Low
+14703,jav,Javanese,lit,Lithuanian,0.471,Low
+14707,jav,Javanese,mal,Malayalam,0.943,Low
+14708,jav,Javanese,mar,Marathi,1.064,Low
+14713,jav,Javanese,mkd,Macedonian,0.53,Low
+14714,jav,Javanese,mlt,Maltese,1.543,Low
+14715,jav,Javanese,mni,Manipuri,0.535,Low
+14719,jav,Javanese,mya,Burmese,0.601,Low
+14725,jav,Javanese,nld,Dutch,0.669,Low
+14726,jav,Javanese,nno,Norwegian Nynorsk,1.196,Low
+14727,jav,Javanese,nob,Norwegian Bokmål,1.071,Low
+14734,jav,Javanese,pan,Panjabi,1.152,Low
+14739,jav,Javanese,pol,Polish,0.419,Low
+14740,jav,Javanese,por,Portuguese,0.513,Low
+14744,jav,Javanese,ron,Romanian,0.74,Low
+14747,jav,Javanese,rus,Russian,0.347,Low
+14755,jav,Javanese,slk,Slovak,0.467,Low
+14756,jav,Javanese,slv,Slovenian,0.446,Low
+14760,jav,Javanese,som,Somali,0.962,Low
+14762,jav,Javanese,spa,Spanish,0.652,Low
+14766,jav,Javanese,swe,Swedish,0.493,Low
+14768,jav,Javanese,tam,Tamil,0.763,Low
+14770,jav,Javanese,tel,Telugu,1.147,Low
+14772,jav,Javanese,tgk,Tajik,1.292,Low
+14773,jav,Javanese,tgl,Tagalog,1.948,Low
+14774,jav,Javanese,tha,Thai,0.362,Low
+14779,jav,Javanese,tur,Turkish,0.963,Low
+14783,jav,Javanese,ukr,Ukrainian,0.568,Low
+14784,jav,Javanese,urd,Urdu,0.688,Low
+14787,jav,Javanese,vie,Vietnamese,0.631,Low
+14792,jav,Javanese,yor,Yoruba,0.669,Low
+14793,jav,Javanese,zsm,Standard Malay,1.982,Low
+14794,jav,Javanese,zul,Zulu,0.14,Low
+14798,jpn,Japanese,kan,Kannada,0.434,High
+14800,jpn,Japanese,kat,Georgian,0.458,High
+14801,jpn,Japanese,kaz,Kazakh,0.387,High
+14803,jpn,Japanese,khm,Khmer,0.159,Medium
+14806,jpn,Japanese,kir,Kirghiz,0.38,Medium
+14811,jpn,Japanese,kor,Korean,2.153,High
+14817,jpn,Japanese,lao,Lao,0.251,Medium
+14823,jpn,Japanese,lit,Lithuanian,1.106,High
+14828,jpn,Japanese,lug,Ganda,0.06,Medium
+14829,jpn,Japanese,luo,Luo,0.2,Medium
+14832,jpn,Japanese,mal,Malayalam,0.359,High
+14833,jpn,Japanese,mar,Marathi,0.262,High
+14839,jpn,Japanese,mkd,Macedonian,0.778,High
+14840,jpn,Japanese,mlt,Maltese,0.971,Medium
+14842,jpn,Japanese,mni,Manipuri,0.44,High
+14848,jpn,Japanese,mya,Burmese,0.214,Medium
+14857,jpn,Japanese,nld,Dutch,1.302,High
+14858,jpn,Japanese,nno,Norwegian Nynorsk,1.576,High
+14859,jpn,Japanese,nob,Norwegian Bokmål,1.259,High
+14862,jpn,Japanese,nya,Nyanja,0.07,Medium
+14867,jpn,Japanese,pan,Panjabi,0.725,High
+14873,jpn,Japanese,pol,Polish,1.023,High
+14874,jpn,Japanese,por,Portuguese,1.629,High
+14879,jpn,Japanese,ron,Romanian,1.183,High
+14882,jpn,Japanese,rus,Russian,0.851,High
+14892,jpn,Japanese,slk,Slovak,0.921,High
+14893,jpn,Japanese,slv,Slovenian,0.86,High
+14897,jpn,Japanese,sna,Shona,0.185,Low
+14898,jpn,Japanese,snd,Sindhi,0.099,Low
+14899,jpn,Japanese,som,Somali,0.093,Low
+14901,jpn,Japanese,spa,Spanish,1.219,High
+14908,jpn,Japanese,swe,Swedish,1.207,High
+14909,jpn,Japanese,tam,Tamil,0.183,High
+14911,jpn,Japanese,tel,Telugu,0.389,High
+14913,jpn,Japanese,tgk,Tajik,0.58,Medium
+14914,jpn,Japanese,tgl,Tagalog,0.543,Medium
+14915,jpn,Japanese,tha,Thai,0.352,High
+14922,jpn,Japanese,tur,Turkish,0.827,High
+14928,jpn,Japanese,ukr,Ukrainian,0.791,High
+14929,jpn,Japanese,urd,Urdu,0.486,High
+14933,jpn,Japanese,vie,Vietnamese,0.869,High
+14944,jpn,Japanese,yor,Yoruba,0.207,Medium
+14945,jpn,Japanese,yue,Yue Chinese,0.959,Medium
+14947,jpn,Japanese,zsm,Standard Malay,0.576,High
+14948,jpn,Japanese,zul,Zulu,0.224,High
+15185,kan,Kannada,kat,Georgian,0.401,High
+15186,kan,Kannada,kaz,Kazakh,0.454,Medium
+15188,kan,Kannada,khm,Khmer,0.349,Medium
+15191,kan,Kannada,kir,Kirghiz,0.412,Medium
+15196,kan,Kannada,kor,Korean,0.252,High
+15202,kan,Kannada,lao,Lao,0.374,Medium
+15208,kan,Kannada,lit,Lithuanian,0.277,High
+15212,kan,Kannada,lug,Ganda,0.096,Medium
+15213,kan,Kannada,luo,Luo,0.344,Medium
+15216,kan,Kannada,mal,Malayalam,7.619,High
+15217,kan,Kannada,mar,Marathi,2.122,High
+15222,kan,Kannada,mkd,Macedonian,0.593,High
+15223,kan,Kannada,mlt,Maltese,0.76,Medium
+15224,kan,Kannada,mni,Manipuri,1.303,High
+15229,kan,Kannada,mya,Burmese,0.103,Medium
+15236,kan,Kannada,nld,Dutch,0.565,High
+15237,kan,Kannada,nno,Norwegian Nynorsk,0.792,High
+15238,kan,Kannada,nob,Norwegian Bokmål,0.633,High
+15246,kan,Kannada,pan,Panjabi,9.201,High
+15253,kan,Kannada,pol,Polish,0.344,High
+15254,kan,Kannada,por,Portuguese,0.606,High
+15257,kan,Kannada,ron,Romanian,0.417,High
+15260,kan,Kannada,rus,Russian,0.387,High
+15269,kan,Kannada,slk,Slovak,0.296,High
+15270,kan,Kannada,slv,Slovenian,0.421,High
+15274,kan,Kannada,sna,Shona,0.117,Low
+15275,kan,Kannada,snd,Sindhi,0.221,Low
+15276,kan,Kannada,som,Somali,0.477,Low
+15278,kan,Kannada,spa,Spanish,0.444,High
+15285,kan,Kannada,swe,Swedish,0.507,High
+15287,kan,Kannada,tam,Tamil,3.392,High
+15289,kan,Kannada,tel,Telugu,9.359,High
+15291,kan,Kannada,tgk,Tajik,0.834,Medium
+15292,kan,Kannada,tgl,Tagalog,0.81,Medium
+15293,kan,Kannada,tha,Thai,0.35,High
+15299,kan,Kannada,tur,Turkish,0.571,High
+15306,kan,Kannada,ukr,Ukrainian,0.417,High
+15307,kan,Kannada,urd,Urdu,2.09,High
+15311,kan,Kannada,vie,Vietnamese,0.222,High
+15322,kan,Kannada,yor,Yoruba,0.226,Medium
+15323,kan,Kannada,zsm,Standard Malay,0.604,High
+15324,kan,Kannada,zul,Zulu,0.246,High
+15458,kat,Georgian,kaz,Kazakh,1.715,Medium
+15460,kat,Georgian,khm,Khmer,0.177,Medium
+15462,kat,Georgian,kir,Kirghiz,1.642,Medium
+15467,kat,Georgian,kor,Korean,0.187,High
+15471,kat,Georgian,lao,Lao,0.142,Medium
+15477,kat,Georgian,lit,Lithuanian,1.567,High
+15482,kat,Georgian,lug,Ganda,0.096,Medium
+15484,kat,Georgian,mal,Malayalam,0.285,High
+15485,kat,Georgian,mar,Marathi,0.197,High
+15489,kat,Georgian,mkd,Macedonian,2.165,High
+15490,kat,Georgian,mlt,Maltese,1.652,Medium
+15491,kat,Georgian,mni,Manipuri,0.367,High
+15496,kat,Georgian,mya,Burmese,0.376,Medium
+15504,kat,Georgian,nld,Dutch,1.125,High
+15506,kat,Georgian,nno,Norwegian Nynorsk,1.297,High
+15507,kat,Georgian,nob,Norwegian Bokmål,1.234,High
+15514,kat,Georgian,pan,Panjabi,0.55,High
+15522,kat,Georgian,pol,Polish,1.068,High
+15523,kat,Georgian,por,Portuguese,1.544,High
+15528,kat,Georgian,ron,Romanian,1.175,High
+15531,kat,Georgian,rus,Russian,1.372,High
+15542,kat,Georgian,slk,Slovak,0.928,High
+15543,kat,Georgian,slv,Slovenian,1.147,High
+15547,kat,Georgian,som,Somali,0.176,Low
+15549,kat,Georgian,spa,Spanish,1.163,High
+15557,kat,Georgian,swe,Swedish,1.279,High
+15560,kat,Georgian,tam,Tamil,0.165,High
+15562,kat,Georgian,tel,Telugu,0.273,High
+15564,kat,Georgian,tgk,Tajik,1.551,Medium
+15565,kat,Georgian,tgl,Tagalog,1.143,Medium
+15566,kat,Georgian,tha,Thai,0.244,High
+15573,kat,Georgian,tur,Turkish,1.454,High
+15578,kat,Georgian,ukr,Ukrainian,1.99,High
+15579,kat,Georgian,urd,Urdu,0.641,High
+15583,kat,Georgian,vie,Vietnamese,0.236,High
+15593,kat,Georgian,yor,Yoruba,0.302,Medium
+15594,kat,Georgian,zsm,Standard Malay,0.664,High
+15595,kat,Georgian,zul,Zulu,0.352,High
+15596,kaz,Kazakh,khm,Khmer,0.494,Medium
+15598,kaz,Kazakh,kir,Kirghiz,15.3,Medium
+15603,kaz,Kazakh,kor,Korean,0.188,Medium
+15608,kaz,Kazakh,lao,Lao,0.336,Medium
+15615,kaz,Kazakh,lit,Lithuanian,0.998,Medium
+15620,kaz,Kazakh,lug,Ganda,0.243,Medium
+15621,kaz,Kazakh,luo,Luo,0.297,Medium
+15622,kaz,Kazakh,mal,Malayalam,0.43,Medium
+15623,kaz,Kazakh,mar,Marathi,0.481,Medium
+15629,kaz,Kazakh,mkd,Macedonian,2.702,Medium
+15630,kaz,Kazakh,mlt,Maltese,1.489,Medium
+15631,kaz,Kazakh,mni,Manipuri,0.339,Medium
+15637,kaz,Kazakh,mya,Burmese,0.43,Medium
+15646,kaz,Kazakh,nld,Dutch,1.211,Medium
+15647,kaz,Kazakh,nno,Norwegian Nynorsk,1.12,Medium
+15648,kaz,Kazakh,nob,Norwegian Bokmål,1.097,Medium
+15655,kaz,Kazakh,pan,Panjabi,0.842,Medium
+15662,kaz,Kazakh,pol,Polish,0.935,Medium
+15663,kaz,Kazakh,por,Portuguese,1.256,Medium
+15666,kaz,Kazakh,ron,Romanian,0.879,Medium
+15669,kaz,Kazakh,rus,Russian,1.868,Medium
+15676,kaz,Kazakh,slk,Slovak,0.771,Medium
+15677,kaz,Kazakh,slv,Slovenian,0.941,Medium
+15682,kaz,Kazakh,snd,Sindhi,0.136,Low
+15683,kaz,Kazakh,som,Somali,0.595,Low
+15685,kaz,Kazakh,spa,Spanish,0.968,Medium
+15692,kaz,Kazakh,swe,Swedish,1.191,Medium
+15695,kaz,Kazakh,tam,Tamil,0.277,Medium
+15697,kaz,Kazakh,tel,Telugu,0.354,Medium
+15699,kaz,Kazakh,tgk,Tajik,4.813,Medium
+15700,kaz,Kazakh,tgl,Tagalog,1.295,Medium
+15701,kaz,Kazakh,tha,Thai,0.219,Medium
+15707,kaz,Kazakh,tur,Turkish,3.574,Medium
+15711,kaz,Kazakh,ukr,Ukrainian,2.968,Medium
+15712,kaz,Kazakh,urd,Urdu,1.137,Medium
+15715,kaz,Kazakh,vie,Vietnamese,0.313,Medium
+15724,kaz,Kazakh,yor,Yoruba,0.158,Medium
+15725,kaz,Kazakh,zsm,Standard Malay,0.853,Medium
+15726,kaz,Kazakh,zul,Zulu,0.293,Medium
+15789,khm,Khmer,kir,Kirghiz,0.609,Medium
+15794,khm,Khmer,kor,Korean,0.055,Medium
+15799,khm,Khmer,lao,Lao,1.877,Medium
+15804,khm,Khmer,lit,Lithuanian,0.171,Medium
+15809,khm,Khmer,lug,Ganda,0.124,Medium
+15810,khm,Khmer,luo,Luo,0.127,Medium
+15811,khm,Khmer,mal,Malayalam,0.635,Medium
+15812,khm,Khmer,mar,Marathi,0.642,Medium
+15818,khm,Khmer,mkd,Macedonian,0.543,Medium
+15819,khm,Khmer,mlt,Maltese,0.72,Medium
+15820,khm,Khmer,mni,Manipuri,0.222,Medium
+15825,khm,Khmer,mya,Burmese,0.317,Medium
+15832,khm,Khmer,nld,Dutch,0.292,Medium
+15833,khm,Khmer,nno,Norwegian Nynorsk,0.487,Medium
+15834,khm,Khmer,nob,Norwegian Bokmål,0.383,Medium
+15840,khm,Khmer,pan,Panjabi,0.552,Medium
+15842,khm,Khmer,pol,Polish,0.271,Medium
+15843,khm,Khmer,por,Portuguese,0.36,Medium
+15847,khm,Khmer,ron,Romanian,0.298,Medium
+15850,khm,Khmer,rus,Russian,0.23,Medium
+15858,khm,Khmer,slk,Slovak,0.282,Medium
+15859,khm,Khmer,slv,Slovenian,0.253,Medium
+15860,khm,Khmer,snd,Sindhi,0.139,Low
+15862,khm,Khmer,spa,Spanish,0.259,Medium
+15866,khm,Khmer,swe,Swedish,0.284,Medium
+15867,khm,Khmer,tam,Tamil,0.454,Medium
+15869,khm,Khmer,tel,Telugu,0.408,Medium
+15871,khm,Khmer,tgk,Tajik,0.729,Medium
+15872,khm,Khmer,tgl,Tagalog,0.827,Medium
+15873,khm,Khmer,tha,Thai,1.058,Medium
+15877,khm,Khmer,tur,Turkish,0.412,Medium
+15881,khm,Khmer,ukr,Ukrainian,0.326,Medium
+15882,khm,Khmer,urd,Urdu,0.498,Medium
+15885,khm,Khmer,vie,Vietnamese,0.587,Medium
+15891,khm,Khmer,yue,Yue Chinese,0.059,Medium
+15892,khm,Khmer,zsm,Standard Malay,0.354,Medium
+15893,khm,Khmer,zul,Zulu,0.101,Medium
+16020,kir,Kirghiz,kor,Korean,0.206,Medium
+16025,kir,Kirghiz,lao,Lao,0.362,Medium
+16032,kir,Kirghiz,lit,Lithuanian,0.712,Medium
+16037,kir,Kirghiz,lug,Ganda,0.287,Medium
+16038,kir,Kirghiz,luo,Luo,0.351,Medium
+16039,kir,Kirghiz,mal,Malayalam,0.455,Medium
+16040,kir,Kirghiz,mar,Marathi,0.649,Medium
+16046,kir,Kirghiz,mkd,Macedonian,2.638,Medium
+16047,kir,Kirghiz,mlt,Maltese,1.452,Medium
+16048,kir,Kirghiz,mni,Manipuri,0.427,Medium
+16054,kir,Kirghiz,mya,Burmese,0.521,Medium
+16062,kir,Kirghiz,nld,Dutch,1.189,Medium
+16063,kir,Kirghiz,nno,Norwegian Nynorsk,1.124,Medium
+16064,kir,Kirghiz,nob,Norwegian Bokmål,1.042,Medium
+16070,kir,Kirghiz,pan,Panjabi,1.128,Medium
+16078,kir,Kirghiz,pol,Polish,0.884,Medium
+16079,kir,Kirghiz,por,Portuguese,0.943,Medium
+16082,kir,Kirghiz,ron,Romanian,0.753,Medium
+16085,kir,Kirghiz,rus,Russian,1.673,Medium
+16093,kir,Kirghiz,slk,Slovak,0.719,Medium
+16094,kir,Kirghiz,slv,Slovenian,0.85,Medium
+16098,kir,Kirghiz,snd,Sindhi,0.192,Low
+16099,kir,Kirghiz,som,Somali,0.937,Low
+16101,kir,Kirghiz,spa,Spanish,0.82,Medium
+16107,kir,Kirghiz,swe,Swedish,0.984,Medium
+16110,kir,Kirghiz,tam,Tamil,0.313,Medium
+16112,kir,Kirghiz,tel,Telugu,0.397,Medium
+16114,kir,Kirghiz,tgk,Tajik,6.531,Medium
+16115,kir,Kirghiz,tgl,Tagalog,1.53,Medium
+16116,kir,Kirghiz,tha,Thai,0.19,Medium
+16122,kir,Kirghiz,tur,Turkish,3.616,Medium
+16126,kir,Kirghiz,ukr,Ukrainian,2.369,Medium
+16127,kir,Kirghiz,urd,Urdu,1.413,Medium
+16130,kir,Kirghiz,vie,Vietnamese,0.235,Medium
+16139,kir,Kirghiz,yor,Yoruba,0.112,Medium
+16140,kir,Kirghiz,zsm,Standard Malay,0.668,Medium
+16141,kir,Kirghiz,zul,Zulu,0.334,Medium
+16547,kor,Korean,lao,Lao,0.193,Medium
+16551,kor,Korean,lit,Lithuanian,0.419,High
+16556,kor,Korean,lug,Ganda,0.07,Medium
+16557,kor,Korean,luo,Luo,0.191,Medium
+16558,kor,Korean,mal,Malayalam,0.247,High
+16559,kor,Korean,mar,Marathi,0.234,High
+16563,kor,Korean,mkd,Macedonian,0.412,High
+16564,kor,Korean,mlt,Maltese,0.384,Medium
+16566,kor,Korean,mni,Manipuri,0.136,High
+16571,kor,Korean,mya,Burmese,0.09,Medium
+16578,kor,Korean,nld,Dutch,0.607,High
+16579,kor,Korean,nno,Norwegian Nynorsk,0.621,High
+16580,kor,Korean,nob,Norwegian Bokmål,0.484,High
+16588,kor,Korean,pan,Panjabi,0.395,High
+16592,kor,Korean,pol,Polish,0.348,High
+16593,kor,Korean,por,Portuguese,0.565,High
+16596,kor,Korean,ron,Romanian,0.37,High
+16598,kor,Korean,rus,Russian,0.374,High
+16606,kor,Korean,slk,Slovak,0.326,High
+16607,kor,Korean,slv,Slovenian,0.359,High
+16610,kor,Korean,snd,Sindhi,0.067,Low
+16611,kor,Korean,som,Somali,0.106,Low
+16613,kor,Korean,spa,Spanish,0.35,High
+16619,kor,Korean,swe,Swedish,0.528,High
+16620,kor,Korean,tam,Tamil,0.173,High
+16622,kor,Korean,tel,Telugu,0.218,High
+16624,kor,Korean,tgk,Tajik,0.339,Medium
+16625,kor,Korean,tgl,Tagalog,0.283,Medium
+16626,kor,Korean,tha,Thai,0.248,High
+16632,kor,Korean,tur,Turkish,0.383,High
+16637,kor,Korean,ukr,Ukrainian,0.381,High
+16638,kor,Korean,urd,Urdu,0.294,High
+16641,kor,Korean,vie,Vietnamese,1.764,High
+16648,kor,Korean,yor,Yoruba,0.061,Medium
+16649,kor,Korean,yue,Yue Chinese,1.088,Medium
+16651,kor,Korean,zsm,Standard Malay,0.345,High
+16652,kor,Korean,zul,Zulu,0.117,High
+17055,lao,Lao,lit,Lithuanian,0.152,Medium
+17060,lao,Lao,lug,Ganda,0.367,Medium
+17061,lao,Lao,luo,Luo,0.167,Medium
+17062,lao,Lao,mal,Malayalam,0.295,Medium
+17063,lao,Lao,mar,Marathi,0.678,Medium
+17065,lao,Lao,mkd,Macedonian,0.382,Medium
+17066,lao,Lao,mlt,Maltese,0.51,Medium
+17067,lao,Lao,mni,Manipuri,0.217,Medium
+17073,lao,Lao,mya,Burmese,0.341,Medium
+17080,lao,Lao,nld,Dutch,0.219,Medium
+17082,lao,Lao,nno,Norwegian Nynorsk,0.346,Medium
+17083,lao,Lao,nob,Norwegian Bokmål,0.264,Medium
+17090,lao,Lao,pan,Panjabi,0.415,Medium
+17092,lao,Lao,pol,Polish,0.196,Medium
+17093,lao,Lao,por,Portuguese,0.227,Medium
+17097,lao,Lao,ron,Romanian,0.232,Medium
+17100,lao,Lao,rus,Russian,0.203,Medium
+17106,lao,Lao,slk,Slovak,0.208,Medium
+17107,lao,Lao,slv,Slovenian,0.181,Medium
+17110,lao,Lao,snd,Sindhi,0.183,Low
+17112,lao,Lao,spa,Spanish,0.142,Medium
+17116,lao,Lao,swe,Swedish,0.149,Medium
+17117,lao,Lao,tam,Tamil,0.298,Medium
+17119,lao,Lao,tel,Telugu,0.288,Medium
+17121,lao,Lao,tgk,Tajik,0.632,Medium
+17122,lao,Lao,tgl,Tagalog,0.322,Medium
+17123,lao,Lao,tha,Thai,3.145,Medium
+17128,lao,Lao,tur,Turkish,0.212,Medium
+17132,lao,Lao,ukr,Ukrainian,0.342,Medium
+17133,lao,Lao,urd,Urdu,0.416,Medium
+17135,lao,Lao,vie,Vietnamese,0.309,Medium
+17141,lao,Lao,zsm,Standard Malay,0.27,Medium
+17142,lao,Lao,zul,Zulu,0.139,Medium
+17648,lit,Lithuanian,lug,Ganda,0.151,Medium
+17649,lit,Lithuanian,luo,Luo,0.244,Medium
+17652,lit,Lithuanian,mal,Malayalam,0.337,High
+17653,lit,Lithuanian,mar,Marathi,0.318,High
+17659,lit,Lithuanian,mkd,Macedonian,2.59,High
+17660,lit,Lithuanian,mlt,Maltese,1.502,Medium
+17661,lit,Lithuanian,mni,Manipuri,0.472,High
+17667,lit,Lithuanian,mya,Burmese,0.238,Medium
+17676,lit,Lithuanian,nld,Dutch,2.926,High
+17678,lit,Lithuanian,nno,Norwegian Nynorsk,2.911,High
+17679,lit,Lithuanian,nob,Norwegian Bokmål,2.742,High
+17686,lit,Lithuanian,pan,Panjabi,0.761,High
+17691,lit,Lithuanian,pol,Polish,3.078,High
+17692,lit,Lithuanian,por,Portuguese,3.825,High
+17697,lit,Lithuanian,ron,Romanian,3.028,High
+17700,lit,Lithuanian,rus,Russian,2.925,High
+17709,lit,Lithuanian,slk,Slovak,4.153,High
+17710,lit,Lithuanian,slv,Slovenian,3.633,High
+17713,lit,Lithuanian,snd,Sindhi,0.076,Low
+17714,lit,Lithuanian,som,Somali,0.137,Low
+17716,lit,Lithuanian,spa,Spanish,2.951,High
+17723,lit,Lithuanian,swe,Swedish,3.079,High
+17726,lit,Lithuanian,tam,Tamil,0.137,High
+17728,lit,Lithuanian,tel,Telugu,0.294,High
+17730,lit,Lithuanian,tgk,Tajik,0.96,Medium
+17731,lit,Lithuanian,tgl,Tagalog,1.093,Medium
+17732,lit,Lithuanian,tha,Thai,0.332,High
+17739,lit,Lithuanian,tur,Turkish,1.706,High
+17743,lit,Lithuanian,ukr,Ukrainian,2.554,High
+17744,lit,Lithuanian,urd,Urdu,0.586,High
+17747,lit,Lithuanian,vie,Vietnamese,0.461,High
+17757,lit,Lithuanian,yor,Yoruba,0.108,Medium
+17758,lit,Lithuanian,zsm,Standard Malay,1.139,High
+17759,lit,Lithuanian,zul,Zulu,0.248,High
+18155,lug,Ganda,luo,Luo,0.456,Low
+18156,lug,Ganda,mal,Malayalam,0.14,Medium
+18157,lug,Ganda,mar,Marathi,0.207,Medium
+18159,lug,Ganda,mkd,Macedonian,0.207,Medium
+18160,lug,Ganda,mlt,Maltese,0.829,Medium
+18161,lug,Ganda,mni,Manipuri,0.1,Medium
+18167,lug,Ganda,nld,Dutch,0.311,Medium
+18168,lug,Ganda,nno,Norwegian Nynorsk,0.184,Medium
+18169,lug,Ganda,nob,Norwegian Bokmål,0.145,Medium
+18174,lug,Ganda,pan,Panjabi,0.203,Medium
+18175,lug,Ganda,pol,Polish,0.231,Medium
+18176,lug,Ganda,por,Portuguese,0.088,Medium
+18178,lug,Ganda,ron,Romanian,0.139,Medium
+18181,lug,Ganda,rus,Russian,0.205,Medium
+18186,lug,Ganda,slk,Slovak,0.216,Medium
+18187,lug,Ganda,slv,Slovenian,0.145,Medium
+18189,lug,Ganda,sna,Shona,1.481,Low
+18191,lug,Ganda,spa,Spanish,0.13,Medium
+18193,lug,Ganda,swe,Swedish,0.063,Medium
+18194,lug,Ganda,tam,Tamil,0.131,Medium
+18196,lug,Ganda,tgk,Tajik,0.294,Medium
+18197,lug,Ganda,tgl,Tagalog,0.13,Medium
+18198,lug,Ganda,tha,Thai,0.076,Medium
+18202,lug,Ganda,tur,Turkish,0.082,Medium
+18205,lug,Ganda,ukr,Ukrainian,0.286,Medium
+18206,lug,Ganda,urd,Urdu,0.243,Medium
+18207,lug,Ganda,vie,Vietnamese,0.212,Medium
+18210,lug,Ganda,zsm,Standard Malay,0.133,Medium
+18211,lug,Ganda,zul,Zulu,0.107,Medium
+18213,luo,Luo,mal,Malayalam,0.565,Medium
+18214,luo,Luo,mar,Marathi,0.416,Medium
+18216,luo,Luo,mkd,Macedonian,0.298,Medium
+18217,luo,Luo,mlt,Maltese,0.689,Medium
+18218,luo,Luo,mni,Manipuri,0.305,Medium
+18226,luo,Luo,nld,Dutch,0.771,Medium
+18227,luo,Luo,nno,Norwegian Nynorsk,0.519,Medium
+18228,luo,Luo,nob,Norwegian Bokmål,0.397,Medium
+18234,luo,Luo,pan,Panjabi,0.559,Medium
+18236,luo,Luo,pol,Polish,0.447,Medium
+18237,luo,Luo,por,Portuguese,0.277,Medium
+18240,luo,Luo,ron,Romanian,0.269,Medium
+18242,luo,Luo,rus,Russian,0.286,Medium
+18247,luo,Luo,slk,Slovak,0.282,Medium
+18248,luo,Luo,slv,Slovenian,0.247,Medium
+18250,luo,Luo,snd,Sindhi,0.34,Low
+18251,luo,Luo,som,Somali,0.643,Low
+18253,luo,Luo,spa,Spanish,0.257,Medium
+18256,luo,Luo,swe,Swedish,0.345,Medium
+18258,luo,Luo,tam,Tamil,0.298,Medium
+18260,luo,Luo,tel,Telugu,0.158,Medium
+18261,luo,Luo,tgk,Tajik,0.584,Medium
+18262,luo,Luo,tgl,Tagalog,0.635,Medium
+18263,luo,Luo,tha,Thai,0.115,Medium
+18267,luo,Luo,tur,Turkish,0.372,Medium
+18270,luo,Luo,ukr,Ukrainian,0.466,Medium
+18271,luo,Luo,urd,Urdu,0.569,Medium
+18273,luo,Luo,vie,Vietnamese,0.349,Medium
+18276,luo,Luo,zsm,Standard Malay,0.288,Medium
+18277,luo,Luo,zul,Zulu,0.338,Medium
+18372,mal,Malayalam,mar,Marathi,1.82,High
+18378,mal,Malayalam,mkd,Macedonian,0.707,High
+18379,mal,Malayalam,mlt,Maltese,0.829,Medium
+18380,mal,Malayalam,mni,Manipuri,1.229,High
+18386,mal,Malayalam,mya,Burmese,0.26,Medium
+18393,mal,Malayalam,nld,Dutch,0.725,High
+18394,mal,Malayalam,nno,Norwegian Nynorsk,0.807,High
+18395,mal,Malayalam,nob,Norwegian Bokmål,0.66,High
+18398,mal,Malayalam,nya,Nyanja,0.197,Medium
+18404,mal,Malayalam,pan,Panjabi,5.428,High
+18411,mal,Malayalam,pol,Polish,0.462,High
+18412,mal,Malayalam,por,Portuguese,0.655,High
+18415,mal,Malayalam,ron,Romanian,0.403,High
+18418,mal,Malayalam,rus,Russian,0.434,High
+18426,mal,Malayalam,slk,Slovak,0.435,High
+18427,mal,Malayalam,slv,Slovenian,0.425,High
+18431,mal,Malayalam,sna,Shona,0.115,Low
+18432,mal,Malayalam,snd,Sindhi,0.313,Low
+18433,mal,Malayalam,som,Somali,0.516,Low
+18435,mal,Malayalam,spa,Spanish,0.494,High
+18441,mal,Malayalam,swe,Swedish,0.572,High
+18443,mal,Malayalam,tam,Tamil,4.771,High
+18445,mal,Malayalam,tel,Telugu,6.886,High
+18447,mal,Malayalam,tgk,Tajik,0.651,Medium
+18448,mal,Malayalam,tgl,Tagalog,0.785,Medium
+18449,mal,Malayalam,tha,Thai,0.461,High
+18455,mal,Malayalam,tur,Turkish,0.564,High
+18461,mal,Malayalam,ukr,Ukrainian,0.443,High
+18462,mal,Malayalam,urd,Urdu,1.673,High
+18466,mal,Malayalam,vie,Vietnamese,0.341,High
+18477,mal,Malayalam,yor,Yoruba,0.11,Medium
+18478,mal,Malayalam,yue,Yue Chinese,0.026,Medium
+18479,mal,Malayalam,zsm,Standard Malay,0.611,High
+18480,mal,Malayalam,zul,Zulu,0.238,High
+18486,mar,Marathi,mkd,Macedonian,0.667,High
+18487,mar,Marathi,mlt,Maltese,0.97,Medium
+18488,mar,Marathi,mni,Manipuri,0.503,Medium
+18494,mar,Marathi,mya,Burmese,0.448,Medium
+18501,mar,Marathi,nld,Dutch,0.501,High
+18502,mar,Marathi,nno,Norwegian Nynorsk,0.535,High
+18503,mar,Marathi,nob,Norwegian Bokmål,0.445,High
+18510,mar,Marathi,pan,Panjabi,2.472,High
+18516,mar,Marathi,pol,Polish,0.398,High
+18517,mar,Marathi,por,Portuguese,0.519,High
+18521,mar,Marathi,ron,Romanian,0.364,High
+18524,mar,Marathi,rus,Russian,0.336,High
+18534,mar,Marathi,slk,Slovak,0.301,High
+18535,mar,Marathi,slv,Slovenian,0.278,High
+18539,mar,Marathi,sna,Shona,0.251,Low
+18540,mar,Marathi,snd,Sindhi,0.495,Low
+18541,mar,Marathi,som,Somali,0.125,Low
+18543,mar,Marathi,spa,Spanish,0.369,High
+18549,mar,Marathi,swe,Swedish,0.366,High
+18550,mar,Marathi,tam,Tamil,0.837,High
+18552,mar,Marathi,tel,Telugu,1.473,High
+18554,mar,Marathi,tgk,Tajik,1.164,Medium
+18555,mar,Marathi,tgl,Tagalog,0.528,Medium
+18556,mar,Marathi,tha,Thai,0.429,High
+18562,mar,Marathi,tur,Turkish,0.466,High
+18567,mar,Marathi,ukr,Ukrainian,0.515,High
+18568,mar,Marathi,urd,Urdu,1.528,High
+18571,mar,Marathi,vie,Vietnamese,0.24,High
+18579,mar,Marathi,yor,Yoruba,0.147,Medium
+18580,mar,Marathi,zsm,Standard Malay,0.449,High
+18581,mar,Marathi,zul,Zulu,0.176,High
+18899,mkd,Macedonian,mlt,Maltese,2.45,Medium
+18901,mkd,Macedonian,mni,Manipuri,0.595,High
+18907,mkd,Macedonian,mya,Burmese,0.582,Medium
+18917,mkd,Macedonian,nld,Dutch,2.594,High
+18919,mkd,Macedonian,nno,Norwegian Nynorsk,3.301,High
+18920,mkd,Macedonian,nob,Norwegian Bokmål,2.824,High
+18927,mkd,Macedonian,pan,Panjabi,1.241,High
+18935,mkd,Macedonian,pol,Polish,3.977,High
+18936,mkd,Macedonian,por,Portuguese,3.065,High
+18940,mkd,Macedonian,ron,Romanian,2.705,High
+18943,mkd,Macedonian,rus,Russian,6.671,High
+18953,mkd,Macedonian,slk,Slovak,5.415,High
+18954,mkd,Macedonian,slv,Slovenian,6.812,High
+18958,mkd,Macedonian,snd,Sindhi,0.359,Low
+18959,mkd,Macedonian,som,Somali,0.427,Low
+18961,mkd,Macedonian,spa,Spanish,2.217,High
+18969,mkd,Macedonian,swe,Swedish,2.625,High
+18972,mkd,Macedonian,tam,Tamil,0.407,High
+18974,mkd,Macedonian,tel,Telugu,0.478,High
+18976,mkd,Macedonian,tgk,Tajik,2.302,Medium
+18977,mkd,Macedonian,tgl,Tagalog,1.584,Medium
+18978,mkd,Macedonian,tha,Thai,0.454,High
+18985,mkd,Macedonian,tur,Turkish,2.62,High
+18989,mkd,Macedonian,ukr,Ukrainian,7.913,High
+18990,mkd,Macedonian,urd,Urdu,1.039,High
+18994,mkd,Macedonian,vie,Vietnamese,0.465,High
+19005,mkd,Macedonian,yor,Yoruba,0.136,Medium
+19009,mkd,Macedonian,zsm,Standard Malay,0.958,High
+19010,mkd,Macedonian,zul,Zulu,0.383,High
+19011,mlt,Maltese,mni,Manipuri,0.651,Medium
+19017,mlt,Maltese,mya,Burmese,0.434,Medium
+19025,mlt,Maltese,nld,Dutch,2.575,Medium
+19026,mlt,Maltese,nno,Norwegian Nynorsk,1.985,Medium
+19027,mlt,Maltese,nob,Norwegian Bokmål,1.89,Medium
+19030,mlt,Maltese,nya,Nyanja,0.14,Low
+19036,mlt,Maltese,pan,Panjabi,1.453,Medium
+19042,mlt,Maltese,pol,Polish,1.54,Medium
+19043,mlt,Maltese,por,Portuguese,3.928,Medium
+19047,mlt,Maltese,ron,Romanian,2.287,Medium
+19050,mlt,Maltese,rus,Russian,1.575,Medium
+19059,mlt,Maltese,slk,Slovak,1.538,Medium
+19060,mlt,Maltese,slv,Slovenian,1.724,Medium
+19064,mlt,Maltese,snd,Sindhi,0.464,Low
+19065,mlt,Maltese,som,Somali,0.292,Low
+19067,mlt,Maltese,spa,Spanish,3.113,Medium
+19075,mlt,Maltese,swe,Swedish,1.89,Medium
+19077,mlt,Maltese,tam,Tamil,0.703,Medium
+19079,mlt,Maltese,tel,Telugu,0.565,Medium
+19081,mlt,Maltese,tgk,Tajik,2.235,Medium
+19082,mlt,Maltese,tgl,Tagalog,3.735,Medium
+19083,mlt,Maltese,tha,Thai,0.472,Medium
+19089,mlt,Maltese,tur,Turkish,2.213,Medium
+19096,mlt,Maltese,ukr,Ukrainian,2.06,Medium
+19097,mlt,Maltese,urd,Urdu,1.318,Medium
+19101,mlt,Maltese,vie,Vietnamese,0.452,Medium
+19109,mlt,Maltese,yor,Yoruba,0.537,Medium
+19110,mlt,Maltese,zsm,Standard Malay,1.226,Medium
+19111,mlt,Maltese,zul,Zulu,0.77,Medium
+19125,mni,Manipuri,mya,Burmese,0.236,Medium
+19131,mni,Manipuri,nld,Dutch,0.673,High
+19132,mni,Manipuri,nno,Norwegian Nynorsk,0.732,High
+19133,mni,Manipuri,nob,Norwegian Bokmål,0.573,High
+19139,mni,Manipuri,pan,Panjabi,2.16,High
+19143,mni,Manipuri,pol,Polish,0.404,High
+19144,mni,Manipuri,por,Portuguese,0.659,High
+19147,mni,Manipuri,ron,Romanian,0.387,High
+19150,mni,Manipuri,rus,Russian,0.326,High
+19158,mni,Manipuri,slk,Slovak,0.404,High
+19159,mni,Manipuri,slv,Slovenian,0.365,High
+19162,mni,Manipuri,sna,Shona,0.182,Low
+19163,mni,Manipuri,snd,Sindhi,0.101,Low
+19164,mni,Manipuri,som,Somali,0.127,Low
+19166,mni,Manipuri,spa,Spanish,0.49,High
+19170,mni,Manipuri,swe,Swedish,0.557,High
+19172,mni,Manipuri,tam,Tamil,0.768,High
+19174,mni,Manipuri,tel,Telugu,1.189,High
+19175,mni,Manipuri,tgk,Tajik,0.507,Medium
+19176,mni,Manipuri,tgl,Tagalog,0.497,Medium
+19177,mni,Manipuri,tha,Thai,0.288,High
+19182,mni,Manipuri,tur,Turkish,0.668,High
+19187,mni,Manipuri,ukr,Ukrainian,0.339,High
+19188,mni,Manipuri,urd,Urdu,1.526,High
+19192,mni,Manipuri,vie,Vietnamese,0.275,High
+19201,mni,Manipuri,zsm,Standard Malay,0.541,High
+19202,mni,Manipuri,zul,Zulu,0.18,High
+19603,mya,Burmese,nld,Dutch,0.34,Medium
+19604,mya,Burmese,nno,Norwegian Nynorsk,0.463,Medium
+19605,mya,Burmese,nob,Norwegian Bokmål,0.364,Medium
+19610,mya,Burmese,pan,Panjabi,0.276,Medium
+19612,mya,Burmese,pol,Polish,0.23,Medium
+19613,mya,Burmese,por,Portuguese,0.35,Medium
+19615,mya,Burmese,ron,Romanian,0.231,Medium
+19617,mya,Burmese,rus,Russian,0.226,Medium
+19624,mya,Burmese,slk,Slovak,0.221,Medium
+19625,mya,Burmese,slv,Slovenian,0.233,Medium
+19628,mya,Burmese,spa,Spanish,0.281,Medium
+19630,mya,Burmese,swe,Swedish,0.32,Medium
+19631,mya,Burmese,tam,Tamil,0.117,Medium
+19632,mya,Burmese,tel,Telugu,0.292,Medium
+19633,mya,Burmese,tgk,Tajik,0.328,Medium
+19634,mya,Burmese,tgl,Tagalog,0.444,Medium
+19635,mya,Burmese,tha,Thai,0.22,Medium
+19640,mya,Burmese,tur,Turkish,0.312,Medium
+19642,mya,Burmese,ukr,Ukrainian,0.443,Medium
+19643,mya,Burmese,urd,Urdu,0.427,Medium
+19646,mya,Burmese,vie,Vietnamese,0.091,Medium
+19651,mya,Burmese,yor,Yoruba,0.169,Medium
+19652,mya,Burmese,zsm,Standard Malay,0.2,Medium
+19653,mya,Burmese,zul,Zulu,0.167,Medium
+20181,nld,Dutch,nno,Norwegian Nynorsk,7.165,High
+20182,nld,Dutch,nob,Norwegian Bokmål,6.695,High
+20185,nld,Dutch,nya,Nyanja,0.052,Medium
+20190,nld,Dutch,pan,Panjabi,1.333,High
+20198,nld,Dutch,pol,Polish,2.823,High
+20199,nld,Dutch,por,Portuguese,5.537,High
+20205,nld,Dutch,ron,Romanian,4.321,High
+20208,nld,Dutch,rus,Russian,2.48,High
+20218,nld,Dutch,slk,Slovak,2.888,High
+20219,nld,Dutch,slv,Slovenian,3.023,High
+20223,nld,Dutch,snd,Sindhi,0.452,Low
+20224,nld,Dutch,som,Somali,0.906,Low
+20226,nld,Dutch,spa,Spanish,4.459,High
+20234,nld,Dutch,swe,Swedish,5.855,High
+20237,nld,Dutch,tam,Tamil,0.451,High
+20239,nld,Dutch,tel,Telugu,0.49,High
+20241,nld,Dutch,tgk,Tajik,1.298,Medium
+20242,nld,Dutch,tgl,Tagalog,1.412,Medium
+20243,nld,Dutch,tha,Thai,0.454,High
+20250,nld,Dutch,tur,Turkish,1.788,High
+20256,nld,Dutch,ukr,Ukrainian,2.225,High
+20257,nld,Dutch,urd,Urdu,1.059,High
+20261,nld,Dutch,vie,Vietnamese,0.573,High
+20272,nld,Dutch,yor,Yoruba,0.196,Medium
+20275,nld,Dutch,zsm,Standard Malay,1.301,High
+20276,nld,Dutch,zul,Zulu,0.487,High
+20298,nno,Norwegian Nynorsk,nob,Norwegian Bokmål,33.574,High
+20305,nno,Norwegian Nynorsk,pan,Panjabi,1.327,High
+20311,nno,Norwegian Nynorsk,pol,Polish,2.585,High
+20312,nno,Norwegian Nynorsk,por,Portuguese,4.204,High
+20317,nno,Norwegian Nynorsk,ron,Romanian,3.197,High
+20320,nno,Norwegian Nynorsk,rus,Russian,2.457,High
+20330,nno,Norwegian Nynorsk,slk,Slovak,2.84,High
+20331,nno,Norwegian Nynorsk,slv,Slovenian,2.716,High
+20336,nno,Norwegian Nynorsk,snd,Sindhi,0.366,Low
+20337,nno,Norwegian Nynorsk,som,Somali,0.578,Low
+20339,nno,Norwegian Nynorsk,spa,Spanish,3.343,High
+20346,nno,Norwegian Nynorsk,swe,Swedish,13.608,High
+20348,nno,Norwegian Nynorsk,tam,Tamil,0.383,High
+20350,nno,Norwegian Nynorsk,tel,Telugu,0.645,High
+20352,nno,Norwegian Nynorsk,tgk,Tajik,1.717,Medium
+20353,nno,Norwegian Nynorsk,tgl,Tagalog,1.485,Medium
+20354,nno,Norwegian Nynorsk,tha,Thai,0.479,High
+20361,nno,Norwegian Nynorsk,tur,Turkish,1.74,High
+20366,nno,Norwegian Nynorsk,ukr,Ukrainian,2.558,High
+20367,nno,Norwegian Nynorsk,urd,Urdu,1.033,High
+20371,nno,Norwegian Nynorsk,vie,Vietnamese,0.654,High
+20381,nno,Norwegian Nynorsk,yor,Yoruba,0.155,Medium
+20384,nno,Norwegian Nynorsk,zsm,Standard Malay,1.236,High
+20385,nno,Norwegian Nynorsk,zul,Zulu,0.465,High
+20392,nob,Norwegian Bokmål,pan,Panjabi,1.122,High
+20400,nob,Norwegian Bokmål,pol,Polish,2.447,High
+20401,nob,Norwegian Bokmål,por,Portuguese,3.928,High
+20406,nob,Norwegian Bokmål,ron,Romanian,3.001,High
+20409,nob,Norwegian Bokmål,rus,Russian,2.307,High
+20419,nob,Norwegian Bokmål,slk,Slovak,2.66,High
+20420,nob,Norwegian Bokmål,slv,Slovenian,2.557,High
+20425,nob,Norwegian Bokmål,snd,Sindhi,0.288,Low
+20426,nob,Norwegian Bokmål,som,Somali,0.567,Low
+20428,nob,Norwegian Bokmål,spa,Spanish,3.064,High
+20436,nob,Norwegian Bokmål,swe,Swedish,13.299,High
+20439,nob,Norwegian Bokmål,tam,Tamil,0.32,High
+20441,nob,Norwegian Bokmål,tel,Telugu,0.525,High
+20443,nob,Norwegian Bokmål,tgk,Tajik,1.463,Medium
+20444,nob,Norwegian Bokmål,tgl,Tagalog,1.394,Medium
+20445,nob,Norwegian Bokmål,tha,Thai,0.413,High
+20452,nob,Norwegian Bokmål,tur,Turkish,1.732,High
+20457,nob,Norwegian Bokmål,ukr,Ukrainian,2.365,High
+20458,nob,Norwegian Bokmål,urd,Urdu,0.843,High
+20462,nob,Norwegian Bokmål,vie,Vietnamese,0.517,High
+20473,nob,Norwegian Bokmål,yor,Yoruba,0.298,Medium
+20475,nob,Norwegian Bokmål,zsm,Standard Malay,1.199,High
+20476,nob,Norwegian Bokmål,zul,Zulu,0.385,High
+20590,nya,Nyanja,pan,Panjabi,0.071,Medium
+20593,nya,Nyanja,por,Portuguese,0.088,Medium
+20595,nya,Nyanja,ron,Romanian,0.045,Medium
+20598,nya,Nyanja,sna,Shona,0.982,Low
+20599,nya,Nyanja,snd,Sindhi,0.423,Low
+20601,nya,Nyanja,spa,Spanish,0.043,Medium
+20607,nya,Nyanja,tur,Turkish,0.174,Medium
+20609,nya,Nyanja,urd,Urdu,0.062,Medium
+20614,nya,Nyanja,zul,Zulu,0.231,Medium
+20905,pan,Panjabi,pol,Polish,0.93,High
+20906,pan,Panjabi,por,Portuguese,1.218,High
+20911,pan,Panjabi,ron,Romanian,0.818,High
+20914,pan,Panjabi,rus,Russian,0.792,High
+20925,pan,Panjabi,slk,Slovak,0.85,High
+20926,pan,Panjabi,slv,Slovenian,0.801,High
+20930,pan,Panjabi,sna,Shona,0.26,Low
+20931,pan,Panjabi,snd,Sindhi,0.913,Low
+20932,pan,Panjabi,som,Somali,0.861,Low
+20934,pan,Panjabi,spa,Spanish,0.904,High
+20941,pan,Panjabi,swe,Swedish,1.016,High
+20944,pan,Panjabi,tam,Tamil,2.095,High
+20946,pan,Panjabi,tel,Telugu,5.395,High
+20948,pan,Panjabi,tgk,Tajik,1.847,Medium
+20949,pan,Panjabi,tgl,Tagalog,0.905,Medium
+20950,pan,Panjabi,tha,Thai,0.575,High
+20957,pan,Panjabi,tur,Turkish,1.431,High
+20965,pan,Panjabi,ukr,Ukrainian,0.827,High
+20966,pan,Panjabi,urd,Urdu,8.681,High
+20970,pan,Panjabi,vie,Vietnamese,0.519,High
+20981,pan,Panjabi,yor,Yoruba,0.271,Medium
+20983,pan,Panjabi,yue,Yue Chinese,0.027,Medium
+20985,pan,Panjabi,zsm,Standard Malay,0.959,High
+20986,pan,Panjabi,zul,Zulu,0.399,High
+21263,pol,Polish,por,Portuguese,3.538,High
+21268,pol,Polish,ron,Romanian,3.065,High
+21271,pol,Polish,rus,Russian,3.883,High
+21281,pol,Polish,slk,Slovak,6.098,High
+21282,pol,Polish,slv,Slovenian,4.458,High
+21287,pol,Polish,snd,Sindhi,0.317,Low
+21288,pol,Polish,som,Somali,0.212,Low
+21290,pol,Polish,spa,Spanish,2.896,High
+21297,pol,Polish,swe,Swedish,2.616,High
+21299,pol,Polish,tam,Tamil,0.244,High
+21301,pol,Polish,tel,Telugu,0.272,High
+21303,pol,Polish,tgk,Tajik,1.122,Medium
+21304,pol,Polish,tgl,Tagalog,0.988,Medium
+21305,pol,Polish,tha,Thai,0.345,High
+21312,pol,Polish,tur,Turkish,1.525,High
+21317,pol,Polish,ukr,Ukrainian,4.498,High
+21318,pol,Polish,urd,Urdu,0.72,High
+21322,pol,Polish,vie,Vietnamese,0.404,High
+21332,pol,Polish,yor,Yoruba,0.278,Medium
+21335,pol,Polish,zsm,Standard Malay,0.933,High
+21336,pol,Polish,zul,Zulu,0.306,High
+21341,por,Portuguese,ron,Romanian,9.065,High
+21344,por,Portuguese,rus,Russian,2.92,High
+21356,por,Portuguese,slk,Slovak,3.507,High
+21357,por,Portuguese,slv,Slovenian,3.695,High
+21362,por,Portuguese,snd,Sindhi,0.35,Low
+21363,por,Portuguese,som,Somali,0.287,Low
+21365,por,Portuguese,spa,Spanish,17.414,High
+21373,por,Portuguese,swe,Swedish,3.87,High
+21375,por,Portuguese,tam,Tamil,0.422,High
+21377,por,Portuguese,tel,Telugu,0.502,High
+21379,por,Portuguese,tgk,Tajik,1.084,Medium
+21380,por,Portuguese,tgl,Tagalog,2.83,Medium
+21381,por,Portuguese,tha,Thai,0.503,High
+21388,por,Portuguese,tur,Turkish,2.176,High
+21395,por,Portuguese,ukr,Ukrainian,2.32,High
+21396,por,Portuguese,urd,Urdu,0.978,High
+21400,por,Portuguese,vie,Vietnamese,0.489,High
+21411,por,Portuguese,yor,Yoruba,0.306,Medium
+21414,por,Portuguese,zsm,Standard Malay,1.604,High
+21415,por,Portuguese,zul,Zulu,0.332,High
+21599,ron,Romanian,rus,Russian,2.509,High
+21610,ron,Romanian,slk,Slovak,3.368,High
+21611,ron,Romanian,slv,Slovenian,3.542,High
+21616,ron,Romanian,snd,Sindhi,0.165,Low
+21617,ron,Romanian,som,Somali,0.143,Low
+21619,ron,Romanian,spa,Spanish,8.428,High
+21627,ron,Romanian,swe,Swedish,3.035,High
+21629,ron,Romanian,tam,Tamil,0.253,High
+21631,ron,Romanian,tel,Telugu,0.301,High
+21633,ron,Romanian,tgk,Tajik,0.978,Medium
+21634,ron,Romanian,tgl,Tagalog,1.633,Medium
+21635,ron,Romanian,tha,Thai,0.389,High
+21642,ron,Romanian,tur,Turkish,1.775,High
+21649,ron,Romanian,ukr,Ukrainian,1.914,High
+21650,ron,Romanian,urd,Urdu,0.598,High
+21654,ron,Romanian,vie,Vietnamese,0.361,High
+21664,ron,Romanian,yor,Yoruba,0.297,Medium
+21667,ron,Romanian,zsm,Standard Malay,1.14,High
+21668,ron,Romanian,zul,Zulu,0.233,High
+21776,rus,Russian,slk,Slovak,6.566,High
+21777,rus,Russian,slv,Slovenian,5.721,High
+21782,rus,Russian,snd,Sindhi,0.212,Low
+21783,rus,Russian,som,Somali,0.251,Low
+21785,rus,Russian,spa,Spanish,2.252,High
+21793,rus,Russian,swe,Swedish,2.374,High
+21796,rus,Russian,tam,Tamil,0.216,High
+21798,rus,Russian,tel,Telugu,0.268,High
+21800,rus,Russian,tgk,Tajik,1.432,Medium
+21801,rus,Russian,tgl,Tagalog,1.17,Medium
+21802,rus,Russian,tha,Thai,0.29,High
+21809,rus,Russian,tur,Turkish,1.539,High
+21814,rus,Russian,ukr,Ukrainian,8.148,High
+21815,rus,Russian,urd,Urdu,0.723,High
+21819,rus,Russian,vie,Vietnamese,0.28,High
+21830,rus,Russian,yor,Yoruba,0.08,Medium
+21833,rus,Russian,zsm,Standard Malay,0.804,High
+21834,rus,Russian,zul,Zulu,0.252,High
+22218,slk,Slovak,slv,Slovenian,12.131,High
+22222,slk,Slovak,snd,Sindhi,0.138,Low
+22223,slk,Slovak,som,Somali,0.168,Low
+22225,slk,Slovak,spa,Spanish,3.053,High
+22233,slk,Slovak,swe,Swedish,2.866,High
+22236,slk,Slovak,tam,Tamil,0.213,High
+22238,slk,Slovak,tel,Telugu,0.246,High
+22240,slk,Slovak,tgk,Tajik,0.795,Medium
+22241,slk,Slovak,tgl,Tagalog,0.96,Medium
+22242,slk,Slovak,tha,Thai,0.33,High
+22249,slk,Slovak,tur,Turkish,1.276,High
+22253,slk,Slovak,ukr,Ukrainian,5.038,High
+22254,slk,Slovak,urd,Urdu,0.579,High
+22258,slk,Slovak,vie,Vietnamese,0.388,High
+22269,slk,Slovak,yor,Yoruba,0.13,Medium
+22272,slk,Slovak,zsm,Standard Malay,0.943,High
+22273,slk,Slovak,zul,Zulu,0.225,High
+22277,slv,Slovenian,snd,Sindhi,0.207,Low
+22278,slv,Slovenian,som,Somali,0.22,Low
+22280,slv,Slovenian,spa,Spanish,3.149,High
+22288,slv,Slovenian,swe,Swedish,2.916,High
+22291,slv,Slovenian,tam,Tamil,0.187,High
+22293,slv,Slovenian,tel,Telugu,0.308,High
+22295,slv,Slovenian,tgk,Tajik,0.883,Medium
+22296,slv,Slovenian,tgl,Tagalog,1.246,Medium
+22297,slv,Slovenian,tha,Thai,0.306,High
+22304,slv,Slovenian,tur,Turkish,1.319,High
+22310,slv,Slovenian,ukr,Ukrainian,4.113,High
+22311,slv,Slovenian,urd,Urdu,0.62,High
+22315,slv,Slovenian,vie,Vietnamese,0.418,High
+22326,slv,Slovenian,yor,Yoruba,0.089,Medium
+22330,slv,Slovenian,zsm,Standard Malay,1.108,High
+22331,slv,Slovenian,zul,Zulu,0.283,High
+22437,sna,Shona,tam,Tamil,0.124,Low
+22438,sna,Shona,tel,Telugu,0.096,Low
+22439,sna,Shona,tha,Thai,0.064,Low
+22442,sna,Shona,urd,Urdu,0.113,Low
+22445,sna,Shona,zul,Zulu,0.288,Low
+22446,snd,Sindhi,som,Somali,0.587,Low
+22448,snd,Sindhi,spa,Spanish,0.238,Low
+22453,snd,Sindhi,swe,Swedish,0.21,Low
+22455,snd,Sindhi,tam,Tamil,0.251,Low
+22457,snd,Sindhi,tel,Telugu,0.157,Low
+22458,snd,Sindhi,tgk,Tajik,0.895,Low
+22459,snd,Sindhi,tgl,Tagalog,0.291,Low
+22460,snd,Sindhi,tha,Thai,0.073,Low
+22465,snd,Sindhi,tur,Turkish,0.368,Low
+22468,snd,Sindhi,ukr,Ukrainian,0.327,Low
+22469,snd,Sindhi,urd,Urdu,1.283,Low
+22472,snd,Sindhi,vie,Vietnamese,0.153,Low
+22478,snd,Sindhi,zsm,Standard Malay,0.166,Low
+22479,snd,Sindhi,zul,Zulu,0.179,Low
+22482,som,Somali,spa,Spanish,0.336,Low
+22486,som,Somali,swe,Swedish,0.581,Low
+22488,som,Somali,tam,Tamil,0.37,Low
+22490,som,Somali,tel,Telugu,0.258,Low
+22492,som,Somali,tgk,Tajik,0.807,Low
+22493,som,Somali,tgl,Tagalog,0.495,Low
+22494,som,Somali,tha,Thai,0.122,Low
+22499,som,Somali,tur,Turkish,0.55,Low
+22501,som,Somali,ukr,Ukrainian,0.425,Low
+22502,som,Somali,urd,Urdu,0.719,Low
+22504,som,Somali,vie,Vietnamese,0.546,Low
+22510,som,Somali,zsm,Standard Malay,0.517,Low
+22511,som,Somali,zul,Zulu,0.634,Low
+22559,spa,Spanish,swe,Swedish,3.158,High
+22562,spa,Spanish,tam,Tamil,0.311,High
+22564,spa,Spanish,tel,Telugu,0.361,High
+22566,spa,Spanish,tgk,Tajik,0.861,Medium
+22567,spa,Spanish,tgl,Tagalog,2.534,Medium
+22568,spa,Spanish,tha,Thai,0.383,High
+22575,spa,Spanish,tur,Turkish,1.599,High
+22582,spa,Spanish,ukr,Ukrainian,1.767,High
+22583,spa,Spanish,urd,Urdu,0.682,High
+22587,spa,Spanish,vie,Vietnamese,0.406,High
+22598,spa,Spanish,yor,Yoruba,0.339,Medium
+22601,spa,Spanish,zsm,Standard Malay,1.351,High
+22602,spa,Spanish,zul,Zulu,0.287,High
+22777,swe,Swedish,tam,Tamil,0.257,High
+22779,swe,Swedish,tel,Telugu,0.455,High
+22781,swe,Swedish,tgk,Tajik,1.146,Medium
+22782,swe,Swedish,tgl,Tagalog,1.343,Medium
+22783,swe,Swedish,tha,Thai,0.418,High
+22790,swe,Swedish,tur,Turkish,1.892,High
+22796,swe,Swedish,ukr,Ukrainian,2.545,High
+22797,swe,Swedish,urd,Urdu,0.869,High
+22801,swe,Swedish,vie,Vietnamese,0.447,High
+22812,swe,Swedish,yor,Yoruba,0.166,Medium
+22814,swe,Swedish,zsm,Standard Malay,1.284,High
+22815,swe,Swedish,zul,Zulu,0.378,High
+22846,tam,Tamil,tel,Telugu,3.119,High
+22848,tam,Tamil,tgk,Tajik,0.443,Medium
+22849,tam,Tamil,tgl,Tagalog,0.548,Medium
+22850,tam,Tamil,tha,Thai,0.29,High
+22856,tam,Tamil,tur,Turkish,0.344,High
+22862,tam,Tamil,ukr,Ukrainian,0.27,High
+22863,tam,Tamil,urd,Urdu,0.929,High
+22867,tam,Tamil,vie,Vietnamese,0.232,High
+22878,tam,Tamil,yor,Yoruba,0.171,Medium
+22879,tam,Tamil,yue,Yue Chinese,0.026,Medium
+22880,tam,Tamil,zsm,Standard Malay,0.479,High
+22881,tam,Tamil,zul,Zulu,0.158,High
+22914,tel,Telugu,tgk,Tajik,0.763,Medium
+22915,tel,Telugu,tgl,Tagalog,0.64,Medium
+22916,tel,Telugu,tha,Thai,0.4,High
+22922,tel,Telugu,tur,Turkish,0.417,High
+22928,tel,Telugu,ukr,Ukrainian,0.339,High
+22929,tel,Telugu,urd,Urdu,1.604,High
+22933,tel,Telugu,vie,Vietnamese,0.127,High
+22942,tel,Telugu,yor,Yoruba,0.089,Medium
+22943,tel,Telugu,yue,Yue Chinese,0.022,Medium
+22944,tel,Telugu,zsm,Standard Malay,0.484,High
+22945,tel,Telugu,zul,Zulu,0.178,High
+22966,tgk,Tajik,tgl,Tagalog,1.868,Medium
+22967,tgk,Tajik,tha,Thai,0.326,Medium
+22973,tgk,Tajik,tur,Turkish,2.886,Medium
+22977,tgk,Tajik,ukr,Ukrainian,2.579,Medium
+22978,tgk,Tajik,urd,Urdu,2.743,Medium
+22981,tgk,Tajik,vie,Vietnamese,0.47,Medium
+22990,tgk,Tajik,yor,Yoruba,0.104,Medium
+22991,tgk,Tajik,zsm,Standard Malay,1.043,Medium
+22992,tgk,Tajik,zul,Zulu,0.39,Medium
+22993,tgl,Tagalog,tha,Thai,0.299,Medium
+22999,tgl,Tagalog,tur,Turkish,1.582,Medium
+23006,tgl,Tagalog,ukr,Ukrainian,1.481,Medium
+23007,tgl,Tagalog,urd,Urdu,1.007,Medium
+23010,tgl,Tagalog,vie,Vietnamese,0.467,Medium
+23019,tgl,Tagalog,yor,Yoruba,0.321,Medium
+23020,tgl,Tagalog,zsm,Standard Malay,1.714,Medium
+23021,tgl,Tagalog,zul,Zulu,0.424,Medium
+23027,tha,Thai,tur,Turkish,0.297,High
+23032,tha,Thai,ukr,Ukrainian,0.339,High
+23033,tha,Thai,urd,Urdu,0.47,High
+23037,tha,Thai,vie,Vietnamese,0.228,High
+23046,tha,Thai,yor,Yoruba,0.13,Medium
+23047,tha,Thai,yue,Yue Chinese,0.031,Medium
+23049,tha,Thai,zsm,Standard Malay,0.314,High
+23050,tha,Thai,zul,Zulu,0.089,High
+23158,tur,Turkish,ukr,Ukrainian,1.736,High
+23159,tur,Turkish,urd,Urdu,1.327,High
+23162,tur,Turkish,vie,Vietnamese,0.55,High
+23171,tur,Turkish,yor,Yoruba,0.293,Medium
+23172,tur,Turkish,yue,Yue Chinese,0.062,Medium
+23174,tur,Turkish,zsm,Standard Malay,1.223,High
+23175,tur,Turkish,zul,Zulu,0.373,High
+23222,ukr,Ukrainian,urd,Urdu,0.859,High
+23226,ukr,Ukrainian,vie,Vietnamese,0.451,High
+23237,ukr,Ukrainian,yor,Yoruba,0.251,Medium
+23240,ukr,Ukrainian,zsm,Standard Malay,0.82,High
+23241,ukr,Ukrainian,zul,Zulu,0.433,High
+23244,urd,Urdu,vie,Vietnamese,0.438,High
+23253,urd,Urdu,yor,Yoruba,0.081,Medium
+23255,urd,Urdu,yue,Yue Chinese,0.048,Medium
+23256,urd,Urdu,zsm,Standard Malay,0.829,High
+23257,urd,Urdu,zul,Zulu,0.351,High
+23295,vie,Vietnamese,yue,Yue Chinese,0.778,Medium
+23297,vie,Vietnamese,zsm,Standard Malay,0.364,High
+23298,vie,Vietnamese,zul,Zulu,0.162,High
+23342,yor,Yoruba,zsm,Standard Malay,0.162,Medium
+23343,yor,Yoruba,zul,Zulu,0.148,Medium
+23346,yue,Yue Chinese,zsm,Standard Malay,0.017,Medium
+23348,zsm,Standard Malay,zul,Zulu,0.242,High

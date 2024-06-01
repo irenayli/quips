@@ -6,6 +6,8 @@
 #
 --extra-index-url https://download.pytorch.org/whl/cpu
 
+accelerate==0.30.1
+    # via -r requirements.in
 blinker==1.8.2
     # via flask
 certifi==2024.2.2
@@ -29,6 +31,7 @@ fsspec==2024.5.0
     #   torch
 huggingface-hub==0.23.2
     # via
+    #   accelerate
     #   tokenizers
     #   transformers
 idna==3.7
@@ -49,18 +52,31 @@ networkx==3.3
     # via torch
 numpy==1.26.4
     # via
+    #   -r requirements.in
+    #   accelerate
     #   fasttext
+    #   pandas
     #   transformers
 packaging==24.0
     # via
+    #   accelerate
     #   huggingface-hub
     #   transformers
+pandas==2.2.2
+    # via -r requirements.in
 protobuf==5.27.0
     # via -r requirements.in
+psutil==5.9.8
+    # via accelerate
 pybind11==2.12.0
     # via fasttext
+python-dateutil==2.9.0.post0
+    # via pandas
+pytz==2024.1
+    # via pandas
 pyyaml==6.0.1
     # via
+    #   accelerate
     #   huggingface-hub
     #   transformers
 regex==2024.5.15
@@ -70,15 +86,21 @@ requests==2.32.3
     #   huggingface-hub
     #   transformers
 safetensors==0.4.3
-    # via transformers
+    # via
+    #   accelerate
+    #   transformers
 sentencepiece==0.2.0
     # via -r requirements.in
+six==1.16.0
+    # via python-dateutil
 sympy==1.12.1
     # via torch
 tokenizers==0.19.1
     # via transformers
-torch==2.3.0+cpu
-    # via -r requirements.in
+torch==2.3.0
+    # via
+    #   -r requirements.in
+    #   accelerate
 tqdm==4.66.4
     # via
     #   huggingface-hub
@@ -89,6 +111,8 @@ typing-extensions==4.12.0
     # via
     #   huggingface-hub
     #   torch
+tzdata==2024.1
+    # via pandas
 urllib3==2.2.1
     # via requests
 werkzeug==3.0.3

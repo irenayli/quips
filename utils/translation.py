@@ -9,7 +9,7 @@ from transformers import AutoProcessor, SeamlessM4TForTextToText
 log = logging.getLogger(__name__)
 
 
-DEVICE = 'cuda'
+DEVICE = 'cpu'
 LID_MODEL_ID = 'facebook/fasttext-language-identification'
 TRANSLATION_MODEL_ID = 'facebook/hf-seamless-m4t-large'
 

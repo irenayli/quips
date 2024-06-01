@@ -58,7 +58,7 @@ def index():
     return render_template('index.html')
 
 @app.route('/api/translate/', methods=['POST'])
-def translate():
+def handle_translate():
     data = request.form
 
     request_error = None

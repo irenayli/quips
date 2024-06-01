@@ -4,11 +4,12 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" type="text/css" href="style.css">
+    <script src="app.js"></script>
     <title>quips</title>
 </head>
 <body>
     <h1>translate?</h1>
-        <form action="/api/translate/" method="POST" class="translate">
+        <form class="translate">
           <input type="text" name="text" value="{{ request.args.get('text', '') }}"/>
           <div class="target">input text</div>
           <input type="text" name="target_lang" value="{{ request.args.get('target_lang', '') }}"/>

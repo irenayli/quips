@@ -60,7 +60,7 @@ def index():
 
 @app.route('/api/translate/', methods=['POST'])
 def handle_translate():
-    data = request.form
+    data = request.get_json()
 
     request_error = None
     if 'text' not in data:

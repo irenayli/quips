@@ -1,7 +1,9 @@
 from flask import Flask, request, jsonify, render_template
 import csv
 
-app = Flask(__name__)
+app = Flask(__name__,
+            static_url_path='',
+            static_folder='static')
 
 # Load language similarities
 iso_to_lang = {}
@@ -50,11 +52,11 @@ print(get_language_name('spa'))
 
 print(get_similar_language('eng', 0.5))
 
-@app.route('/')
+@app.route('/', methods=["GET"])
 def index():
     return render_template('index.html')
 
-@app.route('/api/translate', methods=['POST'])
+@app.route('/api/translate/', methods=['POST'])
 def translate():
     data = request.get_json()
 
@@ -70,7 +72,3 @@ def translate():
         return jsonify({'error': request_error}), 400
     
     return jsonify({'text': data['text']})
-
-
-if __name__ == '__main__':
-    app.run(debug=True)

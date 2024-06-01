@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <title>quips</title>
+</head>
+<body>
+    <h1>translate?</h1>
+        <form action="/api/translate/" method="POST" class="translate">
+          <input type="text" name="text" value="{{ request.args.get('text', '') }}"/>
+          <div class="target">input text</div>
+          <input type="text" name="target_lang" value="{{ request.args.get('target_lang', '') }}"/>
+          <div class="target">target language</div>
+          <input type="range" name="correlation" id="correlation" min="3" max="80" step="0.7" value="{{ request.args.get('correlation', '29.3') }}" />
+          <div class="slider">similarity to target language</div>
+          <input type="submit" value="Translate"/>
+        </form>
+        <div class="res">
+
+        </div>
+</body>
+</html>

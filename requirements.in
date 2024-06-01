@@ -1,0 +1,9 @@
+flask==3.0.3
+
+
+# translation
+fasttext
+transformers
+accelerate
+sentencepiece
+protobuf

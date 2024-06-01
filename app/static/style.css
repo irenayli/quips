@@ -1,0 +1,88 @@
+body {
+    font-family: "UnifrakturMaguntia", cursive;
+    margin: 10%;
+    padding: 2em;
+    box-sizing: border-box;
+    font-size: 16px;
+    background: linear-gradient(to right, #f7f8fa, #cfd9df);
+    color: #333;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 1em;
+}
+
+main {
+    box-sizing: border-box;
+    width: 100%;
+}
+
+.box {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 2px;
+    box-sizing: border-box;
+    padding: 1em;
+    background-color: #ffffff;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.input, .target, .slider {
+    display: grid;
+}
+
+form {
+    display: grid;
+    padding-top: 1em;
+    margin-bottom: 1em;
+    gap: 1em;
+}
+
+select {
+    background-color: #ffffff;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 0.5em;
+    font-size: 14px;
+    color: #333;
+}
+
+button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 0.5em 1em;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    font-family: "UnifrakturMaguntia", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+
+input[type="text"], textarea {
+    width: 100%;
+    padding: 0.5em;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 14px;
+    margin-bottom: 1em;
+}
+
+footer {
+    margin-top: 2em;
+    text-align: center;
+    font-size: 12px;
+    color: #777;
+}

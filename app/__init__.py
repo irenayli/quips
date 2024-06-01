@@ -83,5 +83,7 @@ def handle_translate():
         target_language=target_lang,
         source_language=source_lang
     )
+
+    print(f"text={data['text']}\n target_language={target_lang} \nsource_language={source_lang} \nresult={result}")
     
     return jsonify({'result': result})

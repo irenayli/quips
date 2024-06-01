@@ -77,19 +77,20 @@ def handle_translate():
     print ("Detected source language:", source_lang)
     print("Requested target language:", data['target_lang'])
 
-    target_lang = get_target_language(
+    suboptimal_target_lang = get_target_language(
         slider_value=float(data['correlation']),
-        source_language=data['target_lang']
+        src_lang=source_lang,
+        req_target_lang=data['target_lang']
     )
 
-    print("Suboptimal target language:", target_lang)
+    print("Suboptimal target language:", suboptimal_target_lang)
     
     result = translate(
         text=data['text'],
-        target_language=target_lang,
+        target_language=suboptimal_target_lang,
         source_language=source_lang
     )
 
-    print(f"text={data['text']}\n target_language={target_lang} \nsource_language={source_lang} \nresult={result}")
+    print(f"text={data['text']}\n target_language={suboptimal_target_lang} \nsource_language={source_lang} \nresult={result}")
     
     return jsonify({'result': result})

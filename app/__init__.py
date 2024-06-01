@@ -71,12 +71,18 @@ def handle_translate():
         request_error = 'No "correlation" (closeness to target language) provided'
     if request_error:
         return jsonify({'error': request_error}), 400
-    
+
     source_lang = identify_language(data['text'])
+
+    print ("Detected source language:", source_lang)
+    print("Requested target language:", data['target_lang'])
+
     target_lang = get_target_language(
         slider_value=float(data['correlation']),
         source_language=data['target_lang']
     )
+
+    print("Suboptimal target language:", target_lang)
     
     result = translate(
         text=data['text'],

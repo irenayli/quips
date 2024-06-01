@@ -1,13 +1,16 @@
-let form;
+let form,
+  loadingSpinner;
 
 document.addEventListener('DOMContentLoaded', (event) => {
   form = document.querySelector('form')
+  loadingSpinner = document.querySelector('.loadingSpinner')
   form.addEventListener('submit', handleSubmit)
 });
 
 async function handleSubmit(ev) {
   ev.preventDefault()
   const { target } = ev
+  loadingSpinner.style.display = 'block'
   const res = await fetch('/api/translate', {
     method: 'POST',
     headers: {
@@ -20,5 +23,6 @@ async function handleSubmit(ev) {
     })
   })
   .then(res => res.json())
+  loadingSpinner.style.display = 'none'
   document.querySelector('.res').innerText = res.result
 }

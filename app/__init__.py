@@ -75,7 +75,7 @@ def handle_translate():
     source_lang = identify_language(data['text'])
     target_lang = get_target_language(
         slider_value=float(data['correlation']),
-        source_language=source_lang
+        source_language=data['target_lang']
     )
     
     result = translate(
